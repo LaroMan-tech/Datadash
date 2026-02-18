@@ -1,0 +1,5 @@
+workload per status per afdeling
+
+Waiting for return, closed, return to dealer with next order, open, send spare return old 777, send free spare 778, send paid = Technical support
+Credit = Financial
+Repair, Dissasembly = Repair 
