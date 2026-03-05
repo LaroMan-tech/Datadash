@@ -1,0 +1,172 @@
+Subject: Lift Support UP-004410 at 2025-08-18
+From: Givemore Service
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-08-18 14:48:25
+
+*********************************************************************** 
+UP-004410
+*********************************************************************** 
+Software Main: V 2.4.7.4    CRC: 0x131A
+Software Chair: V 1.0.3.0    CRC: 0x64CB
+Software Safety: V 3.33    CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0  |W| 32 0 0 0 
+Warnung Identifikations nr: 29-Eeprom_CRC falsch
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+System
+Temperature: 28
+Rail Checksum: 44 | 44
+Current Live: 0
+Current Peak: 18
+Supply Battery: 245
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 19839
+Total: 3611992cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 1
+Raw: 33245
+Cal: 32816
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1004
+Channels: 1004
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 70
+Current Peak: 490
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 4
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:12
+P0| (1) Start   (0-60)  Value: 60
+P1| (10) Straight   (1-165)  Value: 421
+P2| (41) Downward   (0-4)  Value: 4
+P3| (10) Straight   (5-47)  Value: 1327
+P4| (45) Downward   (0-8)  Value: 8
+P5| (10) Straight   (2-64)  Value: 576
+P6| (66) Horizontal   (0-9)  Value: 9
+P7| (10) Straight   (0-100)  Value: 100
+P8| (66) Horizontal   (0-9)  Value: 9
+P9| (10) Straight   (4-177)  Value: 1201
+P10| (75) Horizontal   (0-18)  Value: 18
+P11| (10) Straight   (0-145)  Value: 145
+P12| (26) Upward   (0-9)  Value: 9
+P13| (10) Straight   (4-29)  Value: 1053
+P14| (46) Downward   (0-9)  Value: 9
+P15| (10) Straight   (1-6)  Value: 262
+P16| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 2 Set Warnung Identifikations nr: 13-Armlehne nicht in Position
+entry: 1 Clear Warnung Identifikations nr: 13-Armlehne nicht in Position
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 19851 Swivel Right  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name =                     ���������������
+Address =                     ���������������
+Postal =                     ���������������
+City =                     ���������������
+Country =                     ���������������
+Phone = 1016                ���������������
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:500] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:10] [1:944] [2:2207] [3:3103] 
+*********************************************************************** 
+Suppression Warnings:     0xFFFFFFFF
+Suppression Errors:       0xFFFFFFFF
+Suppression Safeties:     0xFFFFFFFF
+*********************************************************************** 
+*********************************************************************** 
+ 

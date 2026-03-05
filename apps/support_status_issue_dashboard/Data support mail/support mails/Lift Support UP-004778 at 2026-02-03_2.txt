@@ -1,0 +1,183 @@
+Subject: Lift Support UP-004778 at 2026-02-03
+From: Étienne SENECLAUZE
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2026-02-03 15:32:10
+
+***********************************************************************
+UP-004778
+***********************************************************************
+App version: V11.1.562
+App type: release
+App version code: 562
+Software Main: V 2.4.8.4 CRC: 0x27F4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.3.3.0 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Étienne
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 37
+Rail Checksum: 17 | 17
+Current Live: 216
+Current Peak: 20034
+Supply Battery: 256
+Supply Chair: 134Supply Logic: 56Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 18496
+Total: 962978cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 9380
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: false | false
+Angle: 0
+Raw: 33723
+Cal: 33582
+Current: 240
+Current Peak: 3170
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1001
+Channels: true | true
+Compass: 100
+Current: 0
+Current Peak: 2670
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 240
+Current Peak: 1540
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: No Orientation Defined
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 50
+TimeAlive Hours: 4
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:98
+P0| (1) Start (0-55) Value: 55
+P1| (10) Straight (4-13) Value: 1037
+P2| (48) Downward (0-11) Value: 11
+P3| (10) Straight (0-25) Value: 25
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-75) Value: 75
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-33) Value: 33
+P8| (26) Upward (0-9) Value: 9
+P9| (10) Straight (11-169) Value: 2985
+P10| (46) Downward (0-9) Value: 9
+P11| (10) Straight (0-250) Value: 250
+P12| (66) Horizontal (0-9) Value: 9
+P13| (10) Straight (0-179) Value: 179
+P14| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 15 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 14 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Set Warning Identification nr: 12-Communication Timed Out
+entry: 12 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 11 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 10 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 9 Set Warning Identification nr: 12-Communication Timed Out
+entry: 8 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 7 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 6 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Set Warning Identification nr: 12-Communication Timed Out
+entry: 4 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 3 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 2 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 1 Set Warning Identification nr: 12-Communication Timed Out
+entry: 101 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 100 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 99 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 98 Set Warning Identification nr: 12-Communication Timed Out
+entry: 97 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 96 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 95 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 94 Set Warning Identification nr: 12-Communication Timed Out
+entry: 93 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 92 Set Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+NR: 0 Enc: 425 No Swivel No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 18506 Swivel Right No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone =
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:807] [2:2064] [3:3007]
+***********************************************************************
+Latitude: 49.27417332
+Longitude: 4.01905827
+***********************************************************************
+Date & Time (tablet): 2026-02-03 15:31:23
+***********************************************************************
+App session length: 329m 25s
+***********************************************************************
+Location session length: 2m 42s
+*********************************************************************** 
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 

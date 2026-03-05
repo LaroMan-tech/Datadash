@@ -1,0 +1,191 @@
+Subject: Lift Maintenance UP-005329 at 2025-07-08
+From: Julien PRODAULT
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-07-08 16:55:15
+
+*********************************************************************** 
+
+UP-005329
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x2C4C
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: PRODAULT 
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 39
+Rail Checksum: 105 | 105
+Current Live: 0
+Current Peak: 7434
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 9450
+Total: 389307cm
+Channels: true | false
+FrictionWheel: false
+Current: 0
+Current Peak: 3730
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32399
+Cal: 32573
+Current: 0
+Current Peak: 4490
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 25
+TimeAlive Hours: 10
+TimeAlive days: 50
+*********************************************************************** 
+Lift type: Construction droite
+Skip:false
+Length:3
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-164) Value: 164
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (6-177) Value: 1713
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (2-25) Value: 537
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-100) Value: 100
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-253) Value: 253
+P10| (26) Upward (0-9) Value: 9
+P11| (10) Straight (8-231) Value: 2279
+P12| (46) Downward (0-9) Value: 9
+P13| (10) Straight (1-218) Value: 474
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-165) Value: 165
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (2-110) Value: 622
+P18| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 23 Set Warning Identification nr: 4-Not Charging
+entry: 22 Set Warning Identification nr: 22-Safety Motor Down Pressed
+entry: 21 Clear Warning Identification nr: 22-Safety Motor Down Pressed
+entry: 20 Set Warning Identification nr: 22-Safety Motor Down Pressed
+entry: 19 Clear Warning Identification nr: 22-Safety Motor Down Pressed
+entry: 18 Clear Warning Identification nr: 4-Not Charging
+entry: 6 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Set Warning Identification nr: 4-Not Charging
+entry: 4 Clear Warning Identification nr: 4-Not Charging
+entry: 3 Set Warning Identification nr: 4-Not Charging
+entry: 2 Clear Warning Identification nr: 4-Not Charging
+entry: 1 Set Warning Identification nr: 4-Not Charging
+entry: 101 Clear Warning Identification nr: 4-Not Charging
+entry: 100 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 99 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 98 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 97 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 96 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 95 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 94 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 17 Set Warning Identification nr: 4-Not Charging
+entry: 16 Clear Warning Identification nr: 4-Not Charging
+entry: 15 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 14 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Set Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Enc: 9437 No Swivel Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:65] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:153] [1:1031] [2:2302] [3:3151] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+*********************************************************************** 
+
+Télécharger Outlook pour Android <https://aka.ms/AAb9ysg> 

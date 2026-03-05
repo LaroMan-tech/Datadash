@@ -1,0 +1,197 @@
+Subject: Lift Maintenance UP-004187 at 2025-08-28
+From: Gregor Jaul
+To: Support DeVi-Stairlifts
+CC: Innolift Treppenlifte
+Date: 2025-08-28 10:19:48
+
+***********************************************************************
+UP-004187
+***********************************************************************
+App version: V11.0.469
+App type: release
+App version code: 469
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.3.0 CRC: 0x64CB
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Jaul Gregor
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 31
+Rail Checksum: 158 | 158
+Current Live: 0
+Current Peak: 21204
+Supply Battery: 262
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 17835
+Total: 437090cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 10520
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 32563
+Cal: 32793
+Current: 0
+Current Peak: 5250
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 580
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 140
+Current Peak: 1440
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 10
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:76
+P0| (1) Start (0-30) Value: 30
+P1| (10) Straight (8-95) Value: 2143
+P2| (23) Upward (0-6) Value: 6
+P3| (10) Straight (0-200) Value: 200
+P4| (49) Downward (0-12) Value: 12
+P5| (10) Straight (0-25) Value: 25
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-99) Value: 99
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-41) Value: 41
+P10| (24) Upward (0-7) Value: 7
+P11| (10) Straight (6-112) Value: 1648
+P12| (44) Downward (0-7) Value: 7
+P13| (10) Straight (1-134) Value: 390
+P14| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 7 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 6 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 5 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 4 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 3 Set Warning Identification nr: 4-Not Charging
+entry: 2 Clear Warning Identification nr: 4-Not Charging
+entry: 1 Set Warning Identification nr: 4-Not Charging
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 728 Swivel Right Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 17847 Swivel Left Charge Station
+***********************************************************************
+Offset Bottom Station: 150
+Offset Top Station: 130
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 1016
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:45]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:936] [2:2251] [3:3200]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+
+Unchecked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+***********************************************************************
+
+
+_______________________________
+Gregor Jaul
+Technik
+
+Tel.:     +43 2743 93081
+Mobil: +43 676 6051519
+Mail:    g.jaul@inno-lift.eu
+Web:    www.inno-lift.eu • www.innolift-treppenlifte.at
+
+Innolift e.U. • Mauterheim 24 • 3140 Böheimkirchen
+HG: St. Pölten • FN: 589906i • UID: ATU78576667 

@@ -1,0 +1,177 @@
+Subject: Lift Maintenance UP-001711 at 2025-11-17
+From: Max Kropfl
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-11-17 11:36:05
+
+***********************************************************************
+UP-001711
+***********************************************************************
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x136
+Code of the day active: No
+Code of the day extra active: No
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Zan Habjanic
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 37
+Rail Checksum: 105 | 105
+Current Live: 1098
+Current Peak: 13968
+Supply Battery: 250
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 31128
+Total: 1156491cm
+Channels: false | true
+FrictionWheel: false
+Current: 120
+Current Peak: 6420
+Current Brake: 216
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 33228
+Cal: 33160
+Current: 220
+Current Peak: 6780
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 150
+Current Peak: 150
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 120
+Current Peak: 680
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 33
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:72
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (7-247) Value: 2039
+P2| (23) Upward (0-6) Value: 6
+P3| (10) Straight (21-107) Value: 5483
+P4| (43) Downward (0-6) Value: 6
+P5| (10) Straight (6-118) Value: 1654
+P6| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 67 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 66 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 65 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 64 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 63 Set Warning Identification nr: 4-Not Charging
+entry: 62 Clear Warning Identification nr: 4-Not Charging
+entry: 61 Set Warning Identification nr: 4-Not Charging
+entry: 60 Clear Warning Identification nr: 4-Not Charging
+entry: 59 Set Warning Identification nr: 4-Not Charging
+entry: 58 Clear Warning Identification nr: 4-Not Charging
+entry: 57 Set Warning Identification nr: 4-Not Charging
+entry: 56 Clear Warning Identification nr: 4-Not Charging
+entry: 55 Set Warning Identification nr: 4-Not Charging
+entry: 54 Clear Warning Identification nr: 4-Not Charging
+entry: 53 Set Warning Identification nr: 4-Not Charging
+entry: 52 Clear Warning Identification nr: 4-Not Charging
+entry: 51 Set Warning Identification nr: 4-Not Charging
+entry: 50 Clear Warning Identification nr: 4-Not Charging
+entry: 49 Set Warning Identification nr: 4-Not Charging
+entry: 48 Clear Warning Identification nr: 4-Not Charging
+entry: 47 Set Warning Identification nr: 4-Not Charging
+entry: 46 Clear Warning Identification nr: 4-Not Charging
+entry: 45 Set Warning Identification nr: 4-Not Charging
+entry: 44 Clear Warning Identification nr: 4-Not Charging
+entry: 43 Set Warning Identification nr: 4-Not Charging
+***********************************************************************
+NR: 0 Enc: 442 No Swivel No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 31130 No Swivel No Addon
+***********************************************************************
+Offset Bottom Station: 65
+Offset Top Station: 64
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 1016
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:21] [1:882] [2:2063] [3:2943]
+***********************************************************************
+Latitude: 46.1342612
+Longitude: 14.9961999
+***********************************************************************
+Date & Time (tablet): 2025-11-17 11:35:45
+***********************************************************************
+App session length: 42m 3s
+***********************************************************************
+Location session length: 42m 3s
+*********************************************************************** 
+
+Poslano iz Outlook za Android <https://aka.ms/AAb9ysg> 

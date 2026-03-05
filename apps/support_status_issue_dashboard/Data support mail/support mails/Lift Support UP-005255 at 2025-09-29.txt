@@ -1,0 +1,196 @@
+Subject: Lift Support UP-005255 at 2025-09-29
+From: SWEE HIN
+To: Support DeVi-Stairlifts
+CC: sweehinae@gmail.com
+Date: 2025-09-29 10:23:26
+
+***********************************************************************
+UP-005255
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-255
+***********************************************************************
+Mechanic: KYAW WIN HLAING
+Extra notes from the mechanic:
+
+The chair was tilted at a 5-degree angle and stop. The chair was returned to a vertical, upright position. The rail configuration was redone, and the chairlift was restored to normal operation.
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 436
+Total: 539859cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 1810
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 12761
+Channels: 12761
+Angle: 0
+Raw: 33244
+Cal: 33273
+Current: 0
+Current Peak: 1530
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 5
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:34
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (0-215) Value: 215
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (8-87) Value: 2135
+P4| (22) Upward (0-5) Value: 5
+P5| (10) Straight (2-183) Value: 695
+P6| (49) Downward (0-12) Value: 12
+P7| (10) Straight (0-26) Value: 26
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-35) Value: 35
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-35) Value: 35
+P12| (24) Upward (0-7) Value: 7
+P13| (10) Straight (7-74) Value: 1866
+P14| (20) Upward (0-3) Value: 3
+P15| (10) Straight (1-86) Value: 342
+P16| (47) Downward (0-10) Value: 10
+P17| (10) Straight (0-86) Value: 86
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (0-166) Value: 166
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (0-25) Value: 25
+P22| (26) Upward (0-9) Value: 9
+P23| (10) Straight (10-120) Value: 2680
+P24| (46) Downward (0-9) Value: 9
+P25| (10) Straight (0-25) Value: 25
+P26| (75) Horizontal (0-18) Value: 18
+P27| (10) Straight (0-242) Value: 242
+P28| (75) Horizontal (0-18) Value: 18
+P29| (10) Straight (0-25) Value: 25
+P30| (24) Upward (0-7) Value: 7
+P31| (10) Straight (7-7) Value: 1799
+P32| (44) Downward (0-7) Value: 7
+P33| (10) Straight (3-232) Value: 1000
+P34| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 8 Set Warning Identification nr: 4-Not Charging
+entry: 7 Clear Warning Identification nr: 4-Not Charging
+entry: 6 Set Warning Identification nr: 4-Not Charging
+entry: 5 Clear Warning Identification nr: 4-Not Charging
+entry: 4 Set Warning Identification nr: 4-Not Charging
+entry: 3 Clear Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 4-Not Charging
+entry: 1 Clear Warning Identification nr: 4-Not Charging
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 70
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:212] [1:1102] [2:2335] [3:3214]
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

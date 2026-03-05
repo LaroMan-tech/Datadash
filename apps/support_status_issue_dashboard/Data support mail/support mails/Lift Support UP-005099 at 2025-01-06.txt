@@ -1,0 +1,186 @@
+Subject: Lift Support UP-005099 at 2025-01-06
+From: fayaz
+To: Support DeVi-Stairlifts
+CC: nazia@247medicalequipment.com
+Date: 2025-01-06 13:43:46
+
+*********************************************************************** 
+
+UP-005099
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 215
+Software Main: V 2.4.8.2 CRC: 0xB9F4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 128 0 128 |W| 0 128 0 129 
+Error Identification nr: 7-Spindle Encoder Failure
+Error Identification nr: 23-Chair 5 Degree Violation
+Warning Identification nr: 0-Tilt Sensor Too Tilted
+Warning Identification nr: 7-Chair Error Too High
+Warning Identification nr: 23-KeySwitch Active
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: fayaz ali
+Extra notes from the mechanic: 
+spindle fault
+
+*********************************************************************** 
+System
+Temperature: 37
+Rail Checksum: 21 | 21
+Current Live: 0
+Current Peak: 19026
+Supply Battery: 245
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 403
+Total: 514409cm
+Channels: true | false
+FrictionWheel: false
+Current: 0
+Current Peak: 10020
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 7
+Raw: 31039
+Cal: 33160
+Current: 0
+Current Peak: 4580
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 1500
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1470
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 36
+TimeAlive Hours: 2
+TimeAlive days: 1
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:20
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-190) Value: 190
+P2| (44) Downward (0-7) Value: 7
+P3| (10) Straight (4-88) Value: 1112
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (0-25) Value: 25
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-26) Value: 26
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (15-111) Value: 3951
+P10| (44) Downward (0-7) Value: 7
+P11| (10) Straight (1-9) Value: 265
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (0-27) Value: 27
+P14| (24) Upward (0-7) Value: 7
+P15| (10) Straight (5-141) Value: 1421
+P16| (44) Downward (0-7) Value: 7
+P17| (10) Straight (0-132) Value: 132
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (1-64) Value: 320
+P20| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 101 Set Warning Identification nr: 12-Communication Timed Out
+entry: 100 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 99 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 98 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 97 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 96 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 95 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 94 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 93 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 92 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 91 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 90 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 89 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 88 Set Warning Identification nr: 4-Not Charging
+entry: 87 Clear Warning Identification nr: 4-Not Charging
+entry: 86 Clear Warning Identification nr: 23-KeySwitch Active
+entry: 85 Set Warning Identification nr: 4-Not Charging
+entry: 84 Clear Warning Identification nr: 4-Not Charging
+entry: 83 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 82 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 81 Set Warning Identification nr: 4-Not Charging
+entry: 80 Clear Warning Identification nr: 4-Not Charging
+entry: 79 Set Warning Identification nr: 4-Not Charging
+entry: 1 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 29190 No Swivel Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = itizaz
+Address = dubai
+Postal = 
+City = dubai
+Country = UAE
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:31] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:643] [2:2048] [3:2751] 
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

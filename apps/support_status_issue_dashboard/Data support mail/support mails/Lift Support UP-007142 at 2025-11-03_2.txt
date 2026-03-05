@@ -1,0 +1,212 @@
+Subject: Lift Support UP-007142 at 2025-11-03
+From: Julian Weiser
+To: Support DeVi-Stairlifts
+CC: julian.weiser@aufzuege-weiser.de
+Date: 2025-11-03 11:50:29
+
+*********************************************************************** 
+UP-007142
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.3    CRC: 0x5454
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: julian
+Extra notes from the mechanic: 
+die Programmierung der Fernbedienungen fliegt jedes Mal raus. Man muss dann diese anschließend wieder neu verbinden.
+
+*********************************************************************** 
+System
+Temperature: 45
+Rail Checksum: 192 | 192
+Current Live: 54
+Current Peak: 29772
+Supply Battery: 253
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 425
+Total: 114554cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 13350
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 9999
+Channels: 9999
+Angle: 0
+Raw: 33039
+Cal: 32887
+Current: 0
+Current Peak: 8480
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 2610
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1450
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 53
+TimeAlive Hours: 18
+TimeAlive days: 4
+*********************************************************************** 
+Skip:false
+Length:72
+P0| (1) Start   (0-0)  Value: 0
+P1| (10) Straight   (0-197)  Value: 197
+P2| (27) Upward   (0-10)  Value: 10
+P3| (10) Straight   (0-63)  Value: 63
+P4| (47) Downward   (0-10)  Value: 10
+P5| (10) Straight   (0-37)  Value: 37
+P6| (75) Horizontal   (0-18)  Value: 18
+P7| (10) Straight   (0-143)  Value: 143
+P8| (75) Horizontal   (0-18)  Value: 18
+P9| (10) Straight   (0-29)  Value: 29
+P10| (24) Upward   (0-7)  Value: 7
+P11| (10) Straight   (8-46)  Value: 2094
+P12| (44) Downward   (0-7)  Value: 7
+P13| (10) Straight   (0-35)  Value: 35
+P14| (75) Horizontal   (0-18)  Value: 18
+P15| (10) Straight   (0-177)  Value: 177
+P16| (75) Horizontal   (0-18)  Value: 18
+P17| (10) Straight   (0-25)  Value: 25
+P18| (24) Upward   (0-7)  Value: 7
+P19| (10) Straight   (7-17)  Value: 1809
+P20| (22) Upward   (0-5)  Value: 5
+P21| (10) Straight   (0-151)  Value: 151
+P22| (49) Downward   (0-12)  Value: 12
+P23| (10) Straight   (0-34)  Value: 34
+P24| (75) Horizontal   (0-18)  Value: 18
+P25| (10) Straight   (0-177)  Value: 177
+P26| (75) Horizontal   (0-18)  Value: 18
+P27| (10) Straight   (0-28)  Value: 28
+P28| (24) Upward   (0-7)  Value: 7
+P29| (10) Straight   (8-109)  Value: 2157
+P30| (44) Downward   (0-7)  Value: 7
+P31| (10) Straight   (0-39)  Value: 39
+P32| (75) Horizontal   (0-18)  Value: 18
+P33| (10) Straight   (0-194)  Value: 194
+P34| (75) Horizontal   (0-18)  Value: 18
+P35| (10) Straight   (0-29)  Value: 29
+P36| (24) Upward   (0-7)  Value: 7
+P37| (10) Straight   (7-187)  Value: 1979
+P38| (44) Downward   (0-7)  Value: 7
+P39| (10) Straight   (0-30)  Value: 30
+P40| (75) Horizontal   (0-18)  Value: 18
+P41| (10) Straight   (1-233)  Value: 489
+P42| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 101 Set Warning Identification nr: 4-Not Charging
+entry: 100 Clear Warning Identification nr: 4-Not Charging
+entry: 99 Set Warning Identification nr: 4-Not Charging
+entry: 98 Clear Warning Identification nr: 4-Not Charging
+entry: 97 Set Warning Identification nr: 4-Not Charging
+entry: 96 Clear Warning Identification nr: 4-Not Charging
+entry: 95 Set Warning Identification nr: 4-Not Charging
+entry: 94 Clear Warning Identification nr: 4-Not Charging
+entry: 93 Set Warning Identification nr: 4-Not Charging
+entry: 92 Clear Warning Identification nr: 4-Not Charging
+entry: 91 Set Warning Identification nr: 4-Not Charging
+entry: 90 Clear Warning Identification nr: 4-Not Charging
+entry: 89 Set Warning Identification nr: 4-Not Charging
+entry: 88 Clear Warning Identification nr: 4-Not Charging
+entry: 87 Set Warning Identification nr: 4-Not Charging
+entry: 86 Clear Warning Identification nr: 4-Not Charging
+entry: 85 Set Warning Identification nr: 4-Not Charging
+entry: 84 Clear Warning Identification nr: 4-Not Charging
+entry: 83 Set Warning Identification nr: 4-Not Charging
+entry: 6 Set Warning Identification nr: 4-Not Charging
+entry: 5 Clear Warning Identification nr: 4-Not Charging
+entry: 4 Set Warning Identification nr: 4-Not Charging
+entry: 3 Clear Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 4-Not Charging
+entry: 1 Clear Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left  No Addon 
+NR: 1 Enc: 20192 Swivel Left  No Addon 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 43873 Swivel Left  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 100
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Schroeter
+Address = Max-Planck-Str.2
+Postal = 74081
+City = Heilbronn
+Country = DE
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:28] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:798] [2:2063] [3:3052] 
+*********************************************************************** 
+Latitude: 49.1323986
+Longitude: 9.2184187
+*********************************************************************** 
+Date & Time (tablet): 2025-11-03 11:50:18
+*********************************************************************** 
+App session length: 2m 51s
+*********************************************************************** 
+Location session length: 0m 0s
+*********************************************************************** 
+ 

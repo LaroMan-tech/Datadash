@@ -1,0 +1,164 @@
+Subject: Lift Support UP-006526 at 2025-09-26
+From: Ronan BLANCHARD
+To: Support DeVi-Stairlifts
+CC: Ronan BLANCHARD
+Date: 2025-09-26 11:45:30
+
+***********************************************************************
+UP-006526
+***********************************************************************
+App version: V11.0.504
+App type: release
+App version code: 504
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| -2147483648 |W| 134217728
+Error Identification nr: 31-Footrest Supply Failure
+Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+Safety Feed: 11-2
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Ronan BLANCHARD
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 26
+Rail Checksum: 243 | 243
+Current Live: 0
+Current Peak: 15210
+Supply Battery: 256
+Supply Chair: 128
+Supply Logic: 48
+Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 10830
+Total: 126173cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 8020
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 1
+Raw: 32921
+Cal: 33325
+Current: 0
+Current Peak: 270
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 0
+Current Peak: 1500
+Driver: false
+Supply: true
+Direction: true
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 240
+Current Peak: 1550
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 51
+TimeAlive Hours: 14
+TimeAlive days: 6
+***********************************************************************
+Skip:false
+Length:64
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (12-218) Value: 3290
+P2| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 63 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 62 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 61 Clear Error Identification nr: 31-Footrest Supply Failure
+entry: 60 Clear Error Identification nr: 31-Footrest Supply Failure
+entry: 59 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 58 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 57 Set Warning Identification nr: 12-Communication Timed Out
+entry: 56 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 55 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 54 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 53 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 52 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 51 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 50 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 49 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 48 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 47 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 46 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 45 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 44 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 43 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 42 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 41 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 40 Set Warning Identification nr: 30-Chair Not Closed
+entry: 39 Clear Warning Identification nr: 30-Chair Not Closed
+***********************************************************************
+NR: 0 Enc: 425 Swivel Right No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 10833 Swivel Left No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Le Personnic Roger
+Address = 13 bd Guy Ropartz
+Postal = 22200
+City = Guingamp
+Country = France
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:62]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:192] [1:1024] [2:2339] [3:3230]
+*********************************************************************** 
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 

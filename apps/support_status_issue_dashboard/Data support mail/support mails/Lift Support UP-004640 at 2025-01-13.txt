@@ -1,0 +1,171 @@
+Subject: Lift Support UP-004640 at 2025-01-13
+From: Survey
+To: Support DeVi-Stairlifts
+CC: Info
+Date: 2025-01-13 12:29:56
+
+*********************************************************************** 
+
+UP-004640
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.0 CRC: 0xC2AF
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-1
+*********************************************************************** 
+Mechanic: james B
+Extra notes from the mechanic: 
+customer using toggle and finding lift stopping and starting intermittently
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 438
+Total: 522633cm
+Channels: true | true
+FrictionWheel: true
+Current: 1370
+Current Peak: 9510
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11893
+Channels: 11893
+Angle: 2
+Raw: 32944
+Cal: 32241
+Current: 0
+Current Peak: 32760
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 14
+TimeAlive Hours: 23
+TimeAlive days: 19
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (5-234) Value: 1514
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (2-27) Value: 539
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-237) Value: 237
+P6| (26) Upward (0-9) Value: 9
+P7| (10) Straight (8-103) Value: 2151
+P8| (46) Downward (0-9) Value: 9
+P9| (10) Straight (1-132) Value: 388
+P10| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 68 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 67 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 66 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 65 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 64 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 63 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 62 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 61 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 60 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 59 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 58 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 57 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 56 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 55 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 54 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 53 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 52 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 51 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 50 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 49 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 48 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 47 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 46 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 45 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 44 Clear Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 40
+*********************************************************************** 
+Name = viggars
+Address = the barn
+Postal = sn78rn
+City = farringdon
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:830] [2:2127] [3:3087] 
+*********************************************************************** 
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

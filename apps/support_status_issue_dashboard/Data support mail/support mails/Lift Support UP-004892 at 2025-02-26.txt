@@ -1,0 +1,176 @@
+Subject: Lift Support UP-004892 at 2025-02-26
+From: Andy van Leeuwen
+To: Support DeVi-Stairlifts
+CC: info@idumo.de
+Date: 2025-02-28 10:29:12
+
+*********************************************************************** 
+
+UP-004892
+*********************************************************************** 
+App version: V11.0.358
+App type: release
+App version code: 358
+Software Main: V 2.4.9.1 CRC: 0xE128
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 |W| 16
+Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: christian
+Extra notes from the mechanic: 
+oberste ladepunkt falsch verkabelt wo purchase Der lift nie geladen hat
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 19138
+Total: 51320cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 7690
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 1
+Raw: 32569
+Cal: 32865
+Current: 0
+Current Peak: 2570
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 19
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:14
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (9-227) Value: 2531
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (0-146) Value: 146
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-100) Value: 100
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (25) Upward (0-8) Value: 8
+P9| (10) Straight (4-215) Value: 1239
+P10| (45) Downward (0-8) Value: 8
+P11| (10) Straight (1-87) Value: 343
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (1-194) Value: 450
+P14| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 30 Clear Warning Identification nr: 4-Not Charging
+entry: 29 Set Warning Identification nr: 4-Not Charging
+entry: 28 Clear Warning Identification nr: 4-Not Charging
+entry: 27 Set Warning Identification nr: 4-Not Charging
+entry: 26 Clear Warning Identification nr: 4-Not Charging
+entry: 25 Set Warning Identification nr: 4-Not Charging
+entry: 24 Clear Warning Identification nr: 4-Not Charging
+entry: 23 Set Warning Identification nr: 4-Not Charging
+entry: 22 Clear Warning Identification nr: 4-Not Charging
+entry: 21 Set Warning Identification nr: 4-Not Charging
+entry: 20 Clear Warning Identification nr: 4-Not Charging
+entry: 19 Set Warning Identification nr: 4-Not Charging
+entry: 18 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 17 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 16 Clear Warning Identification nr: 4-Not Charging
+entry: 15 Set Warning Identification nr: 4-Not Charging
+entry: 14 Clear Warning Identification nr: 4-Not Charging
+entry: 13 Set Warning Identification nr: 4-Not Charging
+entry: 12 Set Warning Identification nr: 2-Traction Encoder Out Of Bound
+entry: 11 Clear Warning Identification nr: 4-Not Charging
+entry: 10 Clear Warning Identification nr: 2-Traction Encoder Out Of Bound
+entry: 9 Set Warning Identification nr: 4-Not Charging
+entry: 8 Clear Warning Identification nr: 4-Not Charging
+entry: 7 Set Warning Identification nr: 4-Not Charging
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 62
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:67] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:789] [2:2063] [3:3007] 
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

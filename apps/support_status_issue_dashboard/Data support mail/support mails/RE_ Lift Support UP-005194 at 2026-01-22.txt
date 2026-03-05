@@ -1,0 +1,234 @@
+Subject: RE: Lift Support UP-005194 at 2026-01-22
+From: stagiair
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2026-01-22 13:23:03
+
+
+Suppressions enabled
+
+
+*	Errors suppressed: E4
+*	Safeties suppressed: S0
+
+
+
+Fault report
+
+
+Summary: Warning W29 (EEPROM CRC Incorrect) detected; Time alive < 1 day. AppVersion=v11.0.534, ChairVersion=v 1.0.4.2, BatteryV=26.2, OnStation=True
+
+Root cause: CRC mismatch in EEPROM internal memory (W29) causing an incorrect checksum.
+
+
+Recommended actions
+
+
+*	For a new installation: calibrate all motors and restart the system so the checksum is recalculated.
+*	For an existing lift: perform a test ride; if the data is stable, recalculate the checksum by recalibrating one motor.
+*	If the warning persists: replace the main PCB (UP000056) and/or contact DeVi-Stairlifts support.
+
+
+Verification
+
+
+*	Confirm that W29 and EEPROM CRC-mismatch messages no longer appear in the logs and that checksum values are stable.
+*	Check the log again after 24 hours of operation.
+
+Disclaimer This is an automatically generated message.
+
+
+
+
+
+________________________________
+
+From: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Sent: Thursday, January 22, 2026 12:20:13 PM
+To: stagiair <stagiair@devi-comfort.com>
+Subject: FW: Lift Support UP-005194 at 2026-01-22 
+ 
+ 
+________________________________
+
+Van: Mayur Patil <mayuzipp@gmail.com>
+Verzonden: donderdag 22 januari 2026 13:20:02 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Aan: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+CC: teammobilityindia@gmail.com <teammobilityindia@gmail.com>
+Onderwerp: Lift Support UP-005194 at 2026-01-22
+
+
+***********************************************************************
+UP-005194
+***********************************************************************
+App version: V11.0.534
+App type: debug
+App version code: 534
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+***********************************************************************
+|E| 0 |W| 536870912
+Warning Identification nr: 29-EEprom CRC Incorrect
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: prashant
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 39
+Rail Checksum: 209 | 209
+Current Live: 0
+Current Peak: 954
+Supply Battery: 262
+Supply Chair: 128
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 435
+Total: 879048cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 11191
+Channels: 11191
+Angle: 1
+Raw: 33278
+Cal: 32832
+Current: 300
+Current Peak: 300
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1001
+Channels: 1001
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 140
+Current Peak: 1440
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: No Orientation Defined
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 32
+TimeAlive Hours: 1
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:98
+P0| (1) Start (0-25) Value: 25
+P1| (10) Straight (6-93) Value: 1629
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (14-173) Value: 3757
+P4| (23) Upward (0-6) Value: 6
+P5| (10) Straight (12-73) Value: 3145
+P6| (43) Downward (0-6) Value: 6
+P7| (10) Straight (1-156) Value: 412
+P8| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 47 Set Warning Identification nr: 4-Not Charging
+entry: 46 Clear Warning Identification nr: 4-Not Charging
+entry: 45 Set Warning Identification nr: 4-Not Charging
+entry: 44 Clear Warning Identification nr: 4-Not Charging
+entry: 43 Set Warning Identification nr: 4-Not Charging
+entry: 42 Clear Warning Identification nr: 4-Not Charging
+entry: 41 Set Warning Identification nr: 4-Not Charging
+entry: 40 Clear Warning Identification nr: 4-Not Charging
+entry: 39 Set Warning Identification nr: 4-Not Charging
+entry: 38 Clear Warning Identification nr: 4-Not Charging
+entry: 37 Set Warning Identification nr: 4-Not Charging
+entry: 36 Clear Warning Identification nr: 4-Not Charging
+entry: 35 Set Warning Identification nr: 4-Not Charging
+entry: 34 Clear Warning Identification nr: 4-Not Charging
+entry: 33 Set Warning Identification nr: 4-Not Charging
+entry: 32 Clear Warning Identification nr: 4-Not Charging
+entry: 31 Set Warning Identification nr: 4-Not Charging
+entry: 30 Clear Warning Identification nr: 4-Not Charging
+entry: 29 Set Warning Identification nr: 4-Not Charging
+entry: 28 Clear Warning Identification nr: 4-Not Charging
+entry: 27 Set Warning Identification nr: 4-Not Charging
+entry: 26 Clear Warning Identification nr: 4-Not Charging
+entry: 25 Set Warning Identification nr: 4-Not Charging
+entry: 24 Clear Warning Identification nr: 4-Not Charging
+entry: 23 Set Warning Identification nr: 4-Not Charging
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 30613 Swivel Right Charge Station
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 50
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:68]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:427] [2:1765] [3:2916]
+***********************************************************************
+Latitude: 19.026992
+Longitude: 72.8433671
+***********************************************************************
+Date & Time (tablet): 2026-01-22 17:49:51
+***********************************************************************
+App session length: 6m 15s
+***********************************************************************
+Location session length: 5m 9s
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

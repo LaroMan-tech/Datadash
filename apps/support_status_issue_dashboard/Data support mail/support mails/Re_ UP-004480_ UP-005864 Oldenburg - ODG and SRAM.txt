@@ -1,0 +1,64 @@
+Subject: Re: UP-004480/ UP-005864 Oldenburg - ODG and SRAM
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: Andy van Leeuwen
+Date: 2024-12-17 22:20:58
+
+Hi,
+I was at the customer of UP-005864 this evening. I replaces the carriage (old one: UP-004480) 9 days ago since it had the mysterious problem with the OSG and memory in the safety feed. Guess what happened today: Same problem. I sent you a message via the configurator today with the errors active. Since I replaced the carriage already, i think it must be something else, but there is not that much left over.
+
+So today a replaced the seat pcb. But the new one created new problems by losing the compass value from 100 to 0 while driving. The seat rotation is deactivated in every stop. So ist just lost the compass value without movement of the seat. Since i had just one replacement pcb with me, i had no alternative and set the original pcb back in place. That was disappointing.
+
+So my last hope was to replace the charger. But I am not sure if this really helped. I will see if the customer calls me again in a few day, with my luck on christmas eve.
+
+Please send me:
+
+*	New charger
+*	seat pcb for replacing my replacement unit which loses compass value
+*	seat pcb for UP-005864 since i believe, i have to replace it in a few days
+
+Please give me any additional help/ tip you have. I'm running out of ideas. Did you find any problems at the old carriage, which took Andy to your factory last week?
+
+Mit freundlichen Grüßen
+Jan Brandenburg
+ 
+
+Jan Brandenburg <https://ci3.googleusercontent.com/mail-sig/AIorK4xiW8KEltgWIT1Qv4WgF6cycMZD1L-o4S7makK6UkkAbbx5FbcvKS0f5xP5wwm4sj6LtWxbdOg> 
+Maschinenbauingenieur	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4zFpOXq8ObIub2qriOG4uRzAgkjEGOBf4R5mA3P7vxE3TNx4wFNY0yoROyxwiny6_D2GOgmVpY> 
+	Arfrader Straße 2 - 23554 Lübeck	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4yAYrHf5hWoiuBcDD6zRKjcJkxYypCkT_gf5-KvZgZDTIcD-xZWc-Cs-5GDBR9_xo4fqhS4ZTs> 	0451 12 01 53 20	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4xCQrO38ASQ58KF11rPICrIZTrJDpPyGb9Y-Jgl5O9jPXaou2mINq1gLOQKKjYdp1CAcBf7UuY> 	Jan.Brandenburg@Nord-Ostsee-Liftteam.de <mailto:Jan.Brandenburg@Nord-Ostsee-Liftteam.de> 	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4y3KbY2u3-eBLtb_hsePJPZSL3xKuMY3_dlwRYlOr9v2JAip5WDmZfFhOgeD-y3LdmhfStntRc> 
+	www.Nord-Ostsee-Liftteam.de <https://www.nord-ostsee-liftteam.de/> 	
+Nord-Ostsee Liftteam Jan Brandenburg <https://ci3.googleusercontent.com/mail-sig/AIorK4z0nwEtF-2sbfWsfipm5mn9ZOg_jrF_C_DRh7Uv2130tFaTX4dStwQfH5vyQwVI8x1GhTT_Of0> 
+Ihr regionaler Ansprechpartner für
+Treppenlifte, Plattformlifte und Homelifte	
+
+
+Am So., 3. Nov. 2024 um 21:34 Uhr schrieb Jan Brandenburg <jan.brandenburg@nord-ostsee-liftteam.de <mailto:jan.brandenburg@nord-ostsee-liftteam.de> >:
+
+
+	Hi,
+
+	i tried to contact you on friday via whatsapp, but your answer came too late. We have the UP 004480 installed in february and had different problems since then. For the last problem we had to swap the main pcb twice since both had sram problems. Now after 3 months without problems we had again the situation that the lift ended its drive to the upper station without issues and then a few hours later the lift did not start anymore. We had this behaviour twice: 14 days ago the problem was solved by itself overnight without any intervention. But then on thursday the problem happened again and had not been solved automatically overnight, so the customers called us and i went there on friday. There was no error displayed in the app, but the safety pic feed alternated between memory sram fail and OSG like visible in the video attached to this mail.
+
+	Turning off and on solved the problem, but since we already had sram problems with the previous main pcbs, I assume, that there is something else. Maybe problems with the encoder or the cables. I am not sure. I would have liked to have spoken to someone of your team when I was at the customer.
+
+	Do you have any advice? If the problem occurs again, I will likely swapp the whole drive unit since we already have been at the customer over 10 times (9 problems are documented, but sometimes we have been there multiple times for the same problem). 
+
+	Mit freundlichen Grüßen
+	Jan Brandenburg
+	 
+	
+Jan Brandenburg <https://ci3.googleusercontent.com/mail-sig/AIorK4xiW8KEltgWIT1Qv4WgF6cycMZD1L-o4S7makK6UkkAbbx5FbcvKS0f5xP5wwm4sj6LtWxbdOg> 
+Maschinenbauingenieur	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4zFpOXq8ObIub2qriOG4uRzAgkjEGOBf4R5mA3P7vxE3TNx4wFNY0yoROyxwiny6_D2GOgmVpY> 
+	Arfrader Straße 2 - 23554 Lübeck	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4yAYrHf5hWoiuBcDD6zRKjcJkxYypCkT_gf5-KvZgZDTIcD-xZWc-Cs-5GDBR9_xo4fqhS4ZTs> 	0451 12 01 53 20	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4xCQrO38ASQ58KF11rPICrIZTrJDpPyGb9Y-Jgl5O9jPXaou2mINq1gLOQKKjYdp1CAcBf7UuY> 	Jan.Brandenburg@Nord-Ostsee-Liftteam.de <mailto:Jan.Brandenburg@Nord-Ostsee-Liftteam.de> 	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4y3KbY2u3-eBLtb_hsePJPZSL3xKuMY3_dlwRYlOr9v2JAip5WDmZfFhOgeD-y3LdmhfStntRc> 
+	www.Nord-Ostsee-Liftteam.de <https://www.nord-ostsee-liftteam.de/> 	
+Nord-Ostsee Liftteam Jan Brandenburg <https://ci3.googleusercontent.com/mail-sig/AIorK4z0nwEtF-2sbfWsfipm5mn9ZOg_jrF_C_DRh7Uv2130tFaTX4dStwQfH5vyQwVI8x1GhTT_Of0> 
+Ihr regionaler Ansprechpartner für
+Treppenlifte, Plattformlifte und Homelifte	

@@ -1,0 +1,33 @@
+Subject: V7 to V10 upgraded boards/ UP-000358
+From: Craig Peters
+To: Support DeVi-Stairlifts
+CC: UP Stairlift
+Date: 2024-04-19 01:03:14
+
+Hi Support,
+
+ 
+
+It seems that the version of the V10 App that is installed on a tablet we sent out to 101 Mobility Houston Metro seems to be having some issues. I was able to connect to the lift with my tablet and use the older version to program the lift and even one of the beta versions Remco sent out. I will attach a video and a few snap shots of the errors and warning appearing and disappearing randomly. When we 1st entered the rail data using their tablet it just disappeared and then came back? 
+
+I wanted to see if you have any input, do you think it may be that the App is corrupted? I also sent two support emails as well. Please let us know what you think.
+
+ 
+
+Kind Regards,
+
+ 
+
+
+
+Craig Peters​​​​
+
+Installation and Service Specialist
+
+800‑833‑0478
+
+email: tech.services@harmar.com
+
+ <https://www.surveymonkey.com/r/HarmarTech1> 
+
+ 

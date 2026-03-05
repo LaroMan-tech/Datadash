@@ -1,0 +1,197 @@
+Subject: Lift Maintenance UP-005175 at 2026-01-27
+From: frodriguez
+To: Support DeVi-Stairlifts
+CC: frodriguez
+Date: 2026-01-27 21:58:51
+
+
+
+*********************************************************************** 
+UP-005175
+*********************************************************************** 
+App version: V11.1.562
+App type: release
+App version code: 562
+Software Main: V 2.4.9.4 CRC: 0xD705
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.3.3.0 CRC: 0x7E0D
+Code of the day active: Yes
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Francisco Rodriguez
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 35
+Rail Checksum: 18 | 18
+Current Live: 0
+Current Peak: 31716
+Supply Battery: 256
+Supply Chair: 136Supply Logic: 57Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 494
+Total: 649363cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 15840
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 13123
+Channels: false | false
+Angle: 0
+Raw: 33221
+Cal: 33483
+Current: 0
+Current Peak: 6960
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 1001
+Channels: false | false
+Compass: 100
+Current: 0
+Current Peak: 1590
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1310
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 30
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:98
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-158) Value: 158
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (6-225) Value: 1761
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (1-179) Value: 435
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (23) Upward (0-6) Value: 6
+P9| (10) Straight (5-154) Value: 1434
+P10| (43) Downward (0-6) Value: 6
+P11| (10) Straight (0-72) Value: 72
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (0-25) Value: 25
+P14| (23) Upward (0-6) Value: 6
+P15| (10) Straight (5-90) Value: 1370
+P16| (43) Downward (0-6) Value: 6
+P17| (10) Straight (1-1) Value: 257
+P18| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 25 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 24 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 23 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 22 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 21 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 20 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 19 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 18 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 17 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 16 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 15 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 14 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 12 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 11 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 10 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 9 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 8 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Set Warning Identification nr: 4-Not Charging
+entry: 6 Clear Warning Identification nr: 4-Not Charging
+entry: 5 Set Warning Identification nr: 4-Not Charging
+entry: 4 Clear Warning Identification nr: 4-Not Charging
+entry: 3 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 2 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 1 Set Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+NR: 0 Enc: 492 No Swivel Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 21729 Swivel Right Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 80
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Matias Corrales
+Address = Arboleda del Sauce
+Postal = 32553
+City = Cd Juarez
+Country = Mexico
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:64] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:6] [1:894] [2:2192] [3:3128] 
+*********************************************************************** 
+Latitude: 31.67543226
+Longitude: -106.35503463
+*********************************************************************** 
+Date & Time (tablet): 2026-01-27 14:56:53
+*********************************************************************** 
+App session length: 4m 2s
+*********************************************************************** 
+Location session length: 3m 34s
+*********************************************************************** 
+
+
+
+
+--
+
+Lic. Francisco J. Rodríguez Villarreal
+
+damsa
+

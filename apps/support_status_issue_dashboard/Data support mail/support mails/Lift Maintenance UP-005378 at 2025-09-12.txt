@@ -1,0 +1,187 @@
+Subject: Lift Maintenance UP-005378 at 2025-09-12
+From: keith
+To: Support DeVi-Stairlifts
+CC: Keith.g@24-7healthcare.co.uk
+Date: 2025-09-12 14:57:36
+
+***********************************************************************
+UP-005378
+***********************************************************************
+App version: V11.0.469
+App type: release
+App version code: 469
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 128 |W| 0
+Error Identification nr: 7-Spindle Encoder Failure
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Keith Garland
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 33
+Rail Checksum: 84 | 84
+Current Live: 0
+Current Peak: 6498
+Supply Battery: 261
+Supply Chair: 128
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 16884
+Total: 2469462cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 210
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10014
+Channels: 10014
+Angle: 1
+Raw: 32203
+Cal: 32679
+Current: 90
+Current Peak: 5090
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 700
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 15
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:76
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (1-154) Value: 410
+P2| (40) Downward (0-3) Value: 3
+P3| (10) Straight (3-89) Value: 857
+P4| (46) Downward (0-9) Value: 9
+P5| (10) Straight (0-18) Value: 18
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-50) Value: 50
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-55) Value: 55
+P10| (25) Upward (0-8) Value: 8
+P11| (10) Straight (9-194) Value: 2498
+P12| (45) Downward (0-8) Value: 8
+P13| (10) Straight (2-66) Value: 578
+P14| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 38 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 37 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 36 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 35 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 34 Set Warning Identification nr: 19-Safety Guidance Up Pressed
+entry: 33 Clear Warning Identification nr: 19-Safety Guidance Up Pressed
+entry: 32 Set Warning Identification nr: 20-Safety Guidance Down Pressed
+entry: 31 Clear Warning Identification nr: 20-Safety Guidance Down Pressed
+entry: 30 Set Warning Identification nr: 20-Safety Guidance Down Pressed
+entry: 29 Clear Warning Identification nr: 20-Safety Guidance Down Pressed
+entry: 28 Set Warning Identification nr: 20-Safety Guidance Down Pressed
+entry: 27 Clear Warning Identification nr: 20-Safety Guidance Down Pressed
+entry: 26 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 25 Set Warning Identification nr: 4-Not Charging
+entry: 24 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 23 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 22 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 21 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 20 Set Warning Identification nr: 12-Communication Timed Out
+entry: 19 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 18 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 17 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 16 Set Warning Identification nr: 7-Chair Error Too High
+entry: 15 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 14 Set Warning Identification nr: 10-Angle Comparator Triggered
+***********************************************************************
+NR: 0 Enc: 526 No Swivel No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 16884 Swivel Left Charge Station
+***********************************************************************
+Offset Bottom Station: 90
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:60]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:733] [2:2048] [3:3056]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+
+Unchecked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

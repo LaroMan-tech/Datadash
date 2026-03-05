@@ -1,0 +1,184 @@
+Subject: Lift Maintenance UP-007346 at 2025-11-03
+From: Géresi Miklós
+To: Support DeVi-Stairlifts
+CC: Info LiftNekem
+Date: 2025-11-03 11:20:35
+
+*********************************************************************** 
+UP-007346
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.3    CRC: 0x5454
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Miklos
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 38
+Rail Checksum: 80 | 80
+Current Live: 54
+Current Peak: 8370
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 22057
+Total: 2607cm
+Channels: false | true
+FrictionWheel: true
+Current: 240
+Current Peak: 3220
+Current Brake: 48
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32532
+Cal: 32707
+Current: 80
+Current Peak: 4270
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1002
+Channels: 1002
+Compass: 100
+Current: 30
+Current Peak: 520
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 20
+Current Peak: 290
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 28
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:76
+P0| (1) Start   (0-30)  Value: 30
+P1| (10) Straight   (11-160)  Value: 2976
+P2| (43) Downward   (0-6)  Value: 6
+P3| (10) Straight   (0-25)  Value: 25
+P4| (75) Horizontal   (0-18)  Value: 18
+P5| (10) Straight   (0-117)  Value: 117
+P6| (75) Horizontal   (0-18)  Value: 18
+P7| (10) Straight   (0-25)  Value: 25
+P8| (23) Upward   (0-6)  Value: 6
+P9| (10) Straight   (8-225)  Value: 2273
+P10| (43) Downward   (0-6)  Value: 6
+P11| (10) Straight   (0-30)  Value: 30
+P12| (75) Horizontal   (0-18)  Value: 18
+P13| (10) Straight   (0-250)  Value: 250
+P14| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 49 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 48 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 47 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 46 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 45 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 44 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 43 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 42 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 41 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 40 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 39 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 38 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Set Warning Identification nr: 4-Not Charging
+entry: 30 Clear Warning Identification nr: 4-Not Charging
+entry: 29 Set Warning Identification nr: 4-Not Charging
+entry: 28 Clear Warning Identification nr: 4-Not Charging
+entry: 27 Set Warning Identification nr: 4-Not Charging
+entry: 26 Clear Warning Identification nr: 4-Not Charging
+entry: 25 Set Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 22058 No Swivel  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 80
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Tbalint Bartos Gy
+Address = Tbalint
+Postal = 2045
+City = Tbalint
+Country = HU
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:62] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:19] [1:668] [2:2048] [3:2998] 
+*********************************************************************** 
+Latitude: 47.4425275
+Longitude: 18.9166452
+*********************************************************************** 
+Date & Time (tablet): 2025-11-03 11:20:31
+*********************************************************************** 
+App session length: 13m 57s
+*********************************************************************** 
+Location session length: 13m 57s
+*********************************************************************** 
+ 

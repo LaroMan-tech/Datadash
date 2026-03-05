@@ -1,0 +1,168 @@
+Subject: Lift Support UP-004660 at 2024-05-13
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-05-13 08:44:18
+
+*********************************************************************** 
+
+UP-004660
+*********************************************************************** 
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 64 0 0 0 
+Warnung Identifikations nr: 30-Drehgelenk nicht in neutrale Position
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Jan Brandenburg 
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 38
+Rail Checksum: 202 | 202
+Current Live: 0
+Current Peak: 954
+Supply Battery: 248
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 8755
+Total: 76162cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32629
+Cal: 32583
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 990
+Channels: 990
+Compass: 0
+Current: 0
+Current Peak: 190
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1000
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 13
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:5
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (2-128) Value: 640
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (1-80) Value: 336
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-33) Value: 33
+P6| (22) Upward (0-5) Value: 5
+P7| (10) Straight (2-89) Value: 601
+P8| (42) Downward (0-5) Value: 5
+P9| (10) Straight (2-64) Value: 576
+P10| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 17 Set Warnung Identifikations nr: 27-Safety Pic eingegriffen
+entry: 16 Clear Warnung Identifikations nr: 27-Safety Pic eingegriffen
+entry: 15 Set Warnung Identifikations nr: 12-Zeitüberschreitung beim Kommunikation
+entry: 14 Clear Warnung Identifikations nr: 12-Zeitüberschreitung beim Kommunikation
+entry: 13 Set Warnung Identifikations nr: 27-Safety Pic eingegriffen
+entry: 12 Set Warnung Identifikations nr: 12-Zeitüberschreitung beim Kommunikation
+entry: 11 Set Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 10 Clear Warnung Identifikations nr: 12-Zeitüberschreitung beim Kommunikation
+entry: 9 Clear Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 8 Clear Warnung Identifikations nr: 27-Safety Pic eingegriffen
+entry: 7 Set Warnung Identifikations nr: 27-Safety Pic eingegriffen
+entry: 6 Set Warnung Identifikations nr: 12-Zeitüberschreitung beim Kommunikation
+entry: 5 Set Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 4 Clear Warnung Identifikations nr: 12-Zeitüberschreitung beim Kommunikation
+entry: 3 Clear Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 2 Clear Warnung Identifikations nr: 27-Safety Pic eingegriffen
+entry: 1 Clear Warnung Identifikations nr: 30-Drehgelenk nicht in neutrale Position
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left Charge Station 
+NR: 1 Enc: 7412 Swivel Right Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 8755 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Address = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Postal = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+City = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Country = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:214] [1:1123] [2:2383] [3:3215] 
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

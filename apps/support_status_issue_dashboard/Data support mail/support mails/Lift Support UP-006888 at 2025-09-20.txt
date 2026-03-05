@@ -1,0 +1,178 @@
+Subject: Lift Support UP-006888 at 2025-09-20
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-09-20 10:21:24
+
+***********************************************************************
+UP-006888
+***********************************************************************
+App version: V11.0.504
+App type: release
+App version code: 504
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Jan Brandenburg
+Extra notes from the mechanic: Joystick defekt
+
+
+***********************************************************************
+System
+Temperature: 38
+Rail Checksum: 171 | 171
+Current Live: 270
+Current Peak: 18738
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 22773
+Total: 280495cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 8550
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 1
+Raw: 31887
+Cal: 32264
+Current: 300
+Current Peak: 4820
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 1540
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 1230
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 32
+TimeAlive Hours: 23
+TimeAlive days: 6
+***********************************************************************
+Skip:false
+Length:80
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (3-144) Value: 912
+P2| (26) Upward (0-9) Value: 9
+P3| (10) Straight (9-16) Value: 2320
+P4| (46) Downward (0-9) Value: 9
+P5| (10) Straight (0-241) Value: 241
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-117) Value: 117
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-46) Value: 46
+P10| (25) Upward (0-8) Value: 8
+P11| (10) Straight (5-84) Value: 1364
+P12| (45) Downward (0-8) Value: 8
+P13| (10) Straight (0-176) Value: 176
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-190) Value: 190
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (1-70) Value: 326
+P18| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 80 Set Warning Identification nr: 4-Not Charging
+entry: 79 Clear Warning Identification nr: 4-Not Charging
+entry: 78 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 77 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 76 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 75 Set Warning Identification nr: 16-Emergency State Active
+entry: 74 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 73 Clear Warning Identification nr: 16-Emergency State Active
+entry: 72 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 71 Set Warning Identification nr: 16-Emergency State Active
+entry: 70 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 69 Clear Warning Identification nr: 16-Emergency State Active
+entry: 68 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 67 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 66 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 65 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 64 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 63 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 62 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 61 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 60 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 59 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 58 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 57 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 56 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 22775 No Swivel Charge Station
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Fischer
+Address = Hasselbruchweg 5
+Postal = 23568
+City = Lübeck
+Country = DE
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:96]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:25] [1:894] [2:2176] [3:3191]
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

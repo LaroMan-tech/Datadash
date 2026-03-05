@@ -1,0 +1,193 @@
+Subject: Lift Support UP-004388 at 2026-01-24
+From: James Bambridge
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2026-01-24 17:24:15
+
+*********************************************************************** 
+
+UP-004388
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 64 |W| 0
+Error Identification nr: 6-Traction Encoder Failure
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: jame bambridge
+Extra notes from the mechanic: 
+stopped the night before and didn't reset as it did the week before
+
+*********************************************************************** 
+System
+Temperature: 34
+Rail Checksum: 227 | 227
+Current Live: 0
+Current Peak: 24588
+Supply Battery: 244
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 4519
+Total: 2432919cm
+Channels: true | true
+FrictionWheel: false
+Current: 0
+Current Peak: 10920
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 12118
+Channels: 12118
+Angle: 0
+Raw: 33327
+Cal: 33273
+Current: 0
+Current Peak: 4580
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 997
+Channels: 997
+Compass: 100
+Current: 0
+Current Peak: 3360
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 110
+Current Peak: 2120
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 2
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 49
+TimeAlive Hours: 2
+TimeAlive days: 14
+*********************************************************************** 
+Skip:false
+Length:82
+P0| (1) Start (0-45) Value: 45
+P1| (10) Straight (6-107) Value: 1643
+P2| (46) Downward (0-9) Value: 9
+P3| (10) Straight (2-90) Value: 602
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-50) Value: 50
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-178) Value: 178
+P8| (27) Upward (0-10) Value: 10
+P9| (10) Straight (0-110) Value: 110
+P10| (47) Downward (0-10) Value: 10
+P11| (10) Straight (2-41) Value: 553
+P12| (66) Horizontal (0-9) Value: 9
+P13| (10) Straight (0-50) Value: 50
+P14| (66) Horizontal (0-9) Value: 9
+P15| (10) Straight (0-228) Value: 228
+P16| (26) Upward (0-9) Value: 9
+P17| (10) Straight (5-249) Value: 1529
+P18| (46) Downward (0-9) Value: 9
+P19| (10) Straight (3-211) Value: 979
+P20| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 32 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 31 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 30 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 29 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 28 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 27 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 26 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 25 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 24 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 23 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 22 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 21 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 20 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 19 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 18 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 17 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 16 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 15 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 14 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 12 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 11 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 10 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 9 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 8 Set Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+NR: 0 Enc: 492 Swivel Left No Addon 
+NR: 1 Enc: 3841 No Swivel Hingedrail 
+NR: 2 Enc: 4527 No Swivel Charge Station 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 23386 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 80
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:319] [1:1215] [2:2431] [3:3217] 
+*********************************************************************** 
+Latitude: 51.3874379
+Longitude: -1.33585404
+*********************************************************************** 
+Date & Time (tablet): 2026-01-24 14:22:44
+*********************************************************************** 
+App session length: 2m 14s
+*********************************************************************** 
+Location session length: 2m 14s
+*********************************************************************** 
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

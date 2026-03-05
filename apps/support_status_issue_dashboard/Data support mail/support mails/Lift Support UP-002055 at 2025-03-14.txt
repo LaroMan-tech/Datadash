@@ -1,0 +1,185 @@
+Subject: Lift Support UP-002055 at 2025-03-14
+From: EURO ASIA ACCESS SOLUTIONS SDN BHD
+To: Support DeVi-Stairlifts
+CC: Zahir@stairliftworld.my; support@stairliftworldasia.com
+Date: 2025-03-14 08:47:00
+
+*********************************************************************** 
+
+UP-002055
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: segar/Zahir/Shafiq
+Extra notes from the mechanic: 
+After replaced wifi card/chair card,no more error code "Communication time out"....Now the stair lift run in normal mode....I would like to make warrantty claim regarding faulty Wifi PcB....Thanks
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 9208
+Total: 272033cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 1970
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11470
+Channels: 11470
+Angle: 0
+Raw: 32893
+Cal: 32892
+Current: 150
+Current Peak: 150
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 20
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (1-89) Value: 345
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (9-8) Value: 2312
+P4| (23) Upward (0-6) Value: 6
+P5| (10) Straight (0-150) Value: 150
+P6| (49) Downward (0-12) Value: 12
+P7| (10) Straight (0-25) Value: 25
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-156) Value: 156
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-25) Value: 25
+P12| (23) Upward (0-6) Value: 6
+P13| (10) Straight (9-49) Value: 2353
+P14| (23) Upward (0-6) Value: 6
+P15| (10) Straight (0-185) Value: 185
+P16| (49) Downward (0-12) Value: 12
+P17| (10) Straight (0-25) Value: 25
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (0-160) Value: 160
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (0-25) Value: 25
+P22| (23) Upward (0-6) Value: 6
+P23| (10) Straight (9-192) Value: 2496
+P24| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 41 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 40 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 39 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 38 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 30 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 29 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 28 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 27 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 26 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 25 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 24 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 23 Set Warning Identification nr: 4-Not Charging
+entry: 22 Clear Warning Identification nr: 4-Not Charging
+entry: 21 Set Warning Identification nr: 4-Not Charging
+entry: 20 Clear Warning Identification nr: 4-Not Charging
+entry: 19 Set Warning Identification nr: 4-Not Charging
+entry: 18 Clear Warning Identification nr: 4-Not Charging
+entry: 17 Set Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Mr Jamal
+Address = Taman Melawati
+Postal = 53100
+City = Kuala Lumpur
+Country = Malaysia
+Phone = 106
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:42] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:895] [2:2189] [3:3103] 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,202 @@
+Subject: Lift Support UP-006088 at 2025-05-18
+From: shadab alam
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-05-18 14:23:45
+
+***********************************************************************
+UP-006088
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.5 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 128 |W| 0 0 0 16
+Error Identification nr: 7-Spindle Encoder Failure
+Warning Identification nr: 4-Not Charging
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Shadab Alam
+Extra notes from the mechanic:
+E7 at 95kg
+
+***********************************************************************
+System
+Temperature: 59
+Rail Checksum: 147 | 147
+Current Live: 0
+Current Peak: 23742
+Supply Battery: 246
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 64160
+Total: 16795cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 10970
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 11653
+Channels: 11653
+Angle: 0
+Raw: 33603
+Cal: 33347
+Current: 10960
+Current Peak: 11560
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 9
+TimeAlive Hours: 4
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:40
+P0| (1) Start (0-30) Value: 30
+P1| (10) Straight (1-56) Value: 312
+P2| (41) Downward (0-4) Value: 4
+P3| (10) Straight (0-77) Value: 77
+P4| (21) Upward (0-4) Value: 4
+P5| (10) Straight (9-185) Value: 2489
+P6| (43) Downward (0-6) Value: 6
+P7| (10) Straight (1-73) Value: 329
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-200) Value: 200
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-13) Value: 13
+P12| (25) Upward (0-8) Value: 8
+P13| (10) Straight (13-128) Value: 3456
+P14| (45) Downward (0-8) Value: 8
+P15| (10) Straight (0-241) Value: 241
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (0-183) Value: 183
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (0-22) Value: 22
+P20| (23) Upward (0-6) Value: 6
+P21| (10) Straight (13-24) Value: 3352
+P22| (43) Downward (0-6) Value: 6
+P23| (10) Straight (0-94) Value: 94
+P24| (75) Horizontal (0-18) Value: 18
+P25| (10) Straight (0-181) Value: 181
+P26| (75) Horizontal (0-18) Value: 18
+P27| (10) Straight (0-39) Value: 39
+P28| (24) Upward (0-7) Value: 7
+P29| (10) Straight (9-207) Value: 2511
+P30| (44) Downward (0-7) Value: 7
+P31| (10) Straight (1-73) Value: 329
+P32| (75) Horizontal (0-18) Value: 18
+P33| (10) Straight (0-180) Value: 180
+P34| (75) Horizontal (0-18) Value: 18
+P35| (10) Straight (0-41) Value: 41
+P36| (24) Upward (0-7) Value: 7
+P37| (10) Straight (9-73) Value: 2377
+P38| (44) Downward (0-7) Value: 7
+P39| (10) Straight (2-159) Value: 671
+P40| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 50 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 49 Set Warning Identification nr: 12-Communication Timed Out
+entry: 48 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 47 Clear Warning Identification nr: 4-Not Charging
+entry: 46 Set Warning Identification nr: 4-Not Charging
+entry: 45 Set Warning Identification nr: 7-Chair Error Too High
+entry: 44 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 43 Set Warning Identification nr: 7-Chair Error Too High
+entry: 42 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 41 Set Warning Identification nr: 7-Chair Error Too High
+entry: 40 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 39 Set Warning Identification nr: 7-Chair Error Too High
+entry: 38 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 37 Set Warning Identification nr: 7-Chair Error Too High
+entry: 36 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 101 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 100 Set Warning Identification nr: 4-Not Charging
+entry: 99 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 98 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 97 Set Warning Identification nr: 12-Communication Timed Out
+entry: 96 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 95 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 94 Clear Warning Identification nr: 4-Not Charging
+entry: 93 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 92 Set Warning Identification nr: 4-Not Charging
+***********************************************************************
+NR: 0 Enc: 492 Swivel Right Charge Station
+NR: 1 Enc: 42208 No Swivel Charge Station
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 66525 Swivel Right Charge Station
+***********************************************************************
+Offset Bottom Station: 80
+Offset Top Station: 110
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:62]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:47] [1:851] [2:2127] [3:3072]
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

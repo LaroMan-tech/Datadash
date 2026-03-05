@@ -1,0 +1,190 @@
+Subject: Lift Maintenance UP-004753 at 2025-09-18
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: jb@liftteam.de
+Date: 2025-09-18 15:49:27
+
+***********************************************************************
+UP-004753
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x0
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Jan Brandenburg
+Extra notes from the mechanic:
+Lift hatte einen Ausfall. Der Sitz stand aber nicht auf einem Ladekontakt und die Fehlermeldung wurde durch den Auto-Standby gelöscht
+
+***********************************************************************
+System
+Temperature: 42
+Rail Checksum: 151 | 151
+Current Live: 7848
+Current Peak: 27378
+Supply Battery: 237
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 425
+Total: 65758cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 11850
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 12118
+Channels: 12118
+Angle: 0
+Raw: 33212
+Cal: 32968
+Current: 240
+Current Peak: 240
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 10
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Gerader Bauweise
+Skip:false
+Length:18
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (2-144) Value: 656
+P2| (49) Downward (0-12) Value: 12
+P3| (10) Straight (0-33) Value: 33
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-169) Value: 169
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (26) Upward (0-9) Value: 9
+P9| (10) Straight (6-236) Value: 1772
+P10| (20) Upward (0-3) Value: 3
+P11| (10) Straight (1-224) Value: 480
+P12| (49) Downward (0-12) Value: 12
+P13| (10) Straight (0-71) Value: 71
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-21) Value: 21
+P16| (26) Upward (0-9) Value: 9
+P17| (10) Straight (3-101) Value: 869
+P18| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 33 Set Warning Identification nr: 4-Not Charging
+entry: 32 Clear Warning Identification nr: 4-Not Charging
+entry: 31 Set Warning Identification nr: 4-Not Charging
+entry: 30 Clear Warning Identification nr: 4-Not Charging
+entry: 29 Set Warning Identification nr: 4-Not Charging
+entry: 28 Clear Warning Identification nr: 4-Not Charging
+entry: 27 Set Warning Identification nr: 4-Not Charging
+entry: 26 Clear Error Identification nr: 20-Swivel Encoder Wire Failure
+entry: 25 Clear Warning Identification nr: 4-Not Charging
+entry: 24 Set Warning Identification nr: 4-Not Charging
+entry: 23 Clear Warning Identification nr: 4-Not Charging
+entry: 22 Set Warning Identification nr: 4-Not Charging
+entry: 21 Clear Warning Identification nr: 4-Not Charging
+entry: 20 Set Warning Identification nr: 4-Not Charging
+entry: 19 Clear Warning Identification nr: 4-Not Charging
+entry: 18 Set Warning Identification nr: 4-Not Charging
+entry: 17 Clear Warning Identification nr: 4-Not Charging
+entry: 16 Set Warning Identification nr: 4-Not Charging
+entry: 15 Clear Warning Identification nr: 4-Not Charging
+entry: 14 Set Warning Identification nr: 4-Not Charging
+entry: 13 Clear Warning Identification nr: 4-Not Charging
+entry: 12 Set Warning Identification nr: 4-Not Charging
+entry: 11 Clear Warning Identification nr: 4-Not Charging
+entry: 10 Set Warning Identification nr: 4-Not Charging
+entry: 9 Clear Warning Identification nr: 4-Not Charging
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Bobinsky
+Address = Wilhelm-Krohn-Platz4
+Postal = 23568
+City = Lübeck
+Country = Deutschland
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:719] [2:2048] [3:2814]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks:
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

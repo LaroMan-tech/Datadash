@@ -1,0 +1,179 @@
+Subject: Lift Support UP-004515 at 2024-09-16
+From: Richard Lacy
+To: Support DeVi-Stairlifts; UP Stairlift
+CC: 
+Date: 2024-09-16 17:56:35
+
+*********************************************************************** 
+
+UP-004515
+*********************************************************************** 
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-1
+*********************************************************************** 
+Mechanic: Richard Lacy
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 33
+Rail Checksum: 45 | 45
+Current Live: 486
+Current Peak: 504
+Supply Battery: 249
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 436
+Total: 381885cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11894
+Channels: 11894
+Angle: 2
+Raw: 33465
+Cal: 32830
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 998
+Channels: 998
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 48
+TimeAlive Hours: 13
+TimeAlive days: 2
+*********************************************************************** 
+Skip:false
+Length:12
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (4-238) Value: 1262
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (2-18) Value: 530
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (1-29) Value: 285
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-134) Value: 134
+P8| (26) Upward (0-9) Value: 9
+P9| (10) Straight (9-147) Value: 2451
+P10| (46) Downward (0-9) Value: 9
+P11| (10) Straight (2-53) Value: 565
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 26 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 25 Set Warning Identification nr: 19-Safety Guidance Up Pressed
+entry: 24 Clear Warning Identification nr: 19-Safety Guidance Up Pressed
+entry: 23 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 22 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 21 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 20 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 19 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 18 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 17 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 16 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 15 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 14 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 13 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 12 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 11 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 10 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 9 Set Warning Identification nr: 30-Chair Not Closed
+entry: 8 Clear Warning Identification nr: 30-Chair Not Closed
+entry: 7 Set Warning Identification nr: 4-Not Charging
+entry: 6 Clear Warning Identification nr: 4-Not Charging
+entry: 5 Set Warning Identification nr: 4-Not Charging
+entry: 4 Clear Warning Identification nr: 4-Not Charging
+entry: 3 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 2 Clear Warning Identification nr: 13-ArmRests Not In Position
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left No Addon 
+NR: 1 Enc: 7637 No Swivel Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 20129 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Address = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Postal = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+City = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Country = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Phone = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:672] [2:2048] [3:2943] 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 
+Richard​​​​	 	Lacy	
+Home Access Technician	
+	
+7450 Midlothian Turnpike	
+North Chesterfield	, 	VA	 	23225	
+OFFICE: 
+	804.233.8267	
+mobilityworks.com <http://www.mobilityworks.com/> 
+	
+	

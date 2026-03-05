@@ -1,0 +1,194 @@
+Subject: Lift Maintenance UP-006651 at 2025-09-27
+From: Géresi Miklós
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-09-27 16:08:51
+
+*********************************************************************** 
+UP-006651
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.3    CRC: 0x5454
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: TES
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 40
+Rail Checksum: 181 | 181
+Current Live: 252
+Current Peak: 9594
+Supply Battery: 256
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 425
+Total: 22960cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 3850
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 9999
+Channels: 9999
+Angle: 0
+Raw: 32704
+Cal: 32959
+Current: 0
+Current Peak: 3890
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 130
+Current Peak: 450
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 460
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 17
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:86
+P0| (1) Start   (0-0)  Value: 0
+P1| (10) Straight   (0-250)  Value: 250
+P2| (28) Upward   (0-11)  Value: 11
+P3| (10) Straight   (0-171)  Value: 171
+P4| (48) Downward   (0-11)  Value: 11
+P5| (10) Straight   (0-25)  Value: 25
+P6| (75) Horizontal   (0-18)  Value: 18
+P7| (10) Straight   (0-25)  Value: 25
+P8| (24) Upward   (0-7)  Value: 7
+P9| (10) Straight   (6-181)  Value: 1717
+P10| (22) Upward   (0-5)  Value: 5
+P11| (10) Straight   (3-136)  Value: 904
+P12| (49) Downward   (0-12)  Value: 12
+P13| (10) Straight   (0-25)  Value: 25
+P14| (75) Horizontal   (0-18)  Value: 18
+P15| (10) Straight   (0-82)  Value: 82
+P16| (75) Horizontal   (0-18)  Value: 18
+P17| (10) Straight   (0-25)  Value: 25
+P18| (24) Upward   (0-7)  Value: 7
+P19| (10) Straight   (7-71)  Value: 1863
+P20| (44) Downward   (0-7)  Value: 7
+P21| (10) Straight   (0-178)  Value: 178
+P22| (75) Horizontal   (0-18)  Value: 18
+P23| (10) Straight   (0-250)  Value: 250
+P24| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 101 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 100 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 99 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 98 Set Warning Identification nr: 4-Not Charging
+entry: 97 Clear Warning Identification nr: 4-Not Charging
+entry: 96 Set Warning Identification nr: 4-Not Charging
+entry: 95 Clear Warning Identification nr: 4-Not Charging
+entry: 94 Set Warning Identification nr: 4-Not Charging
+entry: 93 Clear Warning Identification nr: 4-Not Charging
+entry: 92 Set Warning Identification nr: 4-Not Charging
+entry: 91 Clear Warning Identification nr: 4-Not Charging
+entry: 90 Set Warning Identification nr: 4-Not Charging
+entry: 13 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 12 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 11 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 10 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 9 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 8 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 6 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 4 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 3 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 2 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 1 Set Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 24114 Swivel Right  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Balogh Ivàn
+Address = TES Bakony utca
+Postal = 8109
+City = TES
+Country = HU
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:78] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:333] [1:1213] [2:2431] [3:3231] 
+*********************************************************************** 
+Latitude: 47.2681819
+Longitude: 18.050545
+*********************************************************************** 
+Date & Time (tablet): 2025-09-27 16:08:47
+*********************************************************************** 
+App session length: 110m 50s
+*********************************************************************** 
+Location session length: 110m 48s
+*********************************************************************** 
+ 

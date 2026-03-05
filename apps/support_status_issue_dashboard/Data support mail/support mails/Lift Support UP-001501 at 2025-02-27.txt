@@ -1,0 +1,182 @@
+Subject: Lift Support UP-001501 at 2025-02-27
+From: Andy van Leeuwen
+To: Support DeVi-Stairlifts
+CC: info@idumo.de
+Date: 2025-02-28 10:29:29
+
+*********************************************************************** 
+
+UP-001501
+*********************************************************************** 
+App version: V11.0.358
+App type: release
+App version code: 358
+Software Main: V 2.4.9.1 CRC: 0xE128
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x136
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: manuel
+Extra notes from the mechanic: 
+vet Auf die zahnstang gemacht, neue software ,neu schiene eingelernt.
+fussbrett panel fest gemacht.
+
+einige test Fahrenheit gemacht
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 20426
+Total: 786190cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 8450
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32716
+Cal: 32761
+Current: 0
+Current Peak: 3090
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 18
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (3-242) Value: 1010
+P2| (49) Downward (0-12) Value: 12
+P3| (10) Straight (0-210) Value: 210
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-31) Value: 31
+P6| (25) Upward (0-8) Value: 8
+P7| (10) Straight (9-101) Value: 2405
+P8| (45) Downward (0-8) Value: 8
+P9| (10) Straight (1-37) Value: 293
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-25) Value: 25
+P12| (21) Upward (0-4) Value: 4
+P13| (10) Straight (1-240) Value: 496
+P14| (41) Downward (0-4) Value: 4
+P15| (10) Straight (1-49) Value: 305
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (0-200) Value: 200
+P18| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 40 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 39 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 38 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 37 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 36 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 35 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 34 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 33 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 32 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 31 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 30 Set Warning Identification nr: 4-Not Charging
+entry: 29 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 28 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 27 Clear Warning Identification nr: 4-Not Charging
+entry: 26 Set Warning Identification nr: 4-Not Charging
+entry: 25 Clear Warning Identification nr: 4-Not Charging
+entry: 24 Set Warning Identification nr: 4-Not Charging
+entry: 23 Clear Warning Identification nr: 4-Not Charging
+entry: 22 Set Warning Identification nr: 4-Not Charging
+entry: 21 Clear Warning Identification nr: 4-Not Charging
+entry: 20 Set Warning Identification nr: 4-Not Charging
+entry: 19 Clear Warning Identification nr: 4-Not Charging
+entry: 18 Set Warning Identification nr: 4-Not Charging
+entry: 17 Clear Warning Identification nr: 4-Not Charging
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 90
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Dieter Wild
+Address = Betzgerstraße 46
+Postal = 73733
+City = Esslingen am Neckar
+Country = Deutschland
+Phone = 1015
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:878] [2:2114] [3:3072] 
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

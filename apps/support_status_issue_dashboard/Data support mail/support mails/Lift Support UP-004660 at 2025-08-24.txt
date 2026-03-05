@@ -1,0 +1,174 @@
+Subject: Lift Support UP-004660 at 2025-08-24
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-08-24 15:55:09
+
+***********************************************************************
+UP-004660
+***********************************************************************
+App version: V11.0.469
+App type: release
+App version code: 469
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 33556480 |W| 0
+Error Identification nr: 11-Spindle Supply Failure
+Error Identification nr: 25-Swivel Supply Failure
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Jan Brandenburg
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 34
+Rail Checksum: 34 | 34
+Current Live: 0
+Current Peak: 17964
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 424
+Total: 57300cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 7900
+Current Brake: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 11893
+Channels: 11893
+Angle: 0
+Raw: 32881
+Cal: 32851
+Current: 0
+Current Peak: 5150
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 0
+Current Peak: 670
+Driver: false
+Supply: false
+Direction: true
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 1510
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 50
+TimeAlive Hours: 5
+TimeAlive days: 10
+***********************************************************************
+Skip:false
+Length:74
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (3-7) Value: 775
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (0-250) Value: 250
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-60) Value: 60
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-25) Value: 25
+P8| (22) Upward (0-5) Value: 5
+P9| (10) Straight (1-152) Value: 408
+P10| (42) Downward (0-5) Value: 5
+P11| (10) Straight (0-180) Value: 180
+P12| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 86 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 85 Clear Error Identification nr: 25-Swivel Supply Failure
+entry: 84 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 83 Set Error Identification nr: 9-Traction Supply Failure
+entry: 82 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 81 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 80 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 79 Set Error Identification nr: 25-Swivel Supply Failure
+entry: 78 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 77 Clear Error Identification nr: 25-Swivel Supply Failure
+entry: 76 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 75 Set Error Identification nr: 9-Traction Supply Failure
+entry: 74 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 73 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 72 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 71 Set Error Identification nr: 25-Swivel Supply Failure
+entry: 70 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 69 Clear Error Identification nr: 25-Swivel Supply Failure
+entry: 68 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 67 Set Error Identification nr: 9-Traction Supply Failure
+entry: 66 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 7115 Swivel Right No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Ausstellungsraum
+Address = Markttwiete 8-10
+Postal = 23611
+City = Bad Schwartau
+Country = Deutschland
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:15]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:824] [2:2079] [3:3059]
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,178 @@
+Subject: Lift Support UP-006304 at 2025-10-03
+From: MPA UP
+To: Support DeVi-Stairlifts
+CC: scott.block@mobilityplus.com
+Date: 2025-10-03 23:29:16
+
+*********************************************************************** 
+UP-006304
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.8.5    CRC: 0xFD4
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x0
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: scott block
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 32
+Rail Checksum: 35 | 35
+Current Live: 36
+Current Peak: 15012
+Supply Battery: 256
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 19218
+Total: 4834cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 6680
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11893
+Channels: 11893
+Angle: 1
+Raw: 33167
+Cal: 32876
+Current: 0
+Current Peak: 7720
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1151
+Channels: 1151
+Compass: 0
+Current: 0
+Current Peak: 1760
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1240
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 52
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:72
+P0| (1) Start   (0-45)  Value: 45
+P1| (10) Straight   (3-35)  Value: 803
+P2| (46) Downward   (0-9)  Value: 9
+P3| (10) Straight   (2-87)  Value: 599
+P4| (75) Horizontal   (0-18)  Value: 18
+P5| (10) Straight   (1-166)  Value: 422
+P6| (25) Upward   (0-8)  Value: 8
+P7| (10) Straight   (13-227)  Value: 3555
+P8| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 101 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 100 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 99 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 98 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 97 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 96 Set Warning Identification nr: 12-Communication Timed Out
+entry: 95 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 94 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 93 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 92 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 91 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 90 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 89 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 88 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 87 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 86 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 85 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 8 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 6 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 5 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 4 Set Warning Identification nr: 12-Communication Timed Out
+entry: 3 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 2 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 1 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+*********************************************************************** 
+NR: 0 Enc: 526 No Swivel  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 19232 Swivel Right  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 90
+Offset Top Station: 110
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Thomas Partridge
+Address = 148 Lesters Hill
+Postal = 30572
+City = Suches
+Country = usa
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:27] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:77] [1:922] [2:2138] [3:3072] 
+*********************************************************************** 
+Latitude: 34.7259763
+Longitude: -83.9762138
+*********************************************************************** 
+Date & Time (tablet): 2025-10-03 17:28:59
+*********************************************************************** 
+App session length: 52m 47s
+*********************************************************************** 
+Location session length: 52m 47s
+*********************************************************************** 
+ 

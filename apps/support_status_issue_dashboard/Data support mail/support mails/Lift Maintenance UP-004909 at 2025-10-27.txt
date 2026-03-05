@@ -1,0 +1,174 @@
+Subject: Lift Maintenance UP-004909 at 2025-10-27
+From: Nils Stengel
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-10-27 15:28:37
+
+***********************************************************************
+UP-004909
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x0
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Nils Stengel
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 425
+Total: 489945cm
+Channels: false | false
+FrictionWheel: false
+Current: 70
+Current Peak: 1420
+Current Brake: 126
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 22006
+Cal: 21898
+Current: 30
+Current Peak: 30
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 15
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: No Type Defined
+Skip:false
+Length:2
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (23-157) Value: 6045
+P2| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 45 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 44 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 43 Set Warning Identification nr: 19-Safety Guidance Up Pressed
+entry: 42 Clear Warning Identification nr: 19-Safety Guidance Up Pressed
+entry: 41 Set Warning Identification nr: 2-Traction Encoder Out Of Bound
+entry: 40 Clear Warning Identification nr: 2-Traction Encoder Out Of Bound
+entry: 39 Set Warning Identification nr: 4-Not Charging
+entry: 38 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Set Warning Identification nr: 12-Communication Timed Out
+entry: 35 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 34 Clear Warning Identification nr: 4-Not Charging
+entry: 33 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Set Warning Identification nr: 12-Communication Timed Out
+entry: 30 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 29 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 28 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 27 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 26 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 25 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 24 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 23 Set Warning Identification nr: 2-Traction Encoder Out Of Bound
+entry: 22 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 21 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Menges
+Address = Bahnhofstraße 35
+Postal = 23775
+City = Großenbrode
+Country = Deutschland
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:15] [1:890] [2:2127] [3:2872]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks:
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

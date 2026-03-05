@@ -1,0 +1,174 @@
+Subject: Lift Support UP-001126 at 2025-03-06
+From: 康士友 0800880367
+To: Support DeVi-Stairlifts
+CC: frank880367@gmail.com
+Date: 2025-03-06 09:06:30
+
+*********************************************************************** 
+
+UP-001126
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.0.8 CRC: 0x5EDE
+Software Chair: V 1.0.2.9 CRC: 0xC12D
+Software Safety: V 3.33 CRC: 0x136
+*********************************************************************** 
+|E| 0 0 0 0 |W| 8 0 0 0 
+Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 10-1
+*********************************************************************** 
+Mechanic: Frank
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 6228
+Total: 1300921cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 12750
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9995
+Channels: 9995
+Angle: 0
+Raw: 33044
+Cal: 33076
+Current: 0
+Current Peak: 8090
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 49
+TimeAlive Hours: 23
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-75) Value: 75
+P1| (10) Straight (0-181) Value: 181
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (2-207) Value: 719
+P4| (47) Downward (0-10) Value: 10
+P5| (10) Straight (3-18) Value: 786
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-177) Value: 177
+P8| (26) Upward (0-9) Value: 9
+P9| (10) Straight (16-164) Value: 4260
+P10| (46) Downward (0-9) Value: 9
+P11| (10) Straight (6-124) Value: 1660
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 97 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 96 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 95 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 94 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 93 Set Warning Identification nr: 12-Communication Timed Out
+entry: 92 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 91 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 90 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 89 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 88 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 87 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 86 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 85 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 84 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 83 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 82 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 81 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 80 Set Warning Identification nr: 4-Not Charging
+entry: 79 Clear Warning Identification nr: 4-Not Charging
+entry: 78 Set Warning Identification nr: 4-Not Charging
+entry: 77 Clear Warning Identification nr: 4-Not Charging
+entry: 76 Set Warning Identification nr: 4-Not Charging
+entry: 75 Clear Warning Identification nr: 4-Not Charging
+entry: 74 Set Warning Identification nr: 4-Not Charging
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Enc: 6218 No Swivel No Addon 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 1010
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:154] [1:1024] [2:2192] [3:3072] 
+*********************************************************************** 
+
+取得 Android 版 Outlook <https://aka.ms/AAb9ysg> 

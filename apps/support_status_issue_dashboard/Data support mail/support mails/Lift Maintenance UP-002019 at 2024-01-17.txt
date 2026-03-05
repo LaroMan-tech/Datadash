@@ -1,0 +1,181 @@
+Subject: Lift Maintenance UP-002019 at 2024-01-17
+From: up_cad@24-7healthcare.co.uk
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-01-17 13:51:03
+
+*********************************************************************** 
+
+UP-002019
+*********************************************************************** 
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x136
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 12-3
+*********************************************************************** 
+Mechanic: Keith Galand 
+Extra notes from the mechanic: 
+charging pin broken 
+
+*********************************************************************** 
+System
+Temperature: 32
+Rail Checksum: 204 | 204
+Current Live: 54
+Current Peak: 7344
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 16744
+Total: 223354cm
+Channels: true | true
+FrictionWheel: true
+Current: 30
+Current Peak: 3730
+Current Brake: 54
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10715
+Channels: 10715
+Angle: 0
+Raw: 32307
+Cal: 32377
+Current: 30
+Current Peak: 2930
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 998
+Channels: 998
+Compass: 100
+Current: 30
+Current Peak: 330
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 30
+Current Peak: 1140
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 23
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:9
+P0| (1) Start (0-45) Value: 45
+P1| (10) Straight (12-140) Value: 3212
+P2| (46) Downward (0-9) Value: 9
+P3| (10) Straight (0-219) Value: 219
+P4| (26) Upward (0-9) Value: 9
+P5| (10) Straight (0-248) Value: 248
+P6| (46) Downward (0-9) Value: 9
+P7| (10) Straight (0-25) Value: 25
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-25) Value: 25
+P10| (20) Upward (0-3) Value: 3
+P11| (10) Straight (2-188) Value: 700
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 49 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 48 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 47 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 46 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 45 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 44 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 43 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 42 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 41 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 40 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 39 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 38 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 31 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 30 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 29 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 28 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 27 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 26 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Enc: 3882 No Swivel Hingedrail 
+NR: 2 Enc: 4801 No Swivel No Addon 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 16755 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 80
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Brian Howard
+Address = 50 Homestead Rd
+Postal = RM8 3DR
+City = Romford
+Country = UK
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:162] [1:1080] [2:2352] [3:3221] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+***********************************************************************
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

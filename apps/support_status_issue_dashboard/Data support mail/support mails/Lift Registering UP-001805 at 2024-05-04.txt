@@ -1,0 +1,171 @@
+Subject: Lift Registering UP-001805 at 2024-05-04
+From: EURO ASIA ACCESS SOLUTIONS SDN BHD
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-05-04 05:32:59
+
+*********************************************************************** 
+UP-001805
+*********************************************************************** 
+Software Main: V 2.4.0.8    CRC: 0x5EDE
+Software Chair: V 1.0.2.9    CRC: 0x3F4B
+Software Safety: V 3.33    CRC: 0x136
+*********************************************************************** 
+|E| 0 0 0 0  |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 10-1
+*********************************************************************** 
+System
+Temperature: 35
+Rail Checksum: 53 | 53
+Current Live: 432
+Current Peak: 2430
+Supply Battery: 245
+Supply Chair: 124
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 10022
+Total: 18210cm
+Channels: false | false
+FrictionWheel: true
+Current: 30
+Current Peak: 30
+Current Brake: 54
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 33109
+Cal: 33145
+Current: 30
+Current Peak: 30
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 30
+Current Peak: 30
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 570
+Current Peak: 2230
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 7
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:13
+P0| (1) Start   (0-35)  Value: 35
+P1| (10) Straight   (2-127)  Value: 639
+P2| (44) Downward   (0-7)  Value: 7
+P3| (10) Straight   (2-214)  Value: 726
+P4| (75) Horizontal   (0-18)  Value: 18
+P5| (10) Straight   (1-171)  Value: 427
+P6| (24) Upward   (0-7)  Value: 7
+P7| (10) Straight   (9-39)  Value: 2343
+P8| (44) Downward   (0-7)  Value: 7
+P9| (10) Straight   (2-91)  Value: 603
+P10| (75) Horizontal   (0-18)  Value: 18
+P11| (10) Straight   (1-82)  Value: 338
+P12| (25) Upward   (0-8)  Value: 8
+P13| (10) Straight   (7-177)  Value: 1969
+P14| (45) Downward   (0-8)  Value: 8
+P15| (10) Straight   (1-97)  Value: 353
+P16| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 35 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 30 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 29 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 28 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 27 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 26 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 25 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 24 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 23 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 22 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 21 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 20 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 19 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 18 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 17 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 16 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 15 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 14 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 12 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right  Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 27907 Swivel Left  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = CK CARE CENTRE                 ����
+Address = KOTA DAMANSARA                 ����
+Postal = 47810                          ����
+City = PETALING JAYA                  ����
+Country = MALAYSIA                       ����
+Phone =                                ����
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:500] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:120] [1:1055] [2:2367] [3:3205] 
+*********************************************************************** 
+Suppression Warnings:     0xFFFFFFFF
+Suppression Errors:       0xFFFFFFFF
+Suppression Safeties:     0xFFFFFFFE
+*********************************************************************** 
+*********************************************************************** 
+ 

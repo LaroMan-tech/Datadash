@@ -1,0 +1,174 @@
+Subject: Lift Support UP-004427 at 2024-10-11
+From: Manuel Hildinger
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-10-11 10:01:58
+
+*********************************************************************** 
+
+UP-004427
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.3.0 CRC: 0x64CB
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 8 0 0 0 
+Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+Safety Feed: 10-1
+Safety Last Seen: 1-145
+*********************************************************************** 
+Mechanic: Hildinger
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 16110
+Total: 687250cm
+Channels: false | true
+FrictionWheel: false
+Current: 0
+Current Peak: 18090
+Current Brake: 18
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32746
+Cal: 32657
+Current: 30
+Current Peak: 4800
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 9
+TimeAlive Hours: 18
+TimeAlive days: 24
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (1-42) Value: 298
+P2| (44) Downward (0-7) Value: 7
+P3| (10) Straight (2-93) Value: 605
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (0-25) Value: 25
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-33) Value: 33
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (11-223) Value: 3039
+P10| (44) Downward (0-7) Value: 7
+P11| (10) Straight (0-255) Value: 255
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 100 Set Warning Identification nr: 12-Communication Timed Out
+entry: 99 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 98 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 97 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 96 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 95 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 94 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 93 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 92 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 91 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 90 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 89 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 88 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 87 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 86 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 85 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 84 Set Warning Identification nr: 12-Communication Timed Out
+entry: 83 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 82 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 81 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 80 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 79 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 78 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 77 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 76 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 80
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Katharina Pfeifer
+Address = Pfalzgrafenweiler 33
+Postal = 55232
+City = Alzey
+Country = Deutschland
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:894] [2:2181] [3:3103] 
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,187 @@
+Subject: Lift Maintenance UP-001902 at 2025-08-25
+From: Devi Tablet
+To: Support DeVi-Stairlifts
+CC: jj@nationalstairlifts.com.au
+Date: 2025-08-25 07:18:14
+
+*********************************************************************** 
+
+UP-001902
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 215
+Software Main: V 2.4.0.8 CRC: 0x5EDE
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x53CF
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+*********************************************************************** 
+Mechanic: Up-005595
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 34
+Rail Checksum: 89 | 89
+Current Live: 0
+Current Peak: 6840
+Supply Battery: 256
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 438
+Total: 1747433cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 3280
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 12762
+Channels: 12762
+Angle: 1
+Raw: 32240
+Cal: 32531
+Current: 0
+Current Peak: 4280
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1001
+Channels: 1001
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 250
+Current Peak: 1560
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 23
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:14
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (2-85) Value: 597
+P2| (49) Downward (0-12) Value: 12
+P3| (10) Straight (1-143) Value: 399
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-190) Value: 190
+P6| (25) Upward (0-8) Value: 8
+P7| (10) Straight (13-104) Value: 3432
+P8| (45) Downward (0-8) Value: 8
+P9| (10) Straight (1-129) Value: 385
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-112) Value: 112
+P12| (21) Upward (0-4) Value: 4
+P13| (10) Straight (2-96) Value: 608
+P14| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 19 Set Warning Identification nr: 4-Not Charging
+entry: 18 Clear Warning Identification nr: 4-Not Charging
+entry: 17 Set Warning Identification nr: 4-Not Charging
+entry: 16 Clear Warning Identification nr: 4-Not Charging
+entry: 15 Set Warning Identification nr: 4-Not Charging
+entry: 14 Clear Warning Identification nr: 4-Not Charging
+entry: 13 Set Warning Identification nr: 4-Not Charging
+entry: 12 Clear Warning Identification nr: 4-Not Charging
+entry: 11 Set Warning Identification nr: 4-Not Charging
+entry: 10 Clear Warning Identification nr: 4-Not Charging
+entry: 9 Set Warning Identification nr: 4-Not Charging
+entry: 8 Clear Warning Identification nr: 4-Not Charging
+entry: 7 Set Warning Identification nr: 4-Not Charging
+entry: 6 Clear Warning Identification nr: 4-Not Charging
+entry: 5 Set Warning Identification nr: 4-Not Charging
+entry: 4 Clear Warning Identification nr: 4-Not Charging
+entry: 3 Set Warning Identification nr: 4-Not Charging
+entry: 2 Clear Warning Identification nr: 4-Not Charging
+entry: 1 Set Warning Identification nr: 4-Not Charging
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 22062 Swivel Left Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Mary Harris
+Address = 2/20 Piers St
+Postal = 4105
+City = Moorooka
+Country = Australia
+Phone = 0407028796
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:74] [1:841] [2:2063] [3:2977] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

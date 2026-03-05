@@ -1,0 +1,183 @@
+Subject: Lift Support UP-004612 at 2024-06-03
+From: Samir El Assioui
+To: Support DeVi-Stairlifts
+CC: Soporte Tecnico (Valida)
+Date: 2024-06-03 11:09:29
+
+*********************************************************************** 
+
+UP-004612
+*********************************************************************** 
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 16 
+Número de identificación de advertencia: 4-No esta cargando
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+*********************************************************************** 
+System
+Temperature: 30
+Rail Checksum: 100 | 100
+Current Live: 108
+Current Peak: 468
+Supply Battery: 246
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 2186
+Total: 34730cm
+Channels: false | true
+FrictionWheel: true
+Current: 40
+Current Peak: 40
+Current Brake: 90
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 12647
+Channels: 12647
+Angle: 0
+Raw: 32813
+Cal: 32977
+Current: 40
+Current Peak: 40
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 998
+Channels: 998
+Compass: 100
+Current: 40
+Current Peak: 40
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 50
+Current Peak: 300
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 1
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 15
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:4
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (2-83) Value: 595
+P2| (51) Downward (0-14) Value: 14
+P3| (10) Straight (0-25) Value: 25
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-120) Value: 120
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (25) Upward (0-8) Value: 8
+P9| (10) Straight (12-48) Value: 3120
+P10| (45) Downward (0-8) Value: 8
+P11| (10) Straight (1-82) Value: 338
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 2 Set Número de identificación de advertencia: 18-Reposapiés de seguridad presionado a la derecha
+entry: 1 Clear Número de identificación de advertencia: 18-Reposapiés de seguridad presionado a la derecha
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 16968 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ���������������
+Address = ���������������
+Postal = ���������������
+City = ���������������
+Country = ���������������
+Phone = 1016 ���������������
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:4] [1:702] [2:2048] [3:2906] 
+*********************************************************************** 
+Suppression Warnings: 0xFFFFFFFF
+Suppression Errors: 0xFFFFFFFF
+Suppression Safeties: 0xFFFFFFFF
+*********************************************************************** 
+*********************************************************************** 
+
+ <https://www.valida.es/uploads/firmaemails/logo_es.png> 	 <https://www.valida.es/uploads/firmaemails/f_selassioui@valida.es.png> 	
+
+Samir El Assioui
+Montajes
+
+Tel. | Ext. 4404 
+www.valida.es <http://www.valida.es>  	
+
+De acuerdo con aquello dispuesto en la normativa de protección de datos vigente, VALIDA SOLUTIONS, S.L.U., se compromete a utilizar únicamente los datos que le solicitamos con el fin de prestarle el servicio de asesoramiento telemático por usted solicitado. Por su seguridad, sus datos pasarán a formar parte de un fichero automatizado debidamente inscrito en la Agencia de Protección de Datos, cuyo responsable de tratamiento es VALIDA SOLUTIONS SL. Sus datos serán conservados el tiempo necesario para la realización de la finalidad para la que han sido comunicados, excepto previsión legal expresa. Si desea ejercer cualquiera de los derechos amparados en la Ley (acceso, rectificación, cancelación, supresión, o, revocación del consentimiento), dirija un escrito al correo electrónico marketing@valida.es <mailto:marketing@valida.es> . 
+
+
+Antes de imprimir este documento piense si es necesario, el medio ambiente es responsabilidad de todos. 
+ <https://www.facebook.com/Validasinbarreras>      <https://twitter.com/ValidaOnline>      <https://www.instagram.com/validasinbarreras/>      <https://www.youtube.com/user/validasinbarreras>  	
+fvsb-g 

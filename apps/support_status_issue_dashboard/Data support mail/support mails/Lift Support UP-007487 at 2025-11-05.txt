@@ -1,0 +1,175 @@
+Subject: Lift Support UP-007487 at 2025-11-05
+From: Thomas Zwingelberg
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-11-05 18:23:22
+
+***********************************************************************
+UP-007487
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.9.4 CRC: 0xD705
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 1 0 |W| 20 0 0 144
+Error Identification nr: 8-Traction Overspeed Detected
+Warning Identification nr: 4-Not Charging
+Warning Identification nr: 7-Chair Error Too High
+Warning Identification nr: 26-Rail Checksum Incorrect
+Warning Identification nr: 28-Rail Improbable
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Thomas Zwingelberg
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 12612
+Total: 3751cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 12540
+Current Brake: 0
+Driver: false
+Supply: false
+Direction: true
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10004
+Channels: 10004
+Angle: 0
+Raw: 32831
+Cal: 32829
+Current: 0
+Current Peak: 9910
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 3
+TimeAlive Hours: 2
+TimeAlive days: 0
+***********************************************************************
+Lift type: Gerader Bauweise
+Skip:false
+Length:10
+P0| (0) (0-0) Value: 0
+P1| (10) Straight (13-109) Value: 3437
+P2| (46) Downward (0-9) Value: 9
+P3| (10) Straight (1-105) Value: 361
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-130) Value: 130
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-25) Value: 25
+P8| (22) Upward (0-5) Value: 5
+P9| (10) Straight (2-49) Value: 561
+P10| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 48 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 47 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 46 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 45 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 44 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 43 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 42 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 41 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 40 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 39 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 38 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 37 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 36 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 35 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 34 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 33 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 32 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 31 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 30 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 29 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 28 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 27 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 26 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 25 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 492 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 80
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Tünke
+Address = Westpreußenring 3
+Postal = 23569
+City = Lübeck
+Country = Deutschland
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:79]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:667] [2:2048] [3:3007]
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

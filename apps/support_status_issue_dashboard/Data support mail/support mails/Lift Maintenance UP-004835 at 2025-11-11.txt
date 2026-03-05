@@ -1,0 +1,191 @@
+Subject: Lift Maintenance UP-004835 at 2025-11-11
+From: EURO ASIA ACCESS SOLUTIONS SDN BHD
+To: Support DeVi-Stairlifts
+CC: shah.shafxq@gmail.com; zahir@stairliftworld.my; smith1108@ymail.com
+Date: 2025-11-11 07:29:57
+
+*********************************************************************** 
+
+UP-004835
+*********************************************************************** 
+Software Main: V 2.4.8.0 CRC: 0xC2AF
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+*********************************************************************** 
+Mechanic: rais
+Extra notes from the mechanic: 
+Done service and cleaning
+Battery and charger (ok) 
+Clean all rollerparts
+All safety function
+Lift run as normal
+
+*********************************************************************** 
+System
+Temperature: 44
+Rail Checksum: 83 | 83
+Current Live: 0
+Current Peak: 14454
+Supply Battery: 250
+Supply Chair: 124
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 436
+Total: 185587cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 6270
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11893
+Channels: 11893
+Angle: 1
+Raw: 32959
+Cal: 32633
+Current: 0
+Current Peak: 4240
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 870
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 6
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:15
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (4-59) Value: 1083
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (1-228) Value: 484
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-50) Value: 50
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-205) Value: 205
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (12-22) Value: 3094
+P10| (44) Downward (0-7) Value: 7
+P11| (10) Straight (1-194) Value: 450
+P12| (66) Horizontal (0-9) Value: 9
+P13| (10) Straight (0-50) Value: 50
+P14| (66) Horizontal (0-9) Value: 9
+P15| (10) Straight (0-97) Value: 97
+P16| (24) Upward (0-7) Value: 7
+P17| (10) Straight (5-92) Value: 1372
+P18| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 4 Set Warning Identification nr: 4-Not Charging
+entry: 3 Clear Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 4-Not Charging
+entry: 1 Clear Warning Identification nr: 4-Not Charging
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 25781 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Hazlin
+Address = No.30JlnPandanPrima5
+Postal = 53200
+City = Ampang
+Country = Malaysia
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:85] [1:965] [2:2111] [3:2815] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

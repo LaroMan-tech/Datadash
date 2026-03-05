@@ -1,0 +1,182 @@
+Subject: Lift Support UP-004444 at 2025-11-21
+From: Marco
+To: Support DeVi-Stairlifts
+CC: Stefan Kleinhenz
+Date: 2025-11-21 13:27:20
+
+*********************************************************************** 
+UP-004444
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.7.4    CRC: 0x131A
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 536871040
+Warning Identification nr: 7-Chair Error Too High
+Warning Identification nr: 29-EEprom CRC Incorrect
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+*********************************************************************** 
+Mechanic: Stefan Kleinhenz
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 34
+Rail Checksum: 165 | 165
+Current Live: 18
+Current Peak: 1422
+Supply Battery: 244
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 20757
+Total: 1829282cm
+Channels: false | true
+FrictionWheel: true
+Current: 20
+Current Peak: 20
+Current Brake: 18
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10035
+Channels: 10035
+Angle: 0
+Raw: 32276
+Cal: 32397
+Current: 10
+Current Peak: 4180
+Driver: false
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 10
+Current Peak: 20
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 240
+Current Peak: 1720
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 1
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 5
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:72
+P0| (1) Start   (0-0)  Value: 0
+P1| (10) Straight   (1-194)  Value: 450
+P2| (29) Upward   (0-12)  Value: 12
+P3| (10) Straight   (2-212)  Value: 724
+P4| (49) Downward   (0-12)  Value: 12
+P5| (10) Straight   (2-11)  Value: 523
+P6| (75) Horizontal   (0-18)  Value: 18
+P7| (10) Straight   (0-25)  Value: 25
+P8| (23) Upward   (0-6)  Value: 6
+P9| (10) Straight   (15-194)  Value: 4034
+P10| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 8 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 7 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 6 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 5 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 4 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 3 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 2 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 1 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 761 No Swivel  Charge Station 
+NR: 1 Enc: 6257 No Swivel  Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 20741 Swivel Right  Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 160
+Offset Top Station: 200
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 1016
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:500] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:894] [2:2191] [3:3103] 
+*********************************************************************** 
+Latitude: 49.4172876
+Longitude: 10.983662
+*********************************************************************** 
+Date & Time (tablet): 2025-11-21 13:27:09
+*********************************************************************** 
+App session length: 9m 10s
+*********************************************************************** 
+Location session length: 9m 9s
+*********************************************************************** 
+ 

@@ -1,0 +1,201 @@
+Subject: Lift Support UP-005730 at 2025-09-29
+From: frodriguez
+To: Support DeVi-Stairlifts; Support DeVi-Stairlifts
+CC: frodriguez
+Date: 2025-09-30 01:28:50
+
+
+
+*********************************************************************** 
+UP-005730
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: Yes
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Francisco Rodriguez 
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 47
+Rail Checksum: 155 | 155
+Current Live: 0
+Current Peak: 23526
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 470
+Total: 7511cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 11990
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 12761
+Channels: 12761
+Angle: 1
+Raw: 33281
+Cal: 32728
+Current: 110
+Current Peak: 5500
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 1250
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1080
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 5
+TimeAlive Hours: 4
+TimeAlive days: 3
+*********************************************************************** 
+Skip:false
+Length:80
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (0-248) Value: 248
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (7-77) Value: 1869
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (2-145) Value: 657
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (1-104) Value: 360
+P8| (23) Upward (0-6) Value: 6
+P9| (10) Straight (2-123) Value: 635
+P10| (43) Downward (0-6) Value: 6
+P11| (10) Straight (1-168) Value: 424
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (1-91) Value: 347
+P14| (24) Upward (0-7) Value: 7
+P15| (10) Straight (7-60) Value: 1852
+P16| (44) Downward (0-7) Value: 7
+P17| (10) Straight (2-55) Value: 567
+P18| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 16 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 15 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 14 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 12 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 11 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 10 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 9 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 8 Set Warning Identification nr: 4-Not Charging
+entry: 7 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 6 Clear Warning Identification nr: 4-Not Charging
+entry: 5 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 4 Set Warning Identification nr: 4-Not Charging
+entry: 3 Clear Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 4-Not Charging
+entry: 1 Set Warning Identification nr: 7-Chair Error Too High
+entry: 101 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 100 Set Warning Identification nr: 7-Chair Error Too High
+entry: 99 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 98 Set Warning Identification nr: 7-Chair Error Too High
+entry: 97 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 96 Set Warning Identification nr: 7-Chair Error Too High
+entry: 95 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 94 Set Warning Identification nr: 7-Chair Error Too High
+entry: 93 Clear Warning Identification nr: 7-Chair Error Too High
+*********************************************************************** 
+NR: 0 Enc: 459 Swivel Left Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 26496 No Swivel Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 70
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Teresa Ruiz
+Address = Francisco de Quevedo
+Postal = 66450
+City = San Nicolas
+Country = Mexico
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:48] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:818] [2:2119] [3:3083] 
+*********************************************************************** 
+Latitude: 25.7326791
+Longitude: -100.3147609
+*********************************************************************** 
+Date & Time (tablet): 2025-09-29 17:28:20
+*********************************************************************** 
+App session length: 13m 21s
+*********************************************************************** 
+Location session length: 13m 19s
+*********************************************************************** 
+
+
+
+
+--
+Lic. Francisco J. Rodríguez Villarreal
+frodriguez@grupohallbart.com <mailto: frodriguez@grupohallbart.com> 
+
+ <https://www.ecoelevadores.com/> 
+
+:: Please think about the environment before printing this message ::
+

@@ -1,0 +1,187 @@
+Subject: Lift Support UP-006290 at 2025-11-24
+From: Manuel Hildinger
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-11-24 11:08:28
+
+*********************************************************************** 
+
+UP-006290
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.8.5 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 128
+Warning Identification nr: 7-Chair Error Too High
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: hildinger
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 30
+Rail Checksum: 29 | 29
+Current Live: 0
+Current Peak: 126
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 425
+Total: 516201cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10044
+Channels: 10044
+Angle: 0
+Raw: 33545
+Cal: 33561
+Current: 390
+Current Peak: 750
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 230
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 10
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:76
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (4-128) Value: 1152
+P2| (23) Upward (0-6) Value: 6
+P3| (10) Straight (0-103) Value: 103
+P4| (51) Downward (0-14) Value: 14
+P5| (10) Straight (0-25) Value: 25
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (25) Upward (0-8) Value: 8
+P9| (10) Straight (10-117) Value: 2677
+P10| (45) Downward (0-8) Value: 8
+P11| (10) Straight (1-86) Value: 342
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (4-71) Value: 1095
+P14| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 18 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 17 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 16 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 15 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 14 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 12 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 11 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 10 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 9 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 8 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 6 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 4 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 3 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 2 Set Warning Identification nr: 12-Communication Timed Out
+entry: 1 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 21196 No Swivel Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 63
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:56] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:652] [2:2048] [3:2948] 
+*********************************************************************** 
+Latitude: 49.05042577
+Longitude: 7.95102332
+*********************************************************************** 
+Date & Time (tablet): 2025-11-24 11:07:55
+*********************************************************************** 
+App session length: 21m 25s
+*********************************************************************** 
+Location session length: 18m 36s
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

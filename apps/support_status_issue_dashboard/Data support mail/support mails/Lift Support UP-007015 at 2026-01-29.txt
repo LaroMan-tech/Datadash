@@ -1,0 +1,213 @@
+Subject: Lift Support UP-007015 at 2026-01-29
+From: Vignesh Karthikeyan
+To: Support DeVi-Stairlifts
+CC: rifutoelevators@gmail.com
+Date: 2026-01-29 10:50:14
+
+*********************************************************************** 
+UP-007015
+*********************************************************************** 
+App version: V11.1.562
+App type: release
+App version code: 562
+Software Main: V 2.4.9.3    CRC: 0x5454
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.3.3.0    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 64 |W| 0
+Error Identification nr: 6-Traction Encoder Failure
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: VIGNESH  K
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 45
+Rail Checksum: 244 | 244
+Current Live: 540
+Current Peak: 6048
+Supply Battery: 246
+Supply Chair: 134Supply Logic: 57Armrests: L:true R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 51379
+Total: 730448cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 2330
+Current Brake: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9999
+Channels: false | false
+Angle: 0
+Raw: 32549
+Cal: 32536
+Current: 0
+Current Peak: 170
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 1002
+Channels: true | false
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 240
+Current Peak: 1570
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 23
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:98
+P0| (1) Start   (0-0)  Value: 0
+P1| (10) Straight   (1-106)  Value: 362
+P2| (24) Upward   (0-7)  Value: 7
+P3| (10) Straight   (1-127)  Value: 383
+P4| (44) Downward   (0-7)  Value: 7
+P5| (10) Straight   (0-53)  Value: 53
+P6| (75) Horizontal   (0-18)  Value: 18
+P7| (10) Straight   (0-123)  Value: 123
+P8| (75) Horizontal   (0-18)  Value: 18
+P9| (10) Straight   (0-36)  Value: 36
+P10| (25) Upward   (0-8)  Value: 8
+P11| (10) Straight   (9-69)  Value: 2373
+P12| (45) Downward   (0-8)  Value: 8
+P13| (10) Straight   (0-98)  Value: 98
+P14| (75) Horizontal   (0-18)  Value: 18
+P15| (10) Straight   (0-101)  Value: 101
+P16| (75) Horizontal   (0-18)  Value: 18
+P17| (10) Straight   (0-51)  Value: 51
+P18| (24) Upward   (0-7)  Value: 7
+P19| (10) Straight   (9-23)  Value: 2327
+P20| (44) Downward   (0-7)  Value: 7
+P21| (10) Straight   (0-144)  Value: 144
+P22| (75) Horizontal   (0-18)  Value: 18
+P23| (10) Straight   (0-121)  Value: 121
+P24| (75) Horizontal   (0-18)  Value: 18
+P25| (10) Straight   (0-28)  Value: 28
+P26| (24) Upward   (0-7)  Value: 7
+P27| (10) Straight   (4-93)  Value: 1117
+P28| (20) Upward   (0-3)  Value: 3
+P29| (10) Straight   (0-234)  Value: 234
+P30| (40) Downward   (0-3)  Value: 3
+P31| (10) Straight   (4-226)  Value: 1250
+P32| (44) Downward   (0-7)  Value: 7
+P33| (10) Straight   (0-121)  Value: 121
+P34| (75) Horizontal   (0-18)  Value: 18
+P35| (10) Straight   (0-150)  Value: 150
+P36| (75) Horizontal   (0-18)  Value: 18
+P37| (10) Straight   (0-31)  Value: 31
+P38| (24) Upward   (0-7)  Value: 7
+P39| (10) Straight   (9-41)  Value: 2345
+P40| (44) Downward   (0-7)  Value: 7
+P41| (10) Straight   (1-29)  Value: 285
+P42| (75) Horizontal   (0-18)  Value: 18
+P43| (10) Straight   (1-244)  Value: 500
+P44| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 2 Clear Error Identification nr: 6-Traction Encoder Failure
+entry: 1 Clear Error Identification nr: 6-Traction Encoder Failure
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 492 No Swivel  No Addon 
+NR: 1 Enc: 26565 No Swivel  Charge Station 
+NR: 2 Enc: 25189 No Swivel  Charge Station 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 51379 No Swivel  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 80
+Offset Top Station: 80
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Ranjini arumugam
+Address = I block Anna Nagar
+Postal = 600102
+City = Chennai
+Country = IN
+Phone = 12
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:24] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:591] [2:2048] [3:2947] 
+*********************************************************************** 
+Latitude: 13.08911913
+Longitude: 80.22059028
+*********************************************************************** 
+Date & Time (tablet): 2026-01-29 15:19:04
+*********************************************************************** 
+App session length: 1m 31s
+*********************************************************************** 
+Location session length: 1m 27s
+*********************************************************************** 
+ 

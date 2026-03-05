@@ -1,0 +1,55 @@
+Subject: Fwd: NCR 2/5 Central Ave, Jamboree Heights QLD Faulty stairlift
+From: JJ Kemp - National Stairlifts
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-09-17 12:19:05
+
+We installed Up-1907 and it draws too much current with weight on when it runs from a level part to an incline.  As soon as the spindle motor levels the seat, the voltage on the batteries drops below 22V and the lift stops.  We replaced the main board and spindle motor and it still did the same.  We replaced the stairlift with another stairlift and it has been working fine since the end of June.
+
+
+Kind regards,
+JJ Kemp	
+Technical Manager	
+ <http://nationalstairlifts.com.au/email-signature/spacer.gif> 	
+ <http://nationalstairlifts.com.au/> 	
+ <http://nationalstairlifts.com.au/email-signature/spacer.gif> 	
+T 07 3279 0401     T 1800 940 575     M 0413 333 746
+A 15/40 Counihan Rd, Seventeen Mile Rocks 4073
+W nationalstairlifts.com.au <http://nationalstairlifts.com.au/> 	
+ <http://nationalstairlifts.com.au/email-signature/spacer.gif> 	
+	
+ <http://nationalstairlifts.com.au/email-signature/spacer.gif> 	
+National Stairlifts Pty Ltd     	
+ <http://nationalstairlifts.com.au/email-signature/spacer.gif> 	
+ABN 88 627 357 386    QBCC #15102469    Qld Electrical #85362    NSW Electrical #331996C	
+ <http://nationalstairlifts.com.au/email-signature/spacer.gif> 	
+Please consider the environment before printing this email. This e-mail and any attachments are confidential and may contain copyright material. If you are not the intended recipient of this email you should not read, print, re-transmit, store or act in reliance on this e-mail or any attachments, and should destroy all copies of any emails or any attached files. The views or opinions expressed are the author's own and may not reflect the views or opinions of others.	
+
+
+---------- Forwarded message ---------
+From: Stefan Kleynhans <stefan@nationalstairlifts.com.au <mailto:stefan@nationalstairlifts.com.au> >
+Date: Tue, Jul 9, 2024 at 6:52 AM
+Subject: NCR 2/5 Central Ave, Jamboree Heights QLD Faulty stairlift
+To: National Stairlifts - JJ Kemp <jj@nationalstairlifts.com.au <mailto:jj@nationalstairlifts.com.au> >
+
+
+
+Stairlift draw to much current and stop on the first up bend from bottom. Voltage drop below 21.9 V. Current on app show 16000mA for traction and spindle 20000mA. Traction motor resistance 0.6 ohm, spindle resistance 0.6 ohm. Replaced the batteries.
+Changed the spindle motor but it still did the same. Have changed the PCB but fault still occur. Up-001907
+Changed the stairlift with no problem at bend.
+
+Kind regards,
+Stefan Kleynhans
+Installation Manager
+
+National Stairlifts
+
+T 1800 940 575 M 0434 860 522
+E stefan@nationalstairlifts.com.au <mailto:stefan@nationalstairlifts.com.au> 
+W nationalstairlifts.com.au <http://nationalstairlifts.com.au> 
+
+National Stairlifts Pty Ltd     
+
+ABN 88 627 357 386 QBCC #15102469 QLD Electrical #85362
+
+Please consider the environment before printing this email. This e-mail and any attachments are confidential and may contain copyright material. If you are not the intended recipient of this email you should not read, print, re-transmit, store or act in reliance on this e-mail or any attachments, and should destroy all copies of any emails or any attached files. The views or opinions expressed are the author's own and may not reflect the views or opinions of others.

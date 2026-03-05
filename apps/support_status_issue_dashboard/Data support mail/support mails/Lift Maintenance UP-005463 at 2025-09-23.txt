@@ -1,0 +1,192 @@
+Subject: Lift Maintenance UP-005463 at 2025-09-23
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: jb@liftteam.de
+Date: 2025-09-26 09:50:49
+
+***********************************************************************
+UP-005463
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.9.4 CRC: 0xD705
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x0
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Jan Brandenburg
+Extra notes from the mechanic:
+after Update
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 20835
+Total: 2463178cm
+Channels: false | true
+FrictionWheel: false
+Current: 0
+Current Peak: 10450
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32640
+Cal: 32905
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 4
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (1-229) Value: 485
+P2| (49) Downward (0-12) Value: 12
+P3| (10) Straight (0-25) Value: 25
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-130) Value: 130
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-130) Value: 130
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-36) Value: 36
+P10| (29) Upward (0-12) Value: 12
+P11| (10) Straight (0-95) Value: 95
+P12| (41) Downward (0-4) Value: 4
+P13| (10) Straight (12-36) Value: 3108
+P14| (45) Downward (0-8) Value: 8
+P15| (10) Straight (1-63) Value: 319
+P16| (62) Horizontal (0-5) Value: 5
+P17| (10) Straight (0-99) Value: 99
+P18| (62) Horizontal (0-5) Value: 5
+P19| (10) Straight (3-75) Value: 843
+P20| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Enc: 4278 No Swivel Charge Station
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 160
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Lübke
+Address = Am Händelplatz 23
+Postal = 23611
+City = Bad Schwartau
+Country = Deutschland
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:27]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:877] [2:2176] [3:3087]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks:
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

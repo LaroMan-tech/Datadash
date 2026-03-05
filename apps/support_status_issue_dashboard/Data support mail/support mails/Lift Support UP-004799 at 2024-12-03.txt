@@ -1,0 +1,179 @@
+Subject: Lift Support UP-004799 at 2024-12-03
+From: Ersin Teker
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-12-03 11:41:37
+
+*********************************************************************** 
+
+UP-004799
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.0 CRC: 0xC2AF
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+*********************************************************************** 
+Mechanic: teker
+Extra notes from the mechanic: 
+Wie mit Andy besprochen 
+
+*********************************************************************** 
+System
+Temperature: 42
+Rail Checksum: 51 | 51
+Current Live: 54
+Current Peak: 43362
+Supply Battery: 256
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 21000
+Total: 910653cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 22730
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 13155
+Channels: 13155
+Angle: 0
+Raw: 33031
+Cal: 33150
+Current: 0
+Current Peak: 32760
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1152
+Channels: 1152
+Compass: 0
+Current: 0
+Current Peak: 3400
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 310
+Current Peak: 1700
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 29
+TimeAlive Hours: 16
+TimeAlive days: 28
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:20
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-216) Value: 216
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (4-120) Value: 1144
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (0-63) Value: 63
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-26) Value: 26
+P8| (23) Upward (0-6) Value: 6
+P9| (10) Straight (6-116) Value: 1652
+P10| (43) Downward (0-6) Value: 6
+P11| (10) Straight (0-37) Value: 37
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (0-26) Value: 26
+P14| (23) Upward (0-6) Value: 6
+P15| (10) Straight (6-106) Value: 1642
+P16| (43) Downward (0-6) Value: 6
+P17| (10) Straight (0-26) Value: 26
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (1-124) Value: 380
+P20| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 61 Set Warning Identification nr: 12-Communication Timed Out
+entry: 60 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 59 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 58 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 57 Set Warning Identification nr: 12-Communication Timed Out
+entry: 56 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 55 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 54 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 53 Set Warning Identification nr: 12-Communication Timed Out
+entry: 52 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 51 Set Warning Identification nr: 4-Not Charging
+entry: 50 Clear Warning Identification nr: 4-Not Charging
+entry: 49 Set Warning Identification nr: 4-Not Charging
+entry: 48 Clear Warning Identification nr: 4-Not Charging
+entry: 47 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 46 Set Warning Identification nr: 4-Not Charging
+entry: 45 Clear Warning Identification nr: 4-Not Charging
+entry: 44 Set Warning Identification nr: 4-Not Charging
+entry: 43 Clear Warning Identification nr: 4-Not Charging
+entry: 42 Set Warning Identification nr: 4-Not Charging
+entry: 41 Clear Warning Identification nr: 4-Not Charging
+entry: 40 Set Warning Identification nr: 4-Not Charging
+entry: 39 Clear Warning Identification nr: 4-Not Charging
+entry: 38 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 37 Set Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 21012 Swivel Right Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 183
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = August Steffens
+Address = Stettiner Straße 13
+Postal = 24223
+City = Schwentinental Raisd
+Country = Deutschland
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:781] [2:2074] [3:3082] 
+***********************************************************************

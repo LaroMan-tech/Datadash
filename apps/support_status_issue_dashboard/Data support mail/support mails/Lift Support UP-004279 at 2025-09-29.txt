@@ -1,0 +1,203 @@
+Subject: Lift Support UP-004279 at 2025-09-29
+From: info@inno-lift.eu
+To: Support DeVi-Stairlifts
+CC: info@inno-lift.eu
+Date: 2025-09-29 09:18:15
+
+***********************************************************************
+UP-004279
+***********************************************************************
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.3.0 CRC: 0x64CB
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Patric Wileczil
+Extra notes from the mechanic:
+Fahrwagen wird ausgetauscht gegen UP-006699
+
+***********************************************************************
+System
+Temperature: 42
+Rail Checksum: 63 | 63
+Current Live: 54
+Current Peak: 16704
+Supply Battery: 250
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 24971
+Total: 1761540cm
+Channels: false | true
+FrictionWheel: false
+Current: 130
+Current Peak: 8950
+Current Brake: 54
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 9997
+Channels: 9997
+Angle: 0
+Raw: 32736
+Cal: 32694
+Current: 40
+Current Peak: 8780
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 998
+Channels: 998
+Compass: 100
+Current: 290
+Current Peak: 290
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 40
+Current Peak: 1580
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 201
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 39
+TimeAlive Hours: 23
+TimeAlive days: 2
+***********************************************************************
+Skip:false
+Length:80
+P0| (1) Start (0-30) Value: 30
+P1| (10) Straight (7-255) Value: 2047
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (2-110) Value: 622
+P4| (23) Upward (0-6) Value: 6
+P5| (10) Straight (0-133) Value: 133
+P6| (43) Downward (0-6) Value: 6
+P7| (10) Straight (0-7) Value: 7
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-164) Value: 164
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-59) Value: 59
+P12| (25) Upward (0-8) Value: 8
+P13| (10) Straight (10-64) Value: 2624
+P14| (45) Downward (0-8) Value: 8
+P15| (10) Straight (0-234) Value: 234
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (1-194) Value: 450
+P18| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 65 Set Warning Identification nr: 12-Communication Timed Out
+entry: 64 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 63 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 62 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 61 Set Warning Identification nr: 12-Communication Timed Out
+entry: 60 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 59 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 58 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 57 Set Warning Identification nr: 12-Communication Timed Out
+entry: 56 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 55 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 54 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 53 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 52 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 51 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 50 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 49 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 48 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 47 Set Warning Identification nr: 4-Not Charging
+entry: 46 Clear Warning Identification nr: 4-Not Charging
+entry: 45 Set Warning Identification nr: 4-Not Charging
+entry: 44 Clear Warning Identification nr: 4-Not Charging
+entry: 43 Set Warning Identification nr: 12-Communication Timed Out
+entry: 42 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 41 Set Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+NR: 0 Enc: 543 No Swivel No Addon
+NR: 1 Enc: 11648 No Swivel Charge Station
+NR: 2 Enc: 3928 No Swivel Hingedrail
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 24973 No Swivel No Addon
+***********************************************************************
+Offset Bottom Station: 95
+Offset Top Station: 65
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 1016
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:3] [1:839] [2:2127] [3:3088]
+***********************************************************************
+Latitude: 48.17933742
+Longitude: 16.27602051
+***********************************************************************
+Date & Time (tablet): 2025-09-29 09:18:07
+***********************************************************************
+App session length: 2m 40s
+***********************************************************************
+Location session length: 2m 17s
+***********************************************************************
+
+_______________________________
+Patric Wileczil
+Inhaber Innolift Treppenlifte
+Gerichtssachverständiger
+
+
+Tel.:       +43 2743 93081
+Mail:     info@inno-lift.eu <mailto:info@inno-lift.eu>  
+Web:    www.inno-lift.eu <http://www.inno-lift.eu/>  • www.innolift-treppenlifte.at <http://www.innolift-treppenlifte.at/>  
+
+
+
+
+Innolift e.U. • Mauterheim 24 • 3140 Böheimkirchen
+HG: St. Pölten • FN: 589906i • UID: ATU78576667

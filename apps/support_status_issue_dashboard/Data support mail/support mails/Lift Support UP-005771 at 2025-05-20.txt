@@ -1,0 +1,178 @@
+Subject: Lift Support UP-005771 at 2025-05-20
+From: up_cad@24-7healthcare.co.uk
+To: Support DeVi-Stairlifts
+CC: cad@24-7healthcare.co.uk
+Date: 2025-05-20 18:35:55
+
+***********************************************************************
+UP-005771
+***********************************************************************
+App version: V11.0.408
+App type: release
+App version code: 408
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 8388608 |W| 16
+Error Identification nr: 23-Chair 5 Degree Violation
+Warning Identification nr: 4-Not Charging
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: rahul
+Extra notes from the mechanic:
+this lift is showing error even though it programmed ok earlier and had test drive.
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 1357
+Total: 1071245cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10300
+Channels: 10300
+Angle: 5
+Raw: 34562
+Cal: 33026
+Current: 230
+Current Peak: 290
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 10
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-50) Value: 50
+P1| (10) Straight (0-241) Value: 241
+P2| (47) Downward (0-10) Value: 10
+P3| (10) Straight (2-135) Value: 647
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-190) Value: 190
+P6| (25) Upward (0-8) Value: 8
+P7| (10) Straight (3-182) Value: 950
+P8| (45) Downward (0-8) Value: 8
+P9| (10) Straight (0-27) Value: 27
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-25) Value: 25
+P12| (25) Upward (0-8) Value: 8
+P13| (10) Straight (10-100) Value: 2660
+P14| (45) Downward (0-8) Value: 8
+P15| (10) Straight (1-202) Value: 458
+P16| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 6 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 5 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 4 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 3 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 2 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 1 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = allen
+Address = 53
+Postal = rm96aa
+City = london
+Country = GB
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:63]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:571] [2:1831] [3:2885]
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

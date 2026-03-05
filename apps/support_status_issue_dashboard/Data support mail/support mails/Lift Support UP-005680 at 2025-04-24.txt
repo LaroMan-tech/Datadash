@@ -1,0 +1,182 @@
+Subject: Lift Support UP-005680 at 2025-04-24
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: jb@liftteam.de
+Date: 2025-04-24 14:04:06
+
+***********************************************************************
+UP-005680
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x0
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Jan Brandenburg
+Extra notes from the mechanic:
+after update
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 35805
+Total: 1196807cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 33083
+Cal: 33300
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 0
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (4-144) Value: 1168
+P2| (24) Upward (0-7) Value: 7
+P3| (10) Straight (8-80) Value: 2128
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (3-12) Value: 780
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-132) Value: 132
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (4-186) Value: 1210
+P10| (66) Horizontal (0-9) Value: 9
+P11| (10) Straight (0-133) Value: 133
+P12| (66) Horizontal (0-9) Value: 9
+P13| (10) Straight (1-110) Value: 366
+P14| (24) Upward (0-7) Value: 7
+P15| (10) Straight (9-160) Value: 2464
+P16| (44) Downward (0-7) Value: 7
+P17| (10) Straight (0-50) Value: 50
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (0-130) Value: 130
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (3-82) Value: 850
+P22| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 997 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 230
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Martin
+Address = Theodor-Körner-Weg1
+Postal = 22455
+City = Hamburg
+Country = Deutschland
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:46]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:507] [1:1391] [2:2589] [3:3263]
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

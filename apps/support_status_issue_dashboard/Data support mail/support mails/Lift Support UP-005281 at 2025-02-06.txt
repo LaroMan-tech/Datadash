@@ -1,0 +1,182 @@
+Subject: Lift Support UP-005281 at 2025-02-06
+From: SWEE HIN
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-02-06 04:10:43
+
+*********************************************************************** 
+
+UP-005281
+*********************************************************************** 
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x0
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: KYAW WIN HLAING
+Extra notes from the mechanic: 
+found in errot and warning alarm w12 and w27.
+when we reach site the lift is working in normal operation.
+
+*********************************************************************** 
+System
+Temperature: 41
+Rail Checksum: 173 | 173
+Current Live: 0
+Current Peak: 18198
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 24952
+Total: 41545cm
+Channels: false | true
+FrictionWheel: false
+Current: 0
+Current Peak: 7870
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11660
+Channels: 11660
+Angle: 0
+Raw: 32721
+Cal: 32662
+Current: 0
+Current Peak: 5440
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 998
+Channels: 998
+Compass: 100
+Current: 0
+Current Peak: 1450
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 980
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 23
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:9
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (0-234) Value: 234
+P2| (28) Upward (0-11) Value: 11
+P3| (10) Straight (0-93) Value: 93
+P4| (48) Downward (0-11) Value: 11
+P5| (10) Straight (0-47) Value: 47
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-145) Value: 145
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-37) Value: 37
+P10| (25) Upward (0-8) Value: 8
+P11| (10) Straight (16-136) Value: 4232
+P12| (45) Downward (0-8) Value: 8
+P13| (10) Straight (1-221) Value: 477
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-27) Value: 27
+P16| (24) Upward (0-7) Value: 7
+P17| (10) Straight (3-162) Value: 930
+P18| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 52 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 51 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 50 Set Warning Identification nr: 4-Not Charging
+entry: 49 Clear Warning Identification nr: 4-Not Charging
+entry: 48 Set Warning Identification nr: 4-Not Charging
+entry: 47 Clear Warning Identification nr: 4-Not Charging
+entry: 46 Set Warning Identification nr: 4-Not Charging
+entry: 45 Clear Warning Identification nr: 4-Not Charging
+entry: 44 Set Warning Identification nr: 4-Not Charging
+entry: 43 Clear Warning Identification nr: 4-Not Charging
+entry: 42 Set Warning Identification nr: 4-Not Charging
+entry: 41 Clear Warning Identification nr: 4-Not Charging
+entry: 40 Set Warning Identification nr: 4-Not Charging
+entry: 39 Clear Warning Identification nr: 4-Not Charging
+entry: 38 Set Warning Identification nr: 4-Not Charging
+entry: 37 Clear Warning Identification nr: 4-Not Charging
+entry: 36 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Set Warning Identification nr: 12-Communication Timed Out
+entry: 33 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 32 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Set Warning Identification nr: 12-Communication Timed Out
+entry: 30 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 29 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 28 Clear Warning Identification nr: 10-Angle Comparator Triggered
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 24963 Swivel Left Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 70
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#005281e
+#0
+Address = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#005281e
+#0
+Postal = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#005281e
+#0
+City = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#005281e
+#0
+Country = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#005281e
+#0
+Phone = 16 #005281e
+#0
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:851] [2:2115] [3:3072] 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

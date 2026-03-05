@@ -1,0 +1,197 @@
+Subject: Lift Maintenance UP-004448 at 2024-05-30
+From: Paul FAVOT
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-05-30 16:24:52
+
+*********************************************************************** 
+
+UP-004448
+*********************************************************************** 
+App version: V10.9
+App type: beta
+App version code: 213
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-1
+*********************************************************************** 
+Mechanic: favoyt
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 37
+Rail Checksum: 62 | 62
+Current Live: 0
+Current Peak: 5832
+Supply Battery: 250
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 436
+Total: 679991cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 2340
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32928
+Cal: 32857
+Current: 0
+Current Peak: 8190
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 4030
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 20
+TimeAlive Hours: 4
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Construction droite
+Skip:false
+Length:24
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-48) Value: 304
+P2| (29) Upward (0-12) Value: 12
+P3| (10) Straight (2-24) Value: 536
+P4| (49) Downward (0-12) Value: 12
+P5| (10) Straight (0-86) Value: 86
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-105) Value: 105
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-25) Value: 25
+P10| (24) Upward (0-7) Value: 7
+P11| (10) Straight (11-103) Value: 2919
+P12| (24) Upward (0-7) Value: 7
+P13| (10) Straight (2-106) Value: 618
+P14| (51) Downward (0-14) Value: 14
+P15| (10) Straight (0-84) Value: 84
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (0-25) Value: 25
+P18| (26) Upward (0-9) Value: 9
+P19| (10) Straight (0-172) Value: 172
+P20| (46) Downward (0-9) Value: 9
+P21| (10) Straight (0-151) Value: 151
+P22| (75) Horizontal (0-18) Value: 18
+P23| (10) Straight (1-94) Value: 350
+P24| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 14 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 12 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 11 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 10 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 9 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 8 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 6 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 4 Set Warning Identification nr: 4-Not Charging
+entry: 3 Clear Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 4-Not Charging
+entry: 1 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 24117 No Swivel Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:693] [2:2048] [3:3007] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+*********************************************************************** 
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 

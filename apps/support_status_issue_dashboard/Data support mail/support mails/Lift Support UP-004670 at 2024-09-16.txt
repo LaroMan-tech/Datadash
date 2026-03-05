@@ -1,0 +1,177 @@
+Subject: Lift Support UP-004670 at 2024-09-16
+From: Herbert Tuider
+To: Support DeVi-Stairlifts
+CC: Herbert Tuider
+Date: 2024-09-16 17:53:37
+
+*********************************************************************** 
+
+UP-004670
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 12-2
+*********************************************************************** 
+Mechanic: Herbert Tuider
+Extra notes from the mechanic: 
+Bitte senden Sie mir den Code of the Day für Dienstag den 17.09.2024. Vielen Dank im Voraus
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 26552
+Total: 3029cm
+Channels: false | false
+FrictionWheel: false
+Current: 0
+Current Peak: 6090
+Current Brake: 18
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11228
+Channels: 11228
+Angle: 4
+Raw: 34119
+Cal: 32796
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 37
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-189) Value: 189
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (10-122) Value: 2682
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (2-100) Value: 612
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (4-64) Value: 1088
+P8| (23) Upward (0-6) Value: 6
+P9| (10) Straight (0-46) Value: 46
+P10| (43) Downward (0-6) Value: 6
+P11| (10) Straight (0-25) Value: 25
+P12| (74) Horizontal (0-17) Value: 17
+P13| (10) Straight (0-25) Value: 25
+P14| (23) Upward (0-6) Value: 6
+P15| (10) Straight (9-188) Value: 2492
+P16| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 60 Set Warning Identification nr: 4-Not Charging
+entry: 59 Clear Warning Identification nr: 4-Not Charging
+entry: 58 Set Warning Identification nr: 4-Not Charging
+entry: 57 Clear Warning Identification nr: 4-Not Charging
+entry: 56 Set Warning Identification nr: 4-Not Charging
+entry: 55 Clear Warning Identification nr: 4-Not Charging
+entry: 54 Set Warning Identification nr: 4-Not Charging
+entry: 53 Set Warning Identification nr: 7-Chair Error Too High
+entry: 52 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 51 Set Warning Identification nr: 7-Chair Error Too High
+entry: 50 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 49 Clear Warning Identification nr: 4-Not Charging
+entry: 48 Set Warning Identification nr: 4-Not Charging
+entry: 47 Clear Warning Identification nr: 4-Not Charging
+entry: 46 Set Warning Identification nr: 4-Not Charging
+entry: 45 Clear Warning Identification nr: 4-Not Charging
+entry: 44 Set Warning Identification nr: 4-Not Charging
+entry: 43 Clear Warning Identification nr: 4-Not Charging
+entry: 42 Set Warning Identification nr: 4-Not Charging
+entry: 41 Clear Warning Identification nr: 4-Not Charging
+entry: 40 Set Warning Identification nr: 4-Not Charging
+entry: 39 Clear Warning Identification nr: 4-Not Charging
+entry: 38 Set Warning Identification nr: 4-Not Charging
+entry: 37 Clear Warning Identification nr: 4-Not Charging
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 26563 Swivel Right Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 140
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:121] [1:1024] [2:2239] [3:3200] 
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

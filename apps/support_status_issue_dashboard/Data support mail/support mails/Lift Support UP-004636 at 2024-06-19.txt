@@ -1,0 +1,199 @@
+Subject: Lift Support UP-004636 at 2024-06-19
+From: Andy van Leeuwen
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-06-21 19:22:19
+
+*********************************************************************** 
+
+UP-004636
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.3.1 CRC: 0x9EC8
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: andy
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 16901
+Total: 665934cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 13340
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10924
+Channels: 10924
+Angle: 5
+Raw: 31378
+Cal: 32870
+Current: 0
+Current Peak: 3160
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 21
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:38
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-148) Value: 148
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (4-182) Value: 1206
+P4| (23) Upward (0-6) Value: 6
+P5| (10) Straight (1-60) Value: 316
+P6| (51) Downward (0-14) Value: 14
+P7| (10) Straight (0-118) Value: 118
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (1-54) Value: 310
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-15) Value: 15
+P12| (31) Upward (0-14) Value: 14
+P13| (10) Straight (0-103) Value: 103
+P14| (44) Downward (0-7) Value: 7
+P15| (10) Straight (4-115) Value: 1139
+P16| (44) Downward (0-7) Value: 7
+P17| (10) Straight (0-38) Value: 38
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (0-231) Value: 231
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (0-35) Value: 35
+P22| (28) Upward (0-11) Value: 11
+P23| (10) Straight (2-198) Value: 710
+P24| (44) Downward (0-7) Value: 7
+P25| (10) Straight (0-176) Value: 176
+P26| (27) Upward (0-10) Value: 10
+P27| (10) Straight (4-24) Value: 1048
+P28| (51) Downward (0-14) Value: 14
+P29| (10) Straight (0-25) Value: 25
+P30| (75) Horizontal (0-18) Value: 18
+P31| (10) Straight (0-175) Value: 175
+P32| (74) Horizontal (0-17) Value: 17
+P33| (10) Straight (0-25) Value: 25
+P34| (28) Upward (0-11) Value: 11
+P35| (10) Straight (4-176) Value: 1200
+P36| (48) Downward (0-11) Value: 11
+P37| (10) Straight (1-222) Value: 478
+P38| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 80 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 79 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 78 Set Warning Identification nr: 4-Not Charging
+entry: 77 Clear Warning Identification nr: 4-Not Charging
+entry: 76 Set Warning Identification nr: 4-Not Charging
+entry: 75 Clear Warning Identification nr: 4-Not Charging
+entry: 74 Set Warning Identification nr: 4-Not Charging
+entry: 73 Clear Warning Identification nr: 4-Not Charging
+entry: 72 Set Warning Identification nr: 4-Not Charging
+entry: 71 Clear Warning Identification nr: 4-Not Charging
+entry: 70 Set Warning Identification nr: 4-Not Charging
+entry: 69 Set Warning Identification nr: 7-Chair Error Too High
+entry: 68 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 67 Set Warning Identification nr: 7-Chair Error Too High
+entry: 66 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 65 Set Warning Identification nr: 7-Chair Error Too High
+entry: 64 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 63 Set Warning Identification nr: 7-Chair Error Too High
+entry: 62 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 61 Set Warning Identification nr: 7-Chair Error Too High
+entry: 60 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 59 Set Warning Identification nr: 7-Chair Error Too High
+entry: 58 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 57 Set Warning Identification nr: 7-Chair Error Too High
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Enc: 8884 Swivel Left No Addon 
+NR: 2 Enc: 14004 Swivel Left No Addon 
+NR: 3 Enc: 16891 No Swivel No Addon 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 34952 Swivel Left No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:859] [2:2109] [3:3075] 
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

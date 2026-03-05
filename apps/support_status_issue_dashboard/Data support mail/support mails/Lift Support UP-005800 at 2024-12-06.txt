@@ -1,0 +1,186 @@
+Subject: Lift Support UP-005800 at 2024-12-06
+From: Survey
+To: Support DeVi-Stairlifts
+CC: Info
+Date: 2024-12-06 16:52:51
+
+***********************************************************************
+UP-005800
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.4 CRC: 0x4F7B
+Software Chair: V 0.0.0.0 CRC: 0x0
+Software Safety: V 3.33 CRC: 0x0
+***********************************************************************
+|E| 0 0 0 0 |W| 8 0 16 17
+Warning Identification nr: 0-Tilt Sensor Too Tilted
+Warning Identification nr: 4-Not Charging
+Warning Identification nr: 12-Communication Timed Out
+Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+Safety Feed: 8-2
+Safety Last Seen: 10-1
+***********************************************************************
+Mechanic: james B
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 23713
+Total: 19560cm
+Channels: false | false
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 114
+Raw: 0
+Cal: 33063
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 2
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-177) Value: 177
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (10-113) Value: 2673
+P4| (46) Downward (0-9) Value: 9
+P5| (10) Straight (3-124) Value: 892
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-50) Value: 50
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (2-216) Value: 728
+P10| (65) Horizontal (0-8) Value: 8
+P11| (10) Straight (1-17) Value: 273
+P12| (21) Upward (0-4) Value: 4
+P13| (10) Straight (0-208) Value: 208
+P14| (41) Downward (0-4) Value: 4
+P15| (10) Straight (0-37) Value: 37
+P16| (67) Horizontal (0-10) Value: 10
+P17| (10) Straight (0-25) Value: 25
+P18| (25) Upward (0-8) Value: 8
+P19| (10) Straight (2-50) Value: 562
+P20| (45) Downward (0-8) Value: 8
+P21| (10) Straight (2-58) Value: 570
+P22| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 16 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 15 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 14 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 13 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 12 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 11 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 10 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 9 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 8 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 7 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 6 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 5 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 4 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 3 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 2 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 1 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Name
+Address = Address
+Postal = Postal
+City = City
+Country = Country
+Phone = 06-12345678
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:39]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:864] [2:2179] [3:3133]
+*********************************************************************** 
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

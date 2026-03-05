@@ -1,0 +1,182 @@
+Subject: Lift Support UP-007542 at 2025-12-10
+From: Life Lifts
+To: Support DeVi-Stairlifts
+CC: Life Lifts
+Date: 2025-12-10 10:35:39
+
+*********************************************************************** 
+UP-007542
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.4    CRC: 0xD705
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x0
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 48
+Warning Identification nr: 4-Not Charging
+Warning Identification nr: 5-SafetyLine Interrupted
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Alexis
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 28
+Rail Checksum: 80 | 80
+Current Live: 0
+Current Peak: 1458
+Supply Battery: 245
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 2725
+Total: 10621cm
+Channels: true | true
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11432
+Channels: 11432
+Angle: 0
+Raw: 32640
+Cal: 32854
+Current: 20
+Current Peak: 20
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 0
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:72
+P0| (1) Start   (0-30)  Value: 30
+P1| (10) Straight   (19-59)  Value: 4923
+P2| (43) Downward   (0-6)  Value: 6
+P3| (10) Straight   (1-39)  Value: 295
+P4| (75) Horizontal   (0-18)  Value: 18
+P5| (10) Straight   (0-25)  Value: 25
+P6| (23) Upward   (0-6)  Value: 6
+P7| (10) Straight   (7-168)  Value: 1960
+P8| (43) Downward   (0-6)  Value: 6
+P9| (10) Straight   (0-227)  Value: 227
+P10| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 26336 Swivel Right  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 70
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Alexis
+Address = sofokli venizelou 6
+Postal = 14123
+City = Athens
+Country = GR
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:77] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:323] [1:1071] [2:2367] [3:3200] 
+*********************************************************************** 
+Latitude: 35.008356487282434
+Longitude: 25.120015089189074
+*********************************************************************** 
+Date & Time (tablet): 2025-12-10 11:33:29
+*********************************************************************** 
+App session length: 44m 14s
+*********************************************************************** 
+Location session length: 44m 13s
+*********************************************************************** 
+ 

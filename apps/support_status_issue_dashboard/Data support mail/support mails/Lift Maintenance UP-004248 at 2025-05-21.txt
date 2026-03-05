@@ -1,0 +1,178 @@
+Subject: Lift Maintenance UP-004248 at 2025-05-21
+From: Francisco Rodriguez
+To: Support DeVi-Stairlifts
+CC: frodriguez@grupohallbart.com
+Date: 2025-05-21 17:27:12
+
+***********************************************************************
+UP-004248
+***********************************************************************
+App version: V11.0.408
+App type: release
+App version code: 408
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.3.0 CRC: 0x64CB
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Francisco Rodriguez
+Extra notes from the mechanic:
+Swivel not working from joystick
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 429
+Total: 114249cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 5690
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 11428
+Channels: 11428
+Angle: 0
+Raw: 33000
+Cal: 33001
+Current: 0
+Current Peak: 3770
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 19
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Construcción recta
+Skip:false
+Length:3
+P0| (1) Start (0-30) Value: 30
+P1| (10) Straight (10-15) Value: 2575
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (1-121) Value: 377
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-230) Value: 230
+P6| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 35 Set Warning Identification nr: 4-Not Charging
+entry: 34 Clear Warning Identification nr: 4-Not Charging
+entry: 33 Set Warning Identification nr: 4-Not Charging
+entry: 32 Clear Warning Identification nr: 4-Not Charging
+entry: 31 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 30 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 29 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 28 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 27 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 26 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 25 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 24 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 23 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 22 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 21 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 20 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 19 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 18 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 17 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 16 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 15 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 14 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 13 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 12 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 1016
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:59] [1:917] [2:2067] [3:3007]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks:
+*********************************************************************** 
+
+Obtener Outlook para Android <https://aka.ms/AAb9ysg> 

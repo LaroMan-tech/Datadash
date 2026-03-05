@@ -1,0 +1,218 @@
+Subject: Lift Maintenance UP-004848 at 2025-06-02
+From: Max Kropfl
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-06-02 14:03:24
+
+***********************************************************************
+UP-004848
+***********************************************************************
+App version: V11.0.408
+App type: release
+App version code: 408
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Max
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 22663
+Total: 613032cm
+Channels: true | true
+FrictionWheel: false
+Current: 0
+Current Peak: 8280
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 11428
+Channels: 11428
+Angle: 0
+Raw: 33303
+Cal: 33068
+Current: 0
+Current Peak: 3580
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 18
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:46
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-238) Value: 494
+P2| (28) Upward (0-11) Value: 11
+P3| (10) Straight (0-156) Value: 156
+P4| (48) Downward (0-11) Value: 11
+P5| (10) Straight (0-38) Value: 38
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-50) Value: 50
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-35) Value: 35
+P10| (24) Upward (0-7) Value: 7
+P11| (10) Straight (7-43) Value: 1835
+P12| (22) Upward (0-5) Value: 5
+P13| (10) Straight (2-14) Value: 526
+P14| (49) Downward (0-12) Value: 12
+P15| (10) Straight (0-35) Value: 35
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (0-85) Value: 85
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (0-35) Value: 35
+P20| (23) Upward (0-6) Value: 6
+P21| (10) Straight (7-164) Value: 1956
+P22| (23) Upward (0-6) Value: 6
+P23| (10) Straight (0-132) Value: 132
+P24| (49) Downward (0-12) Value: 12
+P25| (10) Straight (0-34) Value: 34
+P26| (75) Horizontal (0-18) Value: 18
+P27| (10) Straight (0-80) Value: 80
+P28| (75) Horizontal (0-18) Value: 18
+P29| (10) Straight (0-39) Value: 39
+P30| (24) Upward (0-7) Value: 7
+P31| (10) Straight (7-207) Value: 1999
+P32| (22) Upward (0-5) Value: 5
+P33| (10) Straight (0-253) Value: 253
+P34| (49) Downward (0-12) Value: 12
+P35| (10) Straight (0-40) Value: 40
+P36| (75) Horizontal (0-18) Value: 18
+P37| (10) Straight (0-81) Value: 81
+P38| (75) Horizontal (0-18) Value: 18
+P39| (10) Straight (0-35) Value: 35
+P40| (24) Upward (0-7) Value: 7
+P41| (10) Straight (6-203) Value: 1739
+P42| (44) Downward (0-7) Value: 7
+P43| (10) Straight (0-88) Value: 88
+P44| (75) Horizontal (0-18) Value: 18
+P45| (10) Straight (2-88) Value: 600
+P46| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 20 Set Warning Identification nr: 4-Not Charging
+entry: 19 Clear Warning Identification nr: 4-Not Charging
+entry: 18 Set Warning Identification nr: 4-Not Charging
+entry: 17 Clear Warning Identification nr: 4-Not Charging
+entry: 16 Set Warning Identification nr: 4-Not Charging
+entry: 15 Clear Warning Identification nr: 4-Not Charging
+entry: 14 Set Warning Identification nr: 4-Not Charging
+entry: 13 Clear Warning Identification nr: 4-Not Charging
+entry: 12 Set Warning Identification nr: 4-Not Charging
+entry: 11 Clear Warning Identification nr: 4-Not Charging
+entry: 10 Set Warning Identification nr: 4-Not Charging
+entry: 9 Clear Warning Identification nr: 4-Not Charging
+entry: 8 Set Warning Identification nr: 4-Not Charging
+entry: 7 Clear Warning Identification nr: 4-Not Charging
+entry: 6 Set Warning Identification nr: 4-Not Charging
+entry: 5 Clear Warning Identification nr: 4-Not Charging
+entry: 4 Set Warning Identification nr: 4-Not Charging
+entry: 3 Clear Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 4-Not Charging
+entry: 1 Clear Warning Identification nr: 4-Not Charging
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 476 Swivel Right Charge Station
+NR: 1 Enc: 22661 Swivel Right Charge Station
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 75
+Offset Top Station: 75
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = /
+Address =
+Postal =
+City =
+Country = NL
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:47]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:83] [1:901] [2:2190] [3:3087]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks:
+*********************************************************************** 
+
+Poslano iz Outlook za Android <https://aka.ms/AAb9ysg> 

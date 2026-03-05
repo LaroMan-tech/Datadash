@@ -1,0 +1,218 @@
+Subject: Lift Support UP-005901 at 2025-02-13
+From: M Zafar Hasnain
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-02-13 14:27:09
+
+*********************************************************************** 
+
+UP-005901
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.4 CRC: 0x4F7B
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 64 0 |W| 8 0 0 16 
+Error Identification nr: 14-Encoder Supply Failure
+Warning Identification nr: 4-Not Charging
+Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+Safety Feed: 4-7
+Safety Last Seen: 4-7
+*********************************************************************** 
+Mechanic: zafar hasnain
+Extra notes from the mechanic: 
+We are doing new installation right now ,but we are facing issue and chair show error E14 ,chair is at straight @30 degree.we checked connector but error still active.
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 50082
+Total: 774cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 11428
+Channels: 11428
+Angle: 0
+Raw: 33192
+Cal: 33200
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 26
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:54
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (0-200) Value: 200
+P2| (70) Horizontal (0-13) Value: 13
+P3| (10) Straight (0-150) Value: 150
+P4| (25) Upward (0-8) Value: 8
+P5| (10) Straight (5-52) Value: 1332
+P6| (45) Downward (0-8) Value: 8
+P7| (10) Straight (0-161) Value: 161
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-116) Value: 116
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-30) Value: 30
+P12| (27) Upward (0-10) Value: 10
+P13| (10) Straight (1-134) Value: 390
+P14| (40) Downward (0-3) Value: 3
+P15| (10) Straight (1-55) Value: 311
+P16| (20) Upward (0-3) Value: 3
+P17| (10) Straight (6-39) Value: 1575
+P18| (47) Downward (0-10) Value: 10
+P19| (10) Straight (0-31) Value: 31
+P20| (74) Horizontal (0-17) Value: 17
+P21| (10) Straight (0-152) Value: 152
+P22| (76) Horizontal (0-19) Value: 19
+P23| (10) Straight (0-31) Value: 31
+P24| (28) Upward (0-11) Value: 11
+P25| (10) Straight (0-196) Value: 196
+P26| (40) Downward (0-3) Value: 3
+P27| (10) Straight (7-58) Value: 1850
+P28| (45) Downward (0-8) Value: 8
+P29| (10) Straight (0-32) Value: 32
+P30| (75) Horizontal (0-18) Value: 18
+P31| (10) Straight (1-14) Value: 270
+P32| (75) Horizontal (0-18) Value: 18
+P33| (10) Straight (0-48) Value: 48
+P34| (27) Upward (0-10) Value: 10
+P35| (10) Straight (1-189) Value: 445
+P36| (40) Downward (0-3) Value: 3
+P37| (10) Straight (2-135) Value: 647
+P38| (20) Upward (0-3) Value: 3
+P39| (10) Straight (4-108) Value: 1132
+P40| (47) Downward (0-10) Value: 10
+P41| (10) Straight (0-28) Value: 28
+P42| (75) Horizontal (0-18) Value: 18
+P43| (10) Straight (0-28) Value: 28
+P44| (26) Upward (0-9) Value: 9
+P45| (10) Straight (0-56) Value: 56
+P46| (46) Downward (0-9) Value: 9
+P47| (10) Straight (0-35) Value: 35
+P48| (75) Horizontal (0-18) Value: 18
+P49| (10) Straight (0-49) Value: 49
+P50| (27) Upward (0-10) Value: 10
+P51| (10) Straight (3-15) Value: 783
+P52| (41) Downward (0-4) Value: 4
+P53| (10) Straight (4-226) Value: 1250
+P54| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 101 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 100 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 99 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 98 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 97 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 96 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 95 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 94 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 93 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 92 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 91 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 90 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 89 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 88 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 87 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 86 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 85 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 84 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 83 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 82 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 81 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 80 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 2 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 1 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:42] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:735] [2:2072] [3:3086] 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

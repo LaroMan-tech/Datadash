@@ -1,0 +1,189 @@
+Subject: Lift Maintenance UP-004406 at 2025-05-19
+From: Francisco Rodriguez
+To: Support DeVi-Stairlifts
+CC: frodriguez@grupohallbart.com
+Date: 2025-05-19 19:40:44
+
+*********************************************************************** 
+
+UP-004406
+*********************************************************************** 
+App version: V11.0.408
+App type: release
+App version code: 408
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.3.0 CRC: 0x64CB
+Software Safety: V 3.33 CRC: 0x0
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Francisco Rodriguez 
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 22010
+Total: 650663cm
+Channels: true | true
+FrictionWheel: true
+Current: 30
+Current Peak: 30
+Current Brake: 54
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32607
+Cal: 32688
+Current: 60
+Current Peak: 60
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 1
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Construcción recta
+Skip:false
+Length:3
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-144) Value: 144
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (8-183) Value: 2231
+P4| (25) Upward (0-8) Value: 8
+P5| (10) Straight (0-78) Value: 78
+P6| (51) Downward (0-14) Value: 14
+P7| (10) Straight (0-25) Value: 25
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-223) Value: 223
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-25) Value: 25
+P12| (24) Upward (0-7) Value: 7
+P13| (10) Straight (7-214) Value: 2006
+P14| (44) Downward (0-7) Value: 7
+P15| (10) Straight (3-42) Value: 810
+P16| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 53 Set Warning Identification nr: 4-Not Charging
+entry: 52 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 51 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 50 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 49 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 48 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 47 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 46 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 45 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 44 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 43 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 42 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 41 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 40 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 39 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 38 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 37 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 36 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 35 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 34 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 33 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 32 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 31 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 30 Set Warning Identification nr: 29-EEprom CRC Incorrect
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Antonio Huerta
+Address = P de Los Fresnos 353
+Postal = 64920
+City = Monterrey
+Country = MX
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:706] [2:2048] [3:2943] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+*********************************************************************** 
+
+Obtener Outlook para Android <https://aka.ms/AAb9ysg> 

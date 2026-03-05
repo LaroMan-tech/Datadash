@@ -1,0 +1,238 @@
+Subject: RE: Lift Maintenance UP-005760 at 2025-12-08
+From: stagiair
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-12-08 16:32:57
+
+
+Fault report
+
+
+Summary: AppVersion=v11.0.534, ChairVersion=v 1.0.4.2, BatteryV=24.6, OnStation=True, W4 Not Charging. Analysis: charging problems — battery voltage < 25V while on charging station.
+
+Root cause: Charger or charging-station fault (charger likely defective) preventing the battery from reaching the expected charging voltage.
+
+
+Recommended actions
+
+
+*	Visually check charging LED and basic positioning: ensure the chair is centered on the charging station and the charging LED behavior is observed (steady vs blinking).
+*	Measure voltages and follow the W4-procedure: verify charging-station output is 27–28V, measure BatteryV at the battery terminal, clean charge contacts, inspect connections and fuses, and check red wires on the main switch.
+*	If the charger shows fault signs (e.g., blinking charge LED) or station output is not 27–28V after the above checks, replace the charger; if replacing the charger does not restore charging, replace the PCB as needed.
+
+
+Verification
+
+
+*	Confirm BatteryV rises above 25V while OnStation=True and the charging LED shows a steady charging indication.
+*	Confirm the charging-station measures 27–28V and that cleaned contacts and red wire connections are intact and continuous.
+
+	 
+
+
+________________________________
+
+From: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Sent: Monday, December 8, 2025 3:30:55 PM
+To: stagiair <stagiair@devi-comfort.com>
+Subject: FW: Lift Maintenance UP-005760 at 2025-12-08 
+ 
+ 
+________________________________
+
+Van: Max Kropfl <max.kropfl@gmail.com>
+Verzonden: maandag 8 december 2025 16:30:40 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Aan: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Onderwerp: Lift Maintenance UP-005760 at 2025-12-08
+
+
+***********************************************************************
+UP-005760
+***********************************************************************
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.4 CRC: 0xD705
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+***********************************************************************
+|E| 0 |W| 16
+Warning Identification nr: 4-Not Charging
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Zan Habjanic
+Extra notes from the mechanic:
+PCB Swap
+
+***********************************************************************
+System
+Temperature: 31
+Rail Checksum: 186 | 186
+Current Live: 0
+Current Peak: 1872
+Supply Battery: 246
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 427
+Total: 4044cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 490
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 32568
+Cal: 32544
+Current: 0
+Current Peak: 20
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 30
+Current Peak: 270
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 1170
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 2
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:86
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-53) Value: 309
+P2| (28) Upward (0-11) Value: 11
+P3| (10) Straight (0-181) Value: 181
+P4| (48) Downward (0-11) Value: 11
+P5| (10) Straight (0-25) Value: 25
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-170) Value: 170
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-32) Value: 32
+P10| (24) Upward (0-7) Value: 7
+P11| (10) Straight (8-4) Value: 2052
+P12| (44) Downward (0-7) Value: 7
+P13| (10) Straight (0-37) Value: 37
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-180) Value: 180
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (0-31) Value: 31
+P18| (24) Upward (0-7) Value: 7
+P19| (10) Straight (8-113) Value: 2161
+P20| (44) Downward (0-7) Value: 7
+P21| (10) Straight (0-50) Value: 50
+P22| (75) Horizontal (0-18) Value: 18
+P23| (10) Straight (1-234) Value: 490
+P24| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 10 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 9 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 8 Clear Warning Identification nr: 4-Not Charging
+entry: 7 Set Warning Identification nr: 4-Not Charging
+entry: 6 Clear Warning Identification nr: 4-Not Charging
+entry: 5 Set Warning Identification nr: 4-Not Charging
+entry: 4 Clear Warning Identification nr: 4-Not Charging
+entry: 3 Set Warning Identification nr: 4-Not Charging
+entry: 2 Clear Warning Identification nr: 4-Not Charging
+entry: 1 Set Warning Identification nr: 4-Not Charging
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 25099 No Swivel Charge Station
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 75
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone =
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:54]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:75] [1:1049] [2:2239] [3:3088]
+***********************************************************************
+Latitude: 46.1402073
+Longitude: 15.1614552
+***********************************************************************
+Date & Time (tablet): 2025-12-08 14:48:24
+***********************************************************************
+App session length: 15m 22s
+***********************************************************************
+Location session length: 0m 0s
+*********************************************************************** 
+
+Poslano iz Outlook za Android <https://aka.ms/AAb9ysg> 

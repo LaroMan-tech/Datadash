@@ -1,0 +1,207 @@
+Subject: Lift Support UP-004924 at 2024-12-05
+From: info@inno-lift.eu
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-12-05 13:58:05
+
+*********************************************************************** 
+
+UP-004924
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.3.0 CRC: 0x64CB
+Software Safety: V 3.33 CRC: 0x0
+*********************************************************************** 
+|E| 0 0 0 128 |W| 0 0 0 16 
+Error Identification nr: 7-Spindle Encoder Failure
+Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Patric Wileczil
+Extra notes from the mechanic: 
+Lift hat in der Mitte gestoppt und Stuhl steht schief
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 16497
+Total: 624933cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10167
+Channels: 10167
+Angle: 8
+Raw: 30729
+Cal: 33154
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 2
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (0-144) Value: 144
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (9-12) Value: 2316
+P4| (43) Downward (0-6) Value: 6
+P5| (10) Straight (6-234) Value: 1770
+P6| (27) Upward (0-10) Value: 10
+P7| (10) Straight (0-182) Value: 182
+P8| (47) Downward (0-10) Value: 10
+P9| (10) Straight (1-49) Value: 305
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-232) Value: 232
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (0-34) Value: 34
+P14| (24) Upward (0-7) Value: 7
+P15| (10) Straight (9-201) Value: 2505
+P16| (22) Upward (0-5) Value: 5
+P17| (10) Straight (1-144) Value: 400
+P18| (49) Downward (0-12) Value: 12
+P19| (10) Straight (0-10) Value: 10
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (0-214) Value: 214
+P22| (75) Horizontal (0-18) Value: 18
+P23| (10) Straight (0-37) Value: 37
+P24| (24) Upward (0-7) Value: 7
+P25| (10) Straight (8-210) Value: 2258
+P26| (44) Downward (0-7) Value: 7
+P27| (10) Straight (0-251) Value: 251
+P28| (75) Horizontal (0-18) Value: 18
+P29| (10) Straight (1-192) Value: 448
+P30| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 20 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 19 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 18 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 17 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 16 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 15 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 14 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 13 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 12 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 11 Clear Warning Identification nr: 4-Not Charging
+entry: 10 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 9 Set Warning Identification nr: 4-Not Charging
+entry: 8 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 6 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 5 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 4 Set Warning Identification nr: 12-Communication Timed Out
+entry: 3 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 2 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 1 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Enc: 9385 No Swivel Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 65
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:36] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:770] [2:2050] [3:2968] 
+***********************************************************************
+
+_______________________________
+Patric Wileczil
+Inhaber Innolift Treppenlifte
+Gerichtssachverständiger
+
+
+Tel.:       +43 2743 93081
+Mail:     info@inno-lift.eu <mailto:info@inno-lift.eu>  
+Web:    www.inno-lift.eu <http://www.inno-lift.eu/>  • www.innolift-treppenlifte.at <http://www.innolift-treppenlifte.at/>  
+
+
+
+
+Innolift e.U. • Mauterheim 24 • 3140 Böheimkirchen
+HG: St. Pölten • FN: 589906i • UID: ATU78576667

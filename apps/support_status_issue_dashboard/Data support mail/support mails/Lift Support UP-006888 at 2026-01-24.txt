@@ -1,0 +1,178 @@
+Subject: Lift Support UP-006888 at 2026-01-24
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: jb@liftteam.de
+Date: 2026-01-24 08:25:57
+
+***********************************************************************
+UP-006888
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.9.4 CRC: 0xD705
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Jan Brandenburg
+Extra notes from the mechanic:
+updated software
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 8871
+Total: 659810cm
+Channels: true | false
+FrictionWheel: true
+Current: 8450
+Current Peak: 8600
+Current Brake: 810
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 11896
+Channels: 11896
+Angle: 0
+Raw: 32036
+Cal: 32264
+Current: 310
+Current Peak: 3640
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 10
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Gerader Bauweise
+Skip:false
+Length:18
+P0| (0) (0-0) Value: 0
+P1| (10) Straight (3-142) Value: 910
+P2| (26) Upward (0-9) Value: 9
+P3| (10) Straight (9-16) Value: 2320
+P4| (46) Downward (0-9) Value: 9
+P5| (10) Straight (0-241) Value: 241
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-117) Value: 117
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-44) Value: 44
+P10| (25) Upward (0-8) Value: 8
+P11| (10) Straight (5-84) Value: 1364
+P12| (45) Downward (0-8) Value: 8
+P13| (10) Straight (0-176) Value: 176
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-190) Value: 190
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (1-70) Value: 326
+P18| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 26 Set Warning Identification nr: 4-Not Charging
+entry: 25 Clear Warning Identification nr: 4-Not Charging
+entry: 24 Set Warning Identification nr: 4-Not Charging
+entry: 23 Clear Warning Identification nr: 4-Not Charging
+entry: 22 Set Warning Identification nr: 4-Not Charging
+entry: 21 Clear Warning Identification nr: 4-Not Charging
+entry: 20 Set Warning Identification nr: 4-Not Charging
+entry: 19 Set Warning Identification nr: 26-Rail Checksum Incorrect
+entry: 18 Clear Warning Identification nr: 26-Rail Checksum Incorrect
+entry: 17 Clear Warning Identification nr: 4-Not Charging
+entry: 16 Set Warning Identification nr: 4-Not Charging
+entry: 15 Clear Warning Identification nr: 4-Not Charging
+entry: 14 Set Warning Identification nr: 4-Not Charging
+entry: 13 Clear Warning Identification nr: 4-Not Charging
+entry: 12 Set Warning Identification nr: 4-Not Charging
+entry: 11 Clear Warning Identification nr: 4-Not Charging
+entry: 10 Set Warning Identification nr: 4-Not Charging
+entry: 9 Clear Warning Identification nr: 4-Not Charging
+entry: 8 Set Warning Identification nr: 4-Not Charging
+entry: 7 Clear Warning Identification nr: 4-Not Charging
+entry: 6 Set Warning Identification nr: 4-Not Charging
+entry: 5 Clear Warning Identification nr: 4-Not Charging
+entry: 4 Set Warning Identification nr: 4-Not Charging
+entry: 3 Clear Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 4-Not Charging
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Fischer
+Address = Hasselbruchweg 5
+Postal = 23568
+City = Lübeck
+Country = DE
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:96]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:25] [1:894] [2:2176] [3:3191]
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

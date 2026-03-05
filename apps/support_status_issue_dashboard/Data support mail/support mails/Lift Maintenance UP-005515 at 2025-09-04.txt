@@ -1,0 +1,175 @@
+Subject: Lift Maintenance UP-005515 at 2025-09-04
+From: Vincent LOUBIER
+To: Support DeVi-Stairlifts
+CC: blanchetup@gmail.com
+Date: 2025-09-04 11:43:19
+
+***********************************************************************
+UP-005515
+***********************************************************************
+App version: V11.0.469
+App type: release
+App version code: 469
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 134217728
+Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+Safety Feed: 10-1
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: DECHENE
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 32
+Rail Checksum: 148 | 148
+Current Live: 1008
+Current Peak: 9900
+Supply Battery: 256
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 436
+Total: 1916cm
+Channels: false | false
+FrictionWheel: true
+Current: 60
+Current Peak: 4170
+Current Brake: 133
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32962
+Cal: 32905
+Current: 70
+Current Peak: 330
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 70
+Current Peak: 630
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 70
+Current Peak: 1190
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 34
+TimeAlive Hours: 1
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:64
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (12-123) Value: 3195
+P2| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 43 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 42 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 41 Set Warning Identification nr: 12-Communication Timed Out
+entry: 40 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 39 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 38 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 37 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 36 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 35 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Set Warning Identification nr: 12-Communication Timed Out
+entry: 32 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 31 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 30 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 29 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 28 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 27 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 26 Set Warning Identification nr: 4-Not Charging
+entry: 25 Clear Warning Identification nr: 4-Not Charging
+entry: 24 Set Warning Identification nr: 4-Not Charging
+entry: 23 Clear Warning Identification nr: 4-Not Charging
+entry: 22 Set Warning Identification nr: 4-Not Charging
+entry: 21 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 20 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 19 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+***********************************************************************
+NR: 0 Enc: 425 No Swivel No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 10514 Swivel Right No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Charbonnier
+Address = 6 rue du grand gué
+Postal = 36150
+City = Chapelle St laurian
+Country = France
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:7] [1:52]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:6] [1:879] [2:2176] [3:3077]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+
+Unchecked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+*********************************************************************** 
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 

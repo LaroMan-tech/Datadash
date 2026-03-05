@@ -1,0 +1,183 @@
+Subject: Lift Support UP-005250 at 2025-06-30
+From: Technik Scharrer Liftsysteme
+To: Support DeVi-Stairlifts
+CC: buero@scharrer-lbw.de
+Date: 2025-06-30 13:32:03
+
+*********************************************************************** 
+
+UP-005250
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 8 0 4 0 
+Warning Identification nr: 10-Angle Comparator Triggered
+Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+Safety Feed: 10-1
+Safety Last Seen: 10-1
+*********************************************************************** 
+Mechanic: Samuel Scharrer
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 11421
+Total: 1336923cm
+Channels: false | true
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32828
+Cal: 32776
+Current: 70
+Current Peak: 70
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 7
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-194) Value: 194
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (7-165) Value: 1957
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (3-59) Value: 827
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-150) Value: 150
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (4-114) Value: 1138
+P10| (66) Horizontal (0-9) Value: 9
+P11| (10) Straight (0-150) Value: 150
+P12| (66) Horizontal (0-9) Value: 9
+P13| (10) Straight (0-238) Value: 238
+P14| (25) Upward (0-8) Value: 8
+P15| (10) Straight (7-154) Value: 1946
+P16| (45) Downward (0-8) Value: 8
+P17| (10) Straight (1-224) Value: 480
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (1-230) Value: 486
+P20| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Wagner
+Address = Otto Hahn str 4
+Postal = 32756
+City = Detmold
+Country = Deutschland
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:88] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:318] [1:1215] [2:2462] [3:3231] 
+***********************************************************************
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

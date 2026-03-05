@@ -1,0 +1,14 @@
+﻿code,key,label
+18,CREDIT,Credit
+20,SEND_SPARE_RETURN_OLC,Send spare return olc
+30,FINAL,Final
+31,OPEN,Open
+32,CLOSED,Closed
+33,REJECTED,Rejected
+34,SEND_PAID,Send paid
+35,FINAL_ALT,Final
+66,REPAIR,Repair
+67,SEND_FREE_SPARE_778,Send free spare 778
+68,WAITING_FOR_RETURN,Waiting for return
+69,DISASSEMBLY,Disassembly
+71,RETURN_TO_DEALER_WITH,return to dealer with

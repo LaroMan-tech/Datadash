@@ -1,0 +1,172 @@
+Subject: Lift Support UP-004406 at 2024-05-03
+From: Francisco Rodriguez
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-05-03 20:10:06
+
+*********************************************************************** 
+UP-004406
+*********************************************************************** 
+Software Main: V 2.4.7.4    CRC: 0x131A
+Software Chair: V 1.0.3.0    CRC: 0x64CB
+Software Safety: V 3.33    CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0  |W| 8 0 0 0 
+Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+Safety Feed: 10-1
+Safety Last Seen: 10-1
+*********************************************************************** 
+System
+Temperature: 46
+Rail Checksum: 244 | 244
+Current Live: 234
+Current Peak: 29232
+Supply Battery: 246
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 22013
+Total: 80188cm
+Channels: false | false
+FrictionWheel: false
+Current: 30
+Current Peak: 14320
+Current Brake: 54
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 32571
+Cal: 32453
+Current: 30
+Current Peak: 8240
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 30
+Current Peak: 2320
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 390
+Current Peak: 2060
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 3
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 57
+TimeAlive Hours: 2
+TimeAlive days: 8
+*********************************************************************** 
+Skip:false
+Length:1
+P0| (1) Start   (0-70)  Value: 70
+P1| (10) Straight   (0-144)  Value: 144
+P2| (45) Downward   (0-8)  Value: 8
+P3| (10) Straight   (8-183)  Value: 2231
+P4| (25) Upward   (0-8)  Value: 8
+P5| (10) Straight   (0-78)  Value: 78
+P6| (51) Downward   (0-14)  Value: 14
+P7| (10) Straight   (0-25)  Value: 25
+P8| (75) Horizontal   (0-18)  Value: 18
+P9| (10) Straight   (0-223)  Value: 223
+P10| (75) Horizontal   (0-18)  Value: 18
+P11| (10) Straight   (0-25)  Value: 25
+P12| (24) Upward   (0-7)  Value: 7
+P13| (10) Straight   (7-214)  Value: 2006
+P14| (44) Downward   (0-7)  Value: 7
+P15| (10) Straight   (3-42)  Value: 810
+P16| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 42 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 41 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 40 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 39 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 38 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 37 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 36 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Set Warning Identification nr: 4-Not Charging
+entry: 34 Clear Warning Identification nr: 4-Not Charging
+entry: 33 Set Warning Identification nr: 4-Not Charging
+entry: 32 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Clear Warning Identification nr: 4-Not Charging
+entry: 30 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 29 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 28 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 27 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 26 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 25 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 24 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 23 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 22 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 21 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 20 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 19 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 18 Clear Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right  Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 22025 Swivel Left  Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Antonio Huerta      ���������������
+Address = P de Los Fresnos 353���������������
+Postal = 64920               ���������������
+City = Monterrey           ���������������
+Country = MX                  ���������������
+Phone = 1016                ���������������
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:500] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:706] [2:2048] [3:2943] 
+*********************************************************************** 
+Suppression Warnings:     0xFFFFFFFF
+Suppression Errors:       0x7FFFFFFF
+Suppression Safeties:     0xFFFFFFFE
+*********************************************************************** 
+*********************************************************************** 
+ 

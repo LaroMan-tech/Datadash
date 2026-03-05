@@ -1,0 +1,197 @@
+Subject: Lift Support UP-006636 at 2025-07-02
+From: Gregor Jaul
+To: Support DeVi-Stairlifts
+CC: info@inno-lift.eu
+Date: 2025-07-02 15:17:47
+
+***********************************************************************
+UP-006636
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Gregor Jaul
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 449
+Total: 1830cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 14060
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 13024
+Channels: 13024
+Angle: 113
+Raw: 65401
+Cal: 32693
+Current: 0
+Current Peak: 8820
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 32
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Gerader Bauweise
+Skip:false
+Length:20
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-123) Value: 123
+P2| (51) Downward (0-14) Value: 14
+P3| (10) Straight (0-25) Value: 25
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-30) Value: 30
+P6| (24) Upward (0-7) Value: 7
+P7| (10) Straight (2-129) Value: 641
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (1-33) Value: 289
+P10| (51) Downward (0-14) Value: 14
+P11| (10) Straight (0-25) Value: 25
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (0-30) Value: 30
+P14| (24) Upward (0-7) Value: 7
+P15| (10) Straight (7-141) Value: 1933
+P16| (24) Upward (0-7) Value: 7
+P17| (10) Straight (0-43) Value: 43
+P18| (51) Downward (0-14) Value: 14
+P19| (10) Straight (0-25) Value: 25
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (0-25) Value: 25
+P22| (23) Upward (0-6) Value: 6
+P23| (10) Straight (4-158) Value: 1182
+P24| (43) Downward (0-6) Value: 6
+P25| (10) Straight (0-195) Value: 195
+P26| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 83 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 82 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 81 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 80 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 79 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 78 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 77 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 76 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 75 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 74 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 73 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 72 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 71 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 70 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 69 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 68 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 67 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 66 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 65 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 64 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 63 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 62 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 61 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 60 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:88]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:127] [1:985] [2:2177] [3:3069]
+***********************************************************************
+
+
+_______________________________
+Gregor Jaul
+Technik
+
+Tel.:     +43 2743 93081
+Mobil: +43 676 6051519
+Mail:    g.jaul@inno-lift.eu
+Web:    www.inno-lift.eu • www.innolift-treppenlifte.at
+
+Innolift e.U. • Mauterheim 24 • 3140 Böheimkirchen
+HG: St. Pölten • FN: 589906i • UID: ATU78576667 

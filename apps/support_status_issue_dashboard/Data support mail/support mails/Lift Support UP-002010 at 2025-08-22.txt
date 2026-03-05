@@ -1,0 +1,168 @@
+Subject: Lift Support UP-002010 at 2025-08-22
+From: John Anestis
+To: Support DeVi-Stairlifts
+CC: johnanestis.ja@gmail.com
+Date: 2025-08-22 10:26:34
+
+***********************************************************************
+UP-002010
+***********************************************************************
+App version: V11.0.469
+App type: release
+App version code: 469
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: john anestis
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 57
+Rail Checksum: 160 | 160
+Current Live: 540
+Current Peak: 2358
+Supply Battery: 261
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 30210
+Total: 103964cm
+Channels: false | true
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32469
+Cal: 32663
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 1100
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 6
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:84
+P0| (1) Start (0-35) Value: 35
+P1| (10) Straight (11-130) Value: 2946
+P2| (44) Downward (0-7) Value: 7
+P3| (10) Straight (1-166) Value: 422
+P4| (24) Upward (0-7) Value: 7
+P5| (10) Straight (19-250) Value: 5114
+P6| (44) Downward (0-7) Value: 7
+P7| (10) Straight (1-139) Value: 395
+P8| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 4 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 3 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 2 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 1 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 980 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 30210 Swivel Left No Addon
+***********************************************************************
+Offset Bottom Station: 225
+Offset Top Station: 170
+***********************************************************************
+Swivel Reach: 30
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone =
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:59]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:917] [2:2227] [3:3135]
+*********************************************************************** 
+
+Στάλθηκε από Outlook για Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,180 @@
+Subject: Lift Support UP-006960 at 2025-09-20
+From: Ronan BLANCHARD
+To: Support DeVi-Stairlifts
+CC: Ronan BLANCHARD
+Date: 2025-09-20 08:44:31
+
+***********************************************************************
+UP-006960
+***********************************************************************
+App version: V11.0.504
+App type: release
+App version code: 504
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 20
+Warning Identification nr: 2-Traction Encoder Out Of Bound
+Warning Identification nr: 4-Not Charging
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Ronan BLANCHARD
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 27
+Rail Checksum: 13 | 13
+Current Live: 0
+Current Peak: 1908
+Supply Battery: 250
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 415
+Total: 89996cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 13114
+Channels: 13114
+Angle: 1
+Raw: 33452
+Cal: 32996
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 1420
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: UNKNOWN
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 3
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:80
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (0-132) Value: 132
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (6-45) Value: 1581
+P4| (23) Upward (0-6) Value: 6
+P5| (10) Straight (1-37) Value: 293
+P6| (51) Downward (0-14) Value: 14
+P7| (10) Straight (0-83) Value: 83
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-145) Value: 145
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-36) Value: 36
+P12| (24) Upward (0-7) Value: 7
+P13| (10) Straight (7-102) Value: 1894
+P14| (44) Downward (0-7) Value: 7
+P15| (10) Straight (0-60) Value: 60
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (2-226) Value: 738
+P18| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 459 Swivel Left No Addon
+NR: 1 Enc: 1454 No Swivel No Addon
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 20674 Swivel Left No Addon
+***********************************************************************
+Offset Bottom Station: 70
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Blondel
+Address = 3 avenue du Tregor
+Postal = 22740
+City = Lezardrieux
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:28]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:249] [1:1119] [2:2367] [3:3202]
+*********************************************************************** 
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 

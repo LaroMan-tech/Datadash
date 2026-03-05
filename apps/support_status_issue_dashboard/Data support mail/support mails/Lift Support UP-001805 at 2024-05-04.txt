@@ -1,0 +1,120 @@
+Subject: Lift Support UP-001805 at 2024-05-04
+From: EURO ASIA ACCESS SOLUTIONS SDN BHD
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-05-04 05:39:35
+
+
+
+*********************************************************************** 
+UP-001805
+*********************************************************************** 
+Software Main: V 2.4.0.8    CRC: 0x5EDE
+Software Chair: V 1.0.2.9    CRC: 0x3F4B
+Software Safety: V 3.33    CRC: 0x136
+*********************************************************************** 
+|E| 0 0 0 0  |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 10-1
+*********************************************************************** 
+System
+Temperature: 35
+Rail Checksum: 53 | 53
+Current Live: 432
+Current Peak: 2430
+Supply Battery: 245
+Supply Chair: 124
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 10022
+Total: 18210cm
+Channels: false | false
+FrictionWheel: true
+Current: 30
+Current Peak: 30
+Current Brake: 54
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 33109
+Cal: 33145
+Current: 30
+Current Peak: 30
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 30
+Current Peak: 30
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 570
+Current Peak: 2230
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 7
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:13
+P0| (1) Start   (0-35)  Value: 35
+P1| (10) Straight   (2-127)  Value: 639
+P2| (44) Downward   (0-7)  Value: 7
+P3| (10) Straight   (2-214)  Value: 726
+P4| (75) Horizontal   (0-18)  Value: 18
+P5| (10) Straight   (1-171)  Value: 427
+P6| (24) Upward   (0-7)  Value: 7
+P7| (10) Straight   (9-39)  Value: 2343
+P8| (44) Downward   (0-7)  Value: 7
+P9| (10) Straight   (2-91)  Value: 603
+P10| (75) Horizontal   (0-18)  Value: 18
+P11| (10) Straight   (1-82)  Value: 338
+P12| (25) Upward   (0-8)  Value: 8
+P13| (10) Straight   (7-177)  Value: 1969
+P14| (45) Downward   (0-8)  Value: 8
+P15| (10) Straight   (1-97)  Value: 353
+P16| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+-Log Unchecked- 
+-Stations Unchecked- 
+-Offsets Unchecked- 
+-Swivel Reach Unchecked- 
+-Wifi Unchecked- 
+-Calibrations Unchecked- 
+-Suppressions Unchecked- 
+*********************************************************************** 
+ 

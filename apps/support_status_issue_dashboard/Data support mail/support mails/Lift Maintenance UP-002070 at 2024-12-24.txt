@@ -1,0 +1,183 @@
+Subject: Lift Maintenance UP-002070 at 2024-12-24
+From: office
+To: Support DeVi-Stairlifts
+CC: office
+Date: 2025-01-06 13:26:02
+
+*********************************************************************** 
+
+UP-002070
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.2 CRC: 0xB9F4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x136
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Greg
+Extra notes from the mechanic: 
+replaced carriage, existing carriage faulty. Spindle failure and powered Footrest failure
+
+*********************************************************************** 
+System
+Temperature: 35
+Rail Checksum: 203 | 203
+Current Live: 1926
+Current Peak: 14724
+Supply Battery: 232
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 473
+Total: 796483cm
+Channels: true | true
+FrictionWheel: true
+Current: 30
+Current Peak: 8480
+Current Brake: 54
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10031
+Channels: 10031
+Angle: 0
+Raw: 33770
+Cal: 33541
+Current: 150
+Current Peak: 6070
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 12
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:10
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (0-133) Value: 133
+P2| (26) Upward (0-9) Value: 9
+P3| (10) Straight (13-231) Value: 3559
+P4| (46) Downward (0-9) Value: 9
+P5| (10) Straight (2-219) Value: 731
+P6| (27) Upward (0-10) Value: 10
+P7| (10) Straight (0-99) Value: 99
+P8| (47) Downward (0-10) Value: 10
+P9| (10) Straight (2-20) Value: 532
+P10| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 28 Set Warning Identification nr: 4-Not Charging
+entry: 27 Clear Warning Identification nr: 4-Not Charging
+entry: 26 Set Warning Identification nr: 4-Not Charging
+entry: 25 Clear Warning Identification nr: 4-Not Charging
+entry: 24 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 23 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 22 Set Warning Identification nr: 4-Not Charging
+entry: 21 Clear Warning Identification nr: 4-Not Charging
+entry: 20 Set Warning Identification nr: 4-Not Charging
+entry: 19 Clear Warning Identification nr: 4-Not Charging
+entry: 18 Set Warning Identification nr: 4-Not Charging
+entry: 17 Clear Warning Identification nr: 4-Not Charging
+entry: 16 Set Warning Identification nr: 4-Not Charging
+entry: 15 Clear Warning Identification nr: 4-Not Charging
+entry: 14 Set Warning Identification nr: 4-Not Charging
+entry: 13 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 12 Clear Warning Identification nr: 4-Not Charging
+entry: 11 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 10 Set Warning Identification nr: 4-Not Charging
+entry: 9 Clear Warning Identification nr: 4-Not Charging
+entry: 8 Set Warning Identification nr: 4-Not Charging
+entry: 7 Clear Warning Identification nr: 4-Not Charging
+entry: 6 Set Warning Identification nr: 4-Not Charging
+entry: 5 Clear Warning Identification nr: 4-Not Charging
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 459 Swivel Right No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 70
+Offset Top Station: 90
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:54] [1:927] [2:2127] [3:3072] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+*********************************************************************** 
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,182 @@
+Subject: Lift Support UP-004947 at 2025-10-13
+From: SWEE HIN
+To: Support DeVi-Stairlifts
+CC: sweehinae@gmail.com
+Date: 2025-10-13 04:57:37
+
+***********************************************************************
+UP-004947
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.2 CRC: 0xB9F4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: KYAW WIN HLAING
+Extra notes from the mechanic:
+The current 24V battery charger is intermittently charging and discharging, which may affect battery performance and longevity. I recommend replacing the charger to ensure consistent and efficient charging.
+
+
+
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 454
+Total: 1404984cm
+Channels: false | false
+FrictionWheel: true
+Current: 100
+Current Peak: 7370
+Current Brake: 405
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 12761
+Channels: 12761
+Angle: 0
+Raw: 32913
+Cal: 32745
+Current: 100
+Current Peak: 3990
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 35
+TimeAlive Hours: 13
+TimeAlive days: 27
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (0-210) Value: 210
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (3-105) Value: 873
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (3-201) Value: 969
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (2-28) Value: 540
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (11-139) Value: 2955
+P10| (44) Downward (0-7) Value: 7
+P11| (10) Straight (3-182) Value: 950
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (1-231) Value: 487
+P14| (24) Upward (0-7) Value: 7
+P15| (10) Straight (4-76) Value: 1100
+P16| (44) Downward (0-7) Value: 7
+P17| (10) Straight (2-164) Value: 676
+P18| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 90 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 89 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 88 Set Warning Identification nr: 4-Not Charging
+entry: 87 Clear Warning Identification nr: 4-Not Charging
+entry: 86 Set Warning Identification nr: 4-Not Charging
+entry: 85 Clear Warning Identification nr: 4-Not Charging
+entry: 84 Set Warning Identification nr: 4-Not Charging
+entry: 83 Clear Warning Identification nr: 4-Not Charging
+entry: 82 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 81 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 80 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 79 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 78 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 77 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 76 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 75 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 74 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 73 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 72 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 71 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 70 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 69 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 68 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 67 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 442 No Swivel No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 65
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:7] [1:22]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:318] [1:1175] [2:2335] [3:2943]
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

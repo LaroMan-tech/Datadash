@@ -1,0 +1,255 @@
+Subject: RE: Lift Support UP-005389 at 2026-01-23
+From: stagiair
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2026-01-23 08:23:26
+
+
+Suppressions enabled
+
+
+*	Errors suppressed: E11, E25
+
+
+
+Success report
+
+
+Summary: System is correctly configured and the check completed successfully. AppVersion=v11.0.534, ChairVersion=v 1.0.4.2, BatteryV=25.1, OnStation=True, GooglePlay=, Analysis: Time alive < 1 day, Solutions: No alerts found.
+
+Root cause: No faults detected.
+
+
+Recommended actions
+
+
+*	Visually confirm OnStation=True and BatteryV=25.1.
+*	After the device has been running for 24 hours, re-check the logs as recommended.
+*	Confirm that no alerts are present in the logs (Solutions: No alerts found).
+
+
+Verification
+
+
+*	Check logs after 24 hours of uptime to confirm "Time alive < 1 day" is no longer reported and no new alerts appear.
+*	Verify the device still reports OnStation=True and BatteryV=25.1 during the follow-up check.
+
+Disclaimer This message was generated automatically.
+
+
+
+
+
+________________________________
+
+From: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Sent: Friday, January 23, 2026 7:21:45 AM
+To: stagiair <stagiair@devi-comfort.com>
+Subject: FW: Lift Support UP-005389 at 2026-01-23 
+ 
+ 
+________________________________
+
+Van: Team Mobility <teammobilityindia@gmail.com>
+Verzonden: vrijdag 23 januari 2026 08:21:28 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Aan: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+CC: Team Mobility <teammobilityindia@gmail.com>
+Onderwerp: Lift Support UP-005389 at 2026-01-23
+
+
+*********************************************************************** 
+UP-005389
+*********************************************************************** 
+App version: V11.0.534
+App type: debug
+App version code: 534
+Software Main: V 2.4.9.3    CRC: 0x5454
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x136
+Code of the day active: Yes
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: up 005389
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 43
+Rail Checksum: 78 | 78
+Current Live: 108
+Current Peak: 990
+Supply Battery: 251
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 66978
+Total: 902083cm
+Channels: false | true
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 9997
+Channels: 9997
+Angle: 0
+Raw: 32495
+Cal: 32745
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 120
+Current Peak: 870
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 1
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:98
+P0| (1) Start   (0-30)  Value: 30
+P1| (10) Straight   (12-73)  Value: 3145
+P2| (43) Downward   (0-6)  Value: 6
+P3| (10) Straight   (2-91)  Value: 603
+P4| (75) Horizontal   (0-18)  Value: 18
+P5| (10) Straight   (1-219)  Value: 475
+P6| (75) Horizontal   (0-18)  Value: 18
+P7| (10) Straight   (0-64)  Value: 64
+P8| (27) Upward   (0-10)  Value: 10
+P9| (10) Straight   (0-39)  Value: 39
+P10| (41) Downward   (0-4)  Value: 4
+P11| (10) Straight   (13-169)  Value: 3497
+P12| (43) Downward   (0-6)  Value: 6
+P13| (10) Straight   (2-163)  Value: 675
+P14| (75) Horizontal   (0-18)  Value: 18
+P15| (10) Straight   (2-45)  Value: 557
+P16| (75) Horizontal   (0-18)  Value: 18
+P17| (10) Straight   (1-59)  Value: 315
+P18| (23) Upward   (0-6)  Value: 6
+P19| (10) Straight   (12-71)  Value: 3143
+P20| (43) Downward   (0-6)  Value: 6
+P21| (10) Straight   (1-227)  Value: 483
+P22| (75) Horizontal   (0-18)  Value: 18
+P23| (10) Straight   (1-169)  Value: 425
+P24| (74) Horizontal   (0-17)  Value: 17
+P25| (10) Straight   (1-9)  Value: 265
+P26| (23) Upward   (0-6)  Value: 6
+P27| (10) Straight   (12-28)  Value: 3100
+P28| (43) Downward   (0-6)  Value: 6
+P29| (10) Straight   (2-88)  Value: 600
+P30| (75) Horizontal   (0-18)  Value: 18
+P31| (10) Straight   (1-139)  Value: 395
+P32| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right  No Addon 
+NR: 1 Enc: 14730 No Swivel  Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 66978 Swivel Left  Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 150
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:58] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:781] [2:2077] [3:3007] 
+*********************************************************************** 
+Latitude: 22.08021886666667
+Longitude: 82.14061813333335
+*********************************************************************** 
+Date & Time (tablet): 2026-01-23 12:51:22
+*********************************************************************** 
+App session length: 3m 11s
+*********************************************************************** 
+Location session length: 2m 23s
+*********************************************************************** 
+ 

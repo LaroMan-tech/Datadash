@@ -1,0 +1,249 @@
+Subject: RE: Lift Support UP-007540 at 2025-12-05
+From: stagiair
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-12-05 11:11:24
+
+
+Fault report
+
+
+Summary: BatteryV=24.4 while OnStation=True (Battery voltage < 25V), with warnings: W4 Not Charging, W29 EEPROM CRC Incorrect.
+
+Root cause: Charger or charging contacts are not delivering the expected station voltage (27–28V) causing the battery to remain low, and the internal EEPROM checksum is mismatched requiring motor recalibration or PCB replacement.
+
+
+Recommended actions
+
+
+*	Follow the W4 procedure: ensure the lift is centered on the charging station, verify the station supplies 27–28V, clean charging contacts, and inspect the red wires on the main switch; check the charge LED for normal indication.
+*	If the station voltage is not 27–28V or the charge LED behavior suggests a faulty charger (often blinking), check charger connections and fuses; replace the charger if defective and then verify that charging voltage rises.
+*	Address W29 by calibrating all motors and restarting the system; for an existing installation perform a test run and, if data are stable, recalibrate a single motor to force checksum recalculation. If the EEPROM CRC warning remains, replace the main PCB (UP000056) or contact DeVi-Stairlifts support.
+
+
+Verification
+
+
+*	Confirm BatteryV measures ~27–28V or shows a clear rise while OnStation=True and the charge LED indicates normal charging.
+*	Confirm W4 and W29 warnings are cleared and perform a test run to verify normal operation after calibration or PCB replacement.
+
+	 
+
+
+________________________________
+
+From: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Sent: Friday, December 5, 2025 10:09:36 AM
+To: stagiair <stagiair@devi-comfort.com>
+Subject: FW: Lift Support UP-007540 at 2025-12-05 
+ 
+ 
+________________________________
+
+Van: Haltia <biuro.haltia@gmail.com>
+Verzonden: vrijdag 5 december 2025 11:09:19 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Aan: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Onderwerp: Lift Support UP-007540 at 2025-12-05
+
+
+*********************************************************************** 
+UP-007540
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.4    CRC: 0xD705
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x0
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 536870928
+Warning Identification nr: 4-Not Charging
+Warning Identification nr: 29-EEprom CRC Incorrect
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: David
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 27
+Rail Checksum: 245 | 245
+Current Live: 504
+Current Peak: 522
+Supply Battery: 244
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 22150
+Total: 24064cm
+Channels: true | true
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10038
+Channels: 10038
+Angle: 2
+Raw: 33189
+Cal: 32543
+Current: 150
+Current Peak: 150
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1003
+Channels: 1003
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 1
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:80
+P0| (1) Start   (0-40)  Value: 40
+P1| (10) Straight   (9-83)  Value: 2387
+P2| (45) Downward   (0-8)  Value: 8
+P3| (10) Straight   (0-123)  Value: 123
+P4| (75) Horizontal   (0-18)  Value: 18
+P5| (10) Straight   (0-25)  Value: 25
+P6| (23) Upward   (0-6)  Value: 6
+P7| (10) Straight   (2-215)  Value: 727
+P8| (43) Downward   (0-6)  Value: 6
+P9| (10) Straight   (0-250)  Value: 250
+P10| (75) Horizontal   (0-18)  Value: 18
+P11| (10) Straight   (0-25)  Value: 25
+P12| (24) Upward   (0-7)  Value: 7
+P13| (10) Straight   (5-146)  Value: 1426
+P14| (44) Downward   (0-7)  Value: 7
+P15| (10) Straight   (0-175)  Value: 175
+P16| (75) Horizontal   (0-18)  Value: 18
+P17| (10) Straight   (1-97)  Value: 353
+P18| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 22150 Swivel Right  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Maria
+Address = Kmieca 55
+Postal = 71086
+City = Szczecin
+Country = PL
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:79] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:858] [2:2112] [3:3072] 
+*********************************************************************** 
+Latitude: 53.428206
+Longitude: 14.5010387
+*********************************************************************** 
+Date & Time (tablet): 2025-12-05 11:08:33
+*********************************************************************** 
+App session length: 2m 22s
+*********************************************************************** 
+Location session length: 2m 21s
+*********************************************************************** 
+  
+
+Pozdrawiam / Best regards
+
+Dawid Baranowski
+
+Dział wsparcia sprzedaży / Sales support department
+
+
+
+
+HALTIA REHABILITACJA & ORTOPEDIA
+ul. Paprotna 8, 51-117 Wrocław
++48 505997557, +48 71 352 84 15
+strona | web: https://sklep.haltia.pl/ <https://sklep.haltia.pl/> 
+
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4wITtiv0VFve3l8Gr0mFLhpGzbJGcTov31g9ze_wqEB50ko_yLqWW3CXTG3oLHhQ1N1152TgQ4gPSBl> 
+

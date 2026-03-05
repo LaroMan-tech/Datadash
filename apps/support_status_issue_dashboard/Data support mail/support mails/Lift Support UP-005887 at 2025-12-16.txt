@@ -1,0 +1,187 @@
+Subject: Lift Support UP-005887 at 2025-12-16
+From: Paras Mhatre
+To: Support DeVi-Stairlifts
+CC: jedsmobility@gmail.com
+Date: 2025-12-16 12:26:46
+
+***********************************************************************
+UP-005887
+***********************************************************************
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Paras Mhatre
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 40
+Rail Checksum: 199 | 199
+Current Live: 0
+Current Peak: 1386
+Supply Battery: 251
+Supply Chair: 124
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 25202
+Total: 725135cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 9999
+Channels: 9999
+Angle: 4
+Raw: 34384
+Cal: 33007
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1001
+Channels: 1001
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 50
+Current Peak: 1510
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 3
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:78
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (7-236) Value: 2028
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (1-208) Value: 464
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-248) Value: 248
+P6| (25) Upward (0-8) Value: 8
+P7| (10) Straight (4-138) Value: 1162
+P8| (45) Downward (0-8) Value: 8
+P9| (10) Straight (1-183) Value: 439
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (1-1) Value: 257
+P12| (25) Upward (0-8) Value: 8
+P13| (10) Straight (6-50) Value: 1586
+P14| (45) Downward (0-8) Value: 8
+P15| (10) Straight (1-116) Value: 372
+P16| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 4 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 3 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 2 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 1 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Right No Addon
+NR: 1 Enc: 970 No Swivel Charge Station
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 25202 Swivel Left No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Pulkit Sachdeva
+Address = 1468,Sector 42B,CHD
+Postal = 160036
+City = Chandigarh
+Country = India
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:31]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:129] [1:1040] [2:2319] [3:3200]
+***********************************************************************
+Latitude: 30.7244761
+Longitude: 76.7450146
+***********************************************************************
+Date & Time (tablet): 2025-12-16 16:56:17
+***********************************************************************
+App session length: 0m 38s
+***********************************************************************
+Location session length: 0m 10s
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

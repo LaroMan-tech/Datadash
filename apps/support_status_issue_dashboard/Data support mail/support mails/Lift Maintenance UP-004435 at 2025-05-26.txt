@@ -1,0 +1,188 @@
+Subject: Lift Maintenance UP-004435 at 2025-05-26
+From: Francisco Rodriguez
+To: Support DeVi-Stairlifts
+CC: frodriguez@grupohallbart.com
+Date: 2025-05-27 01:20:00
+
+***********************************************************************
+UP-004435
+***********************************************************************
+App version: V11.0.408
+App type: release
+App version code: 408
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.3.0 CRC: 0x64CB
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 10-1
+***********************************************************************
+Mechanic: Francisco Rodriguez
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 18367
+Total: 1062606cm
+Channels: true | true
+FrictionWheel: false
+Current: 0
+Current Peak: 7270
+Current Brake: 990
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 9996
+Channels: 9996
+Angle: 1
+Raw: 33301
+Cal: 32970
+Current: 0
+Current Peak: 9380
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 37
+TimeAlive Hours: 0
+TimeAlive days: 5
+***********************************************************************
+Lift type: Construcción recta
+Skip:false
+Length:16
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (3-12) Value: 780
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (0-208) Value: 208
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-13) Value: 13
+P6| (23) Upward (0-6) Value: 6
+P7| (10) Straight (13-162) Value: 3490
+P8| (43) Downward (0-6) Value: 6
+P9| (10) Straight (0-90) Value: 90
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-25) Value: 25
+P12| (22) Upward (0-5) Value: 5
+P13| (10) Straight (3-72) Value: 840
+P14| (42) Downward (0-5) Value: 5
+P15| (10) Straight (2-188) Value: 700
+P16| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 64 Set Warning Identification nr: 21-Safety Motor Up Pressed
+entry: 63 Clear Warning Identification nr: 21-Safety Motor Up Pressed
+entry: 62 Set Warning Identification nr: 4-Not Charging
+entry: 61 Clear Warning Identification nr: 4-Not Charging
+entry: 60 Set Warning Identification nr: 4-Not Charging
+entry: 59 Clear Warning Identification nr: 4-Not Charging
+entry: 58 Set Warning Identification nr: 4-Not Charging
+entry: 57 Clear Warning Identification nr: 4-Not Charging
+entry: 56 Set Warning Identification nr: 4-Not Charging
+entry: 55 Clear Warning Identification nr: 4-Not Charging
+entry: 54 Set Warning Identification nr: 4-Not Charging
+entry: 53 Clear Warning Identification nr: 4-Not Charging
+entry: 52 Set Warning Identification nr: 4-Not Charging
+entry: 51 Clear Warning Identification nr: 4-Not Charging
+entry: 50 Set Warning Identification nr: 4-Not Charging
+entry: 49 Clear Warning Identification nr: 4-Not Charging
+entry: 48 Set Warning Identification nr: 4-Not Charging
+entry: 47 Clear Warning Identification nr: 4-Not Charging
+entry: 46 Set Warning Identification nr: 4-Not Charging
+entry: 45 Clear Warning Identification nr: 4-Not Charging
+entry: 44 Set Warning Identification nr: 4-Not Charging
+entry: 43 Clear Warning Identification nr: 4-Not Charging
+entry: 42 Set Warning Identification nr: 4-Not Charging
+entry: 41 Clear Warning Identification nr: 4-Not Charging
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Enc: 5653 No Swivel Hingedrail
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Pilar Rodriguez
+Address = Paseos del Bosque
+Postal = 76910
+City = Queretaro
+Country = Mexico
+Phone = 5538552147
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:696] [2:2048] [3:3007]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks:
+*********************************************************************** 
+
+Obtener Outlook para Android <https://aka.ms/AAb9ysg> 

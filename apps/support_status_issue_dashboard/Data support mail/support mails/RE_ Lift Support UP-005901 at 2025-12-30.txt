@@ -1,0 +1,268 @@
+Subject: RE: Lift Support UP-005901 at 2025-12-30
+From: stagiair
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-12-30 14:39:26
+
+
+Fault report
+
+
+Summary: W2 Traction Encoder Out Of Bound, W4 Not Charging; current BatteryV=24.3 and OnStation=False.
+
+Root cause: The lift is not centred on the station, causing the traction encoder to go out of bounds and preventing proper charging.
+
+
+Recommended actions
+
+
+*	Park the lift exactly in the middle of the top/bottom station using traction override, select the position and ensure the seat is horizontal; this should restore joystick driving.
+*	Ensure the lift is centred on the charging station; verify 27–28V at the station contacts, clean contact surfaces, and inspect the red wires on the main switch.
+*	If charging still fails after centring and contact checks, replace the PCB.
+
+
+Verification
+
+
+*	Confirm joystick control operates normally (joystick driving restored).
+*	Confirm OnStation=True and BatteryV increases toward the 27–28V range; measure station contact voltage as 27–28V.
+
+	 
+
+
+________________________________
+
+From: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Sent: Tuesday, December 30, 2025 1:38:09 PM
+To: stagiair <stagiair@devi-comfort.com>
+Subject: FW: Lift Support UP-005901 at 2025-12-30 
+ 
+ 
+________________________________
+
+Van: Team Mobility <teammobilityindia@gmail.com>
+Verzonden: dinsdag 30 december 2025 14:37:52 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Aan: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Onderwerp: Lift Support UP-005901 at 2025-12-30
+
+
+*********************************************************************** 
+UP-005901
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.8.4    CRC: 0x4F7B
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x0
+Code of the day active: Yes
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 20
+Warning Identification nr: 2-Traction Encoder Out Of Bound
+Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: suraj saroj
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 37
+Rail Checksum: 41 | 41
+Current Live: 0
+Current Peak: 0
+Supply Battery: 243
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 49936
+Total: 351475cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 11428
+Channels: 11428
+Angle: 0
+Raw: 33514
+Cal: 33288
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 993
+Channels: 993
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 310
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 0
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:84
+P0| (1) Start   (0-0)  Value: 0
+P1| (10) Straight   (0-225)  Value: 225
+P2| (71) Horizontal   (0-14)  Value: 14
+P3| (10) Straight   (0-110)  Value: 110
+P4| (25) Upward   (0-8)  Value: 8
+P5| (10) Straight   (4-206)  Value: 1230
+P6| (45) Downward   (0-8)  Value: 8
+P7| (10) Straight   (0-202)  Value: 202
+P8| (75) Horizontal   (0-18)  Value: 18
+P9| (10) Straight   (0-116)  Value: 116
+P10| (75) Horizontal   (0-18)  Value: 18
+P11| (10) Straight   (0-3)  Value: 3
+P12| (27) Upward   (0-10)  Value: 10
+P13| (10) Straight   (1-137)  Value: 393
+P14| (40) Downward   (0-3)  Value: 3
+P15| (10) Straight   (1-67)  Value: 323
+P16| (20) Upward   (0-3)  Value: 3
+P17| (10) Straight   (6-20)  Value: 1556
+P18| (47) Downward   (0-10)  Value: 10
+P19| (10) Straight   (0-64)  Value: 64
+P20| (74) Horizontal   (0-17)  Value: 17
+P21| (10) Straight   (0-152)  Value: 152
+P22| (76) Horizontal   (0-19)  Value: 19
+P23| (10) Straight   (0-13)  Value: 13
+P24| (28) Upward   (0-11)  Value: 11
+P25| (10) Straight   (0-197)  Value: 197
+P26| (40) Downward   (0-3)  Value: 3
+P27| (10) Straight   (7-54)  Value: 1846
+P28| (45) Downward   (0-8)  Value: 8
+P29| (10) Straight   (0-51)  Value: 51
+P30| (75) Horizontal   (0-18)  Value: 18
+P31| (10) Straight   (1-15)  Value: 271
+P32| (75) Horizontal   (0-18)  Value: 18
+P33| (10) Straight   (0-43)  Value: 43
+P34| (27) Upward   (0-10)  Value: 10
+P35| (10) Straight   (1-196)  Value: 452
+P36| (40) Downward   (0-3)  Value: 3
+P37| (10) Straight   (2-135)  Value: 647
+P38| (20) Upward   (0-3)  Value: 3
+P39| (10) Straight   (4-102)  Value: 1126
+P40| (47) Downward   (0-10)  Value: 10
+P41| (10) Straight   (0-28)  Value: 28
+P42| (75) Horizontal   (0-18)  Value: 18
+P43| (10) Straight   (0-23)  Value: 23
+P44| (26) Upward   (0-9)  Value: 9
+P45| (10) Straight   (0-62)  Value: 62
+P46| (46) Downward   (0-9)  Value: 9
+P47| (10) Straight   (0-35)  Value: 35
+P48| (75) Horizontal   (0-18)  Value: 18
+P49| (10) Straight   (0-56)  Value: 56
+P50| (27) Upward   (0-10)  Value: 10
+P51| (10) Straight   (3-6)  Value: 774
+P52| (41) Downward   (0-4)  Value: 4
+P53| (10) Straight   (4-226)  Value: 1250
+P54| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 459 Swivel Right  No Addon 
+NR: 1 Enc: 29540 No Swivel  Charge Station 
+NR: 2 Enc: 49040 No Swivel  Charge Station 
+NR: 3 Enc: 1458 No Swivel  Charge Station 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 49856 Swivel Left  Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 70
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:46] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:162] [1:1055] [2:2338] [3:3200] 
+*********************************************************************** 
+Latitude: 19.0201127
+Longitude: 72.836863
+*********************************************************************** 
+Date & Time (tablet): 2025-12-30 15:04:47
+*********************************************************************** 
+App session length: 22m 32s
+*********************************************************************** 
+Location session length: 22m 32s
+*********************************************************************** 
+ 

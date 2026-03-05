@@ -1,0 +1,178 @@
+Subject: Lift Support UP-006385 at 2025-05-21
+From: up_cad@24-7healthcare.co.uk
+To: Support DeVi-Stairlifts
+CC: cad@24-7healthcare.co.uk
+Date: 2025-05-21 14:17:37
+
+***********************************************************************
+UP-006385
+***********************************************************************
+App version: V11.0.408
+App type: release
+App version code: 408
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 64 |W| 16
+Error Identification nr: 6-Traction Encoder Failure
+Warning Identification nr: 4-Not Charging
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: rahul
+Extra notes from the mechanic:
+this lift showing this error and stopping after just move
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 21755
+Total: 58547cm
+Channels: true | true
+FrictionWheel: true
+Current: 20
+Current Peak: 310
+Current Brake: 36
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32989
+Cal: 33072
+Current: 30
+Current Peak: 220
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 9
+TimeAlive Hours: 18
+TimeAlive days: 8
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:16
+P0| (1) Start (0-45) Value: 45
+P1| (10) Straight (2-26) Value: 538
+P2| (46) Downward (0-9) Value: 9
+P3| (10) Straight (2-102) Value: 614
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-237) Value: 237
+P6| (27) Upward (0-10) Value: 10
+P7| (10) Straight (2-166) Value: 678
+P8| (47) Downward (0-10) Value: 10
+P9| (10) Straight (1-25) Value: 281
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-25) Value: 25
+P12| (25) Upward (0-8) Value: 8
+P13| (10) Straight (10-123) Value: 2683
+P14| (45) Downward (0-8) Value: 8
+P15| (10) Straight (1-151) Value: 407
+P16| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 53 Clear Warning Identification nr: 4-Not Charging
+entry: 52 Clear Error Identification nr: 6-Traction Encoder Failure
+entry: 51 Set Warning Identification nr: 4-Not Charging
+entry: 50 Clear Warning Identification nr: 4-Not Charging
+entry: 49 Clear Error Identification nr: 6-Traction Encoder Failure
+entry: 48 Clear Error Identification nr: 6-Traction Encoder Failure
+entry: 47 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 46 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 45 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 44 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 43 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 42 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 41 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 40 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 39 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 38 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Set Warning Identification nr: 12-Communication Timed Out
+entry: 33 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 32 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 31 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 30 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = mann
+Address = egoff
+Postal = rm96ku
+City = rm96ku
+Country = london
+Phone = GB
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:79]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:751] [2:2059] [3:3079]
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

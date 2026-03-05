@@ -1,0 +1,172 @@
+Subject: Lift Support UP-004178 at 2023-11-17
+From: Paul FAVOT
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2023-11-17 11:23:38
+
+*********************************************************************** 
+
+UP-004178
+*********************************************************************** 
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.3.0 CRC: 0x0
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 8 0 0 17 
+Alerte numéro d'identification: 0-Capteur d’inclinaison trop incliné
+Alerte numéro d'identification: 4-Ne charge pas
+Alerte numéro d'identification: 27-Micro contrôle de sécurité intervenue
+*********************************************************************** 
+Safety Feed: 12-3
+Safety Last Seen: 12-3
+*********************************************************************** 
+Mechanic: favot
+Extra notes from the mechanic: 
+robert
+
+*********************************************************************** 
+System
+Temperature: 32
+Rail Checksum: 118 | 118
+Current Live: 558
+Current Peak: 5094
+Supply Battery: 249
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 19785
+Total: 646cm
+Channels: false | false
+FrictionWheel: true
+Current: 70
+Current Peak: 2420
+Current Brake: 108
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 114
+Raw: 32881
+Cal: 0
+Current: 60
+Current Peak: 60
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 70
+Current Peak: 70
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 70
+Current Peak: 1060
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 14
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:7
+P0| (1) Start (0-75) Value: 75
+P1| (10) Straight (0-142) Value: 142
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (0-214) Value: 214
+P4| (46) Downward (0-9) Value: 9
+P5| (10) Straight (1-200) Value: 456
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-205) Value: 205
+P8| (25) Upward (0-8) Value: 8
+P9| (10) Straight (13-127) Value: 3455
+P10| (45) Downward (0-8) Value: 8
+P11| (10) Straight (3-72) Value: 840
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 65 Set Alerte numéro d'identification: 17-Repose-pied de sécurité gauche enclenché
+entry: 64 Clear Alerte numéro d'identification: 17-Repose-pied de sécurité gauche enclenché
+entry: 63 Set Alerte numéro d'identification: 17-Repose-pied de sécurité gauche enclenché
+entry: 62 Clear Alerte numéro d'identification: 17-Repose-pied de sécurité gauche enclenché
+entry: 61 Clear Alerte numéro d'identification: 0-Capteur d’inclinaison trop incliné
+entry: 60 Set No d'identification d'erreur: 27-Communication mauvais numéro du message
+entry: 59 Set Alerte numéro d'identification: 12-Délai de communication expiré
+entry: 58 Clear No d'identification d'erreur: 27-Communication mauvais numéro du message
+entry: 57 Set Alerte numéro d'identification: 10-Comparateur d’angle déclenché
+entry: 56 Clear Alerte numéro d'identification: 10-Comparateur d’angle déclenché
+entry: 55 Set Alerte numéro d'identification: 9-Tension alimentation incorrecte
+entry: 54 Clear Alerte numéro d'identification: 9-Tension alimentation incorrecte
+entry: 53 Set Alerte numéro d'identification: 10-Comparateur d’angle déclenché
+entry: 52 Clear Alerte numéro d'identification: 10-Comparateur d’angle déclenché
+entry: 51 Set Alerte numéro d'identification: 9-Tension alimentation incorrecte
+entry: 50 Clear Alerte numéro d'identification: 9-Tension alimentation incorrecte
+entry: 49 Set Alerte numéro d'identification: 10-Comparateur d’angle déclenché
+entry: 48 Clear Alerte numéro d'identification: 10-Comparateur d’angle déclenché
+entry: 47 Set Alerte numéro d'identification: 9-Tension alimentation incorrecte
+entry: 46 Clear Alerte numéro d'identification: 9-Tension alimentation incorrecte
+entry: 45 Set Alerte numéro d'identification: 10-Comparateur d’angle déclenché
+entry: 44 Clear Alerte numéro d'identification: 10-Comparateur d’angle déclenché
+entry: 43 Set Alerte numéro d'identification: 9-Tension alimentation incorrecte
+entry: 42 Clear Alerte numéro d'identification: 9-Tension alimentation incorrecte
+entry: 41 Clear Alerte numéro d'identification: 27-Micro contrôle de sécurité intervenue
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 19785 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 90
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:382] [1:1303] [2:2568] [3:3333] 
+*********************************************************************** 
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 

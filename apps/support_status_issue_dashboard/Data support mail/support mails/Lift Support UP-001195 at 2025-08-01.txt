@@ -1,0 +1,191 @@
+Subject: Lift Support UP-001195 at 2025-08-01
+From: 康士友0800880367
+To: Support DeVi-Stairlifts
+CC: frank880367@gmail.com
+Date: 2025-08-01 06:51:01
+
+***********************************************************************
+UP-001195
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.0.8 CRC: 0x5EDE
+Software Chair: V 0.0.0.0 CRC: 0x0
+Software Safety: V 3.33 CRC: 0x0
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 16
+Warning Identification nr: 4-Not Charging
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+***********************************************************************
+Mechanic: Frank
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 28165
+Total: 2104626cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10857
+Channels: 10857
+Angle: 113
+Raw: 0
+Cal: 32764
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 2
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:30
+P0| (1) Start (0-75) Value: 75
+P1| (10) Straight (0-240) Value: 240
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (3-235) Value: 1003
+P4| (46) Downward (0-9) Value: 9
+P5| (10) Straight (3-179) Value: 947
+P6| (26) Upward (0-9) Value: 9
+P7| (10) Straight (13-243) Value: 3571
+P8| (46) Downward (0-9) Value: 9
+P9| (10) Straight (4-34) Value: 1058
+P10| (26) Upward (0-9) Value: 9
+P11| (10) Straight (1-205) Value: 461
+P12| (46) Downward (0-9) Value: 9
+P13| (10) Straight (0-34) Value: 34
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-37) Value: 37
+P16| (26) Upward (0-9) Value: 9
+P17| (10) Straight (10-131) Value: 2691
+P18| (46) Downward (0-9) Value: 9
+P19| (10) Straight (0-19) Value: 19
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (0-190) Value: 190
+P22| (75) Horizontal (0-18) Value: 18
+P23| (10) Straight (0-25) Value: 25
+P24| (26) Upward (0-9) Value: 9
+P25| (10) Straight (3-222) Value: 990
+P26| (46) Downward (0-9) Value: 9
+P27| (10) Straight (3-48) Value: 816
+P28| (75) Horizontal (0-18) Value: 18
+P29| (10) Straight (0-175) Value: 175
+P30| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 38 Set Error Identification nr: 27-Communication Wrong Message Number
+entry: 37 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 35 Set Error Identification nr: 27-Communication Wrong Message Number
+entry: 34 Set Warning Identification nr: 12-Communication Timed Out
+entry: 33 Clear Error Identification nr: 27-Communication Wrong Message Number
+entry: 32 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 31 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 30 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 29 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 28 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 27 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 26 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 25 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 24 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 23 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 22 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 21 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 20 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 19 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 18 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 17 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 16 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 15 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 14 Set Warning Identification nr: 9-Wrong Logic Voltage
+***********************************************************************
+NR: 0 Enc: 425 Swivel Right No Addon
+NR: 1 Enc: 24152 No Swivel No Addon
+NR: 2 Enc: 7739 No Swivel No Addon
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 48033 No Swivel No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 80
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 1015
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:294] [1:1181] [2:2414] [3:3231]
+*********************************************************************** 
+
+取得 Android 版 Outlook <https://aka.ms/AAb9ysg> 

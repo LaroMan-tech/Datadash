@@ -1,0 +1,184 @@
+Subject: Lift Support UP-000674 at 2026-02-05
+From: Service HSR
+To: Support DeVi-Stairlifts
+CC: Service HSR
+Date: 2026-02-05 19:47:19
+
+***********************************************************************
+UP-000674
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.2.9 CRC: 0xC12D
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 32 0 0 0
+Warning Identification nr: 29-EEprom CRC Incorrect
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: justin
+Extra notes from the mechanic:
+3rd eeprom error
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 442
+Total: 2549113cm
+Channels: true | false
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 12761
+Channels: 12761
+Angle: 0
+Raw: 33485
+Cal: 33616
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 49
+TimeAlive Hours: 4
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (1-168) Value: 424
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (4-217) Value: 1241
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (0-114) Value: 114
+P6| (67) Horizontal (0-10) Value: 10
+P7| (10) Straight (0-120) Value: 120
+P8| (25) Upward (0-8) Value: 8
+P9| (10) Straight (3-165) Value: 933
+P10| (45) Downward (0-8) Value: 8
+P11| (10) Straight (0-81) Value: 81
+P12| (67) Horizontal (0-10) Value: 10
+P13| (10) Straight (0-68) Value: 68
+P14| (25) Upward (0-8) Value: 8
+P15| (10) Straight (3-86) Value: 854
+P16| (45) Downward (0-8) Value: 8
+P17| (10) Straight (0-109) Value: 109
+P18| (65) Horizontal (0-8) Value: 8
+P19| (10) Straight (0-94) Value: 94
+P20| (22) Upward (0-5) Value: 5
+P21| (10) Straight (2-198) Value: 710
+P22| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 4 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 3 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 2 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 1 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 442 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 65
+Offset Top Station: 97
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 1015
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:336] [1:1191] [2:2399] [3:3206]
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,203 @@
+Subject: Lift Support UP-004854 at 2026-01-30
+From: Haltia
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2026-01-30 11:48:18
+
+*********************************************************************** 
+UP-004854
+*********************************************************************** 
+App version: V11.1.562
+App type: release
+App version code: 562
+Software Main: V 2.4.8.0    CRC: 0xC2AF
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.3.3.0    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-255
+*********************************************************************** 
+Mechanic: David
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 33
+Rail Checksum: 109 | 109
+Current Live: 0
+Current Peak: 5202
+Supply Battery: 237
+Supply Chair: 134Supply Logic: 56Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 22769
+Total: 353847cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 2720
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10030
+Channels: false | false
+Angle: 0
+Raw: 33290
+Cal: 33108
+Current: 0
+Current Peak: 1570
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1002
+Channels: true | false
+Compass: 100
+Current: 0
+Current Peak: 350
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 890
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: No Orientation Defined
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 39
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:98
+P0| (1) Start   (0-0)  Value: 0
+P1| (10) Straight   (0-175)  Value: 175
+P2| (75) Horizontal   (0-18)  Value: 18
+P3| (10) Straight   (0-231)  Value: 231
+P4| (23) Upward   (0-6)  Value: 6
+P5| (10) Straight   (9-219)  Value: 2523
+P6| (23) Upward   (0-6)  Value: 6
+P7| (10) Straight   (0-146)  Value: 146
+P8| (49) Downward   (0-12)  Value: 12
+P9| (10) Straight   (0-25)  Value: 25
+P10| (75) Horizontal   (0-18)  Value: 18
+P11| (10) Straight   (0-133)  Value: 133
+P12| (75) Horizontal   (0-18)  Value: 18
+P13| (10) Straight   (0-25)  Value: 25
+P14| (23) Upward   (0-6)  Value: 6
+P15| (10) Straight   (8-225)  Value: 2273
+P16| (43) Downward   (0-6)  Value: 6
+P17| (10) Straight   (0-136)  Value: 136
+P18| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 101 Set Warning Identification nr: 12-Communication Timed Out
+entry: 100 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 99 Set Warning Identification nr: 26-Rail Checksum Incorrect
+entry: 98 Clear Warning Identification nr: 26-Rail Checksum Incorrect
+entry: 97 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 96 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 95 Set Warning Identification nr: 12-Communication Timed Out
+entry: 94 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 93 Set Warning Identification nr: 4-Not Charging
+entry: 92 Clear Warning Identification nr: 4-Not Charging
+entry: 91 Set Warning Identification nr: 4-Not Charging
+entry: 90 Clear Warning Identification nr: 4-Not Charging
+entry: 89 Set Warning Identification nr: 4-Not Charging
+entry: 88 Clear Warning Identification nr: 4-Not Charging
+entry: 87 Set Warning Identification nr: 4-Not Charging
+entry: 86 Clear Warning Identification nr: 4-Not Charging
+entry: 85 Set Warning Identification nr: 4-Not Charging
+entry: 84 Clear Warning Identification nr: 4-Not Charging
+entry: 83 Set Warning Identification nr: 4-Not Charging
+entry: 82 Clear Warning Identification nr: 4-Not Charging
+entry: 81 Set Warning Identification nr: 4-Not Charging
+entry: 80 Clear Warning Identification nr: 4-Not Charging
+entry: 79 Set Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 1 Clear Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 22779 Swivel Right  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:500] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:767] [2:2048] [3:2783] 
+*********************************************************************** 
+Latitude: 49.8035275
+Longitude: 19.089602
+*********************************************************************** 
+Date & Time (tablet): 2026-01-30 11:48:03
+*********************************************************************** 
+App session length: 99m 2s
+*********************************************************************** 
+Location session length: 97m 28s
+*********************************************************************** 
+ 
+
+Pozdrawiam / Best regards
+
+Dawid Baranowski
+
+Dział wsparcia sprzedaży / Sales support department
+
+
+
+
+HALTIA REHABILITACJA & ORTOPEDIA
+ul. Paprotna 8, 51-117 Wrocław
++48 505997557, +48 71 352 84 15
+strona | web: https://sklep.haltia.pl/ <https://sklep.haltia.pl/> 
+
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4wITtiv0VFve3l8Gr0mFLhpGzbJGcTov31g9ze_wqEB50ko_yLqWW3CXTG3oLHhQ1N1152TgQ4gPSBl> 
+

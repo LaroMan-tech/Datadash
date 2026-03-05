@@ -1,0 +1,189 @@
+Subject: Lift Support UP-006942 at 2025-11-20
+From: philippe senges
+To: Support DeVi-Stairlifts
+CC: Société APIS
+Date: 2025-11-20 15:55:04
+
+*********************************************************************** 
+UP-006942
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.3    CRC: 0x5454
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 16
+Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: philippe senges
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 33
+Rail Checksum: 195 | 195
+Current Live: 0
+Current Peak: 34272
+Supply Battery: 253
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 618
+Total: 154810cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 17210
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 12862
+Channels: 12862
+Angle: 3
+Raw: 33707
+Cal: 32615
+Current: 0
+Current Peak: 9530
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 2090
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 70
+Current Peak: 2110
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 58
+TimeAlive Hours: 7
+TimeAlive days: 71
+*********************************************************************** 
+Skip:false
+Length:80
+P0| (1) Start   (0-70)  Value: 70
+P1| (10) Straight   (0-149)  Value: 149
+P2| (43) Downward   (0-6)  Value: 6
+P3| (10) Straight   (3-205)  Value: 973
+P4| (23) Upward   (0-6)  Value: 6
+P5| (10) Straight   (3-205)  Value: 973
+P6| (51) Downward   (0-14)  Value: 14
+P7| (10) Straight   (0-48)  Value: 48
+P8| (75) Horizontal   (0-18)  Value: 18
+P9| (10) Straight   (0-238)  Value: 238
+P10| (75) Horizontal   (0-18)  Value: 18
+P11| (10) Straight   (0-25)  Value: 25
+P12| (25) Upward   (0-8)  Value: 8
+P13| (10) Straight   (4-210)  Value: 1234
+P14| (45) Downward   (0-8)  Value: 8
+P15| (10) Straight   (1-30)  Value: 286
+P16| (75) Horizontal   (0-18)  Value: 18
+P17| (10) Straight   (1-194)  Value: 450
+P18| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 89 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 88 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 87 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 86 Clear Warning Identification nr: 4-Not Charging
+entry: 85 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 84 Set Warning Identification nr: 4-Not Charging
+entry: 83 Clear Warning Identification nr: 4-Not Charging
+entry: 82 Set Warning Identification nr: 4-Not Charging
+entry: 81 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 80 Clear Warning Identification nr: 4-Not Charging
+entry: 79 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 78 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 77 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 76 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 75 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 74 Set Warning Identification nr: 20-Safety Guidance Down Pressed
+entry: 73 Clear Warning Identification nr: 20-Safety Guidance Down Pressed
+entry: 72 Set Warning Identification nr: 4-Not Charging
+entry: 71 Clear Warning Identification nr: 4-Not Charging
+entry: 70 Set Warning Identification nr: 4-Not Charging
+entry: 69 Clear Warning Identification nr: 4-Not Charging
+entry: 68 Set Warning Identification nr: 4-Not Charging
+entry: 67 Clear Warning Identification nr: 4-Not Charging
+entry: 66 Set Warning Identification nr: 4-Not Charging
+entry: 65 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 18793 No Swivel  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:46] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:542] [2:1852] [3:2943] 
+*********************************************************************** 
+Latitude: 0.0
+Longitude: 0.0
+*********************************************************************** 
+Date & Time (tablet): 2025-11-20 15:54:17
+*********************************************************************** 
+App session length: 52m 1s
+*********************************************************************** 
+Location session length: 0m 0s
+*********************************************************************** 
+ 

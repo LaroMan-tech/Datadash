@@ -1,0 +1,171 @@
+Subject: Lift Support UP-004533 at 2025-05-01
+From: Jason Harris
+To: Support DeVi-Stairlifts
+CC: up@harmar.com
+Date: 2025-05-01 20:15:19
+
+***********************************************************************
+UP-004533
+***********************************************************************
+App version: V11.0.396
+App type: release
+App version code: 396
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: jason harris
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 19916
+Total: 722141cm
+Channels: false | true
+FrictionWheel: true
+Current: 70
+Current Peak: 14690
+Current Brake: 126
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 11149
+Channels: 11149
+Angle: 4
+Raw: 32095
+Cal: 33450
+Current: 70
+Current Peak: 8410
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 8
+TimeAlive Hours: 3
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-45) Value: 45
+P1| (10) Straight (12-173) Value: 3245
+P2| (46) Downward (0-9) Value: 9
+P3| (10) Straight (4-81) Value: 1105
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (1-101) Value: 357
+P6| (25) Upward (0-8) Value: 8
+P7| (10) Straight (1-127) Value: 383
+P8| (45) Downward (0-8) Value: 8
+P9| (10) Straight (1-195) Value: 451
+P10| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 51 Set Warning Identification nr: 4-Not Charging
+entry: 50 Clear Warning Identification nr: 4-Not Charging
+entry: 49 Set Warning Identification nr: 4-Not Charging
+entry: 48 Clear Warning Identification nr: 4-Not Charging
+entry: 47 Set Warning Identification nr: 4-Not Charging
+entry: 46 Clear Warning Identification nr: 4-Not Charging
+entry: 45 Set Warning Identification nr: 4-Not Charging
+entry: 44 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 43 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 42 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 41 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 40 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 39 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 38 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 37 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 36 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 35 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 34 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 33 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 32 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 31 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 30 Clear Warning Identification nr: 4-Not Charging
+entry: 29 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 28 Set Warning Identification nr: 4-Not Charging
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Right No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 187
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone =
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:181] [1:1090] [2:2339] [3:3200]
+*********************************************************************** 
+
+Sent from Samsung Galaxy smartphone.
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

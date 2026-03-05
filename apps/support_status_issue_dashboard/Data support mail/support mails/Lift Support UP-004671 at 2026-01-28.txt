@@ -1,0 +1,205 @@
+Subject: Lift Support UP-004671 at 2026-01-28
+From: Gregor Jaul
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2026-01-28 14:43:36
+
+***********************************************************************
+UP-004671
+***********************************************************************
+App version: V11.1.562
+App type: release
+App version code: 562
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.3.3.0 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+***********************************************************************
+|E| 0 |W| 128
+Warning Identification nr: 7-Chair Error Too High
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 12-2
+***********************************************************************
+Mechanic: Jaul Gregor
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 34
+Rail Checksum: 162 | 162
+Current Live: 126
+Current Peak: 11034
+Supply Battery: 256
+Supply Chair: 136Supply Logic: 57Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 425
+Total: 355877cm
+Channels: false | true
+FrictionWheel: true
+Current: 70
+Current Peak: 70
+Current Brake: 126
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: false | true
+Angle: 0
+Raw: 32921
+Cal: 33041
+Current: 70
+Current Peak: 8790
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: true | false
+Compass: 100
+Current: 70
+Current Peak: 70
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 70
+Current Peak: 2950
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: No Orientation Defined
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 6
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:98
+P0| (1) Start (0-65) Value: 65
+P1| (10) Straight (1-43) Value: 299
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (2-68) Value: 580
+P4| (23) Upward (0-6) Value: 6
+P5| (10) Straight (3-220) Value: 988
+P6| (50) Downward (0-13) Value: 13
+P7| (10) Straight (0-40) Value: 40
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-23) Value: 23
+P10| (26) Upward (0-9) Value: 9
+P11| (10) Straight (0-126) Value: 126
+P12| (23) Upward (0-6) Value: 6
+P13| (10) Straight (0-93) Value: 93
+P14| (52) Downward (0-15) Value: 15
+P15| (10) Straight (0-35) Value: 35
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (0-30) Value: 30
+P18| (26) Upward (0-9) Value: 9
+P19| (10) Straight (3-99) Value: 867
+P20| (46) Downward (0-9) Value: 9
+P21| (10) Straight (1-198) Value: 454
+P22| (75) Horizontal (0-18) Value: 18
+P23| (10) Straight (2-138) Value: 650
+P24| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 25 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 24 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 23 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 22 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 21 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 20 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 19 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 18 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 17 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 16 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 15 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 14 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 13 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 12 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 11 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 10 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 9 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 8 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 7 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 6 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 5 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 4 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 3 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 2 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 1 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 19537 No Swivel No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:31] [1:909] [2:2119] [3:3007]
+***********************************************************************
+Latitude: 48.4197082
+Longitude: 15.6102671
+***********************************************************************
+Date & Time (tablet): 2026-01-28 14:43:30
+***********************************************************************
+App session length: 31m 28s
+***********************************************************************
+Location session length: 24m 33s
+***********************************************************************
+
+
+_______________________________
+Gregor Jaul
+Technik
+
+Tel.:     +43 2743 93081
+Mobil: +43 676 6051519
+Mail:    g.jaul@inno-lift.eu
+Web:    www.inno-lift.eu • www.innolift-treppenlifte.at
+
+Innolift e.U. • Mauterheim 24 • 3140 Böheimkirchen
+HG: St. Pölten • FN: 589906i • UID: ATU78576667 

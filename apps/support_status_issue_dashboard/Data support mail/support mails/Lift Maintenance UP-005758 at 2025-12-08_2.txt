@@ -1,0 +1,188 @@
+Subject: Lift Maintenance UP-005758 at 2025-12-08
+From: Marco
+To: Support DeVi-Stairlifts
+CC: marco.langenfeldt@omueller.de
+Date: 2025-12-08 10:22:59
+
+*********************************************************************** 
+UP-005758
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.8.3    CRC: 0xFD4
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Marco Langenfeldt
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 37
+Rail Checksum: 158 | 158
+Current Live: 0
+Current Peak: 16848
+Supply Battery: 262
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 470
+Total: 169279cm
+Channels: true | true
+FrictionWheel: false
+Current: 0
+Current Peak: 7640
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 1
+Raw: 32425
+Cal: 32734
+Current: 260
+Current Peak: 5200
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1001
+Channels: 1001
+Compass: 100
+Current: 0
+Current Peak: 3130
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 30
+Current Peak: 1720
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 36
+TimeAlive Hours: 13
+TimeAlive days: 40
+*********************************************************************** 
+Skip:false
+Length:80
+P0| (1) Start   (0-0)  Value: 0
+P1| (10) Straight   (0-225)  Value: 225
+P2| (23) Upward   (0-6)  Value: 6
+P3| (10) Straight   (9-78)  Value: 2382
+P4| (43) Downward   (0-6)  Value: 6
+P5| (10) Straight   (2-155)  Value: 667
+P6| (66) Horizontal   (0-9)  Value: 9
+P7| (10) Straight   (0-150)  Value: 150
+P8| (66) Horizontal   (0-9)  Value: 9
+P9| (10) Straight   (4-55)  Value: 1079
+P10| (66) Horizontal   (0-9)  Value: 9
+P11| (10) Straight   (0-150)  Value: 150
+P12| (66) Horizontal   (0-9)  Value: 9
+P13| (10) Straight   (0-29)  Value: 29
+P14| (23) Upward   (0-6)  Value: 6
+P15| (10) Straight   (10-170)  Value: 2730
+P16| (43) Downward   (0-6)  Value: 6
+P17| (10) Straight   (1-107)  Value: 363
+P18| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 80 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 79 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 78 Set Warning Identification nr: 4-Not Charging
+entry: 77 Clear Warning Identification nr: 4-Not Charging
+entry: 76 Set Warning Identification nr: 4-Not Charging
+entry: 75 Clear Warning Identification nr: 4-Not Charging
+entry: 74 Set Warning Identification nr: 4-Not Charging
+entry: 73 Clear Warning Identification nr: 4-Not Charging
+entry: 72 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 71 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 70 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 69 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 68 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 67 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 66 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 65 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 64 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 63 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 62 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 61 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 60 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 59 Set Warning Identification nr: 12-Communication Timed Out
+entry: 58 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 57 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 56 Clear Warning Identification nr: 10-Angle Comparator Triggered
+*********************************************************************** 
+NR: 0 Enc: 459 No Swivel  Charge Station 
+NR: 1 Enc: 17085 No Swivel  Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 28044 Swivel Left  Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 70
+Offset Top Station: 209
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:63] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:167] [1:1088] [2:2381] [3:3214] 
+*********************************************************************** 
+Latitude: 49.5412496
+Longitude: 11.3460056
+*********************************************************************** 
+Date & Time (tablet): 2025-12-08 10:22:17
+*********************************************************************** 
+App session length: 10m 52s
+*********************************************************************** 
+Location session length: 7m 0s
+*********************************************************************** 
+ 

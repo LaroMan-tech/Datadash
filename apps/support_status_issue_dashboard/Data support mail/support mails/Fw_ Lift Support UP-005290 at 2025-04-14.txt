@@ -1,0 +1,195 @@
+Subject: Fw: Lift Support UP-005290 at 2025-04-14
+From: support@stairliftworldasia.com
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-05-13 13:31:33
+
+
+
+Verzonden vanaf Outlook voor Android <https://aka.ms/AAb9ysg> 
+
+________________________________
+
+Van: EURO ASIA ACCESS SOLUTIONS SDN BHD <technical.eaas@gmail.com>
+Verstuurd: maandag, april 14, 2025 7:26:30 a.m.
+Aan: support@stairliftworldasia.com <support@stairliftworldasia.com>
+CC: Zahir@stairliftworld.my <Zahir@stairliftworld.my>; smith1108@ymail.com <smith1108@ymail.com>; shah.shafxq@gmail.com <Shah.shafxq@gmail.com>
+Onderwerp: Lift Support UP-005290 at 2025-04-14
+
+
+*********************************************************************** 
+
+UP-005290
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 8 0 0 0
+Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+Safety Feed: 11-1
+Safety Last Seen: 10-1
+***********************************************************************
+Mechanic: segar/Zahir/Shafiq
+Extra notes from the mechanic:
+Hi Mark...Before this we already replaced new pcb board and the problem still happen...today i want to try replace new wift card for testing...
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 479
+Total: 255950cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 5020
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 11894
+Channels: 11894
+Angle: 1
+Raw: 32906
+Cal: 32530
+Current: 40
+Current Peak: 3950
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 8
+TimeAlive Hours: 0
+TimeAlive days: 5
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (5-75) Value: 1355
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (2-3) Value: 515
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-100) Value: 100
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-25) Value: 25
+P8| (23) Upward (0-6) Value: 6
+P9| (10) Straight (7-163) Value: 1955
+P10| (43) Downward (0-6) Value: 6
+P11| (10) Straight (3-12) Value: 780
+P12| (66) Horizontal (0-9) Value: 9
+P13| (10) Straight (0-100) Value: 100
+P14| (66) Horizontal (0-9) Value: 9
+P15| (10) Straight (0-25) Value: 25
+P16| (23) Upward (0-6) Value: 6
+P17| (10) Straight (7-223) Value: 2015
+P18| (43) Downward (0-6) Value: 6
+P19| (10) Straight (0-230) Value: 230
+P20| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 95 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 94 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 93 Clear Error Identification nr: 31-Footrest Supply Failure
+entry: 92 Clear Error Identification nr: 31-Footrest Supply Failure
+entry: 91 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 90 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 89 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 88 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 87 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 86 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 85 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 84 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 83 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 82 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 81 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 80 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 79 Clear Error Identification nr: 31-Footrest Supply Failure
+entry: 78 Clear Error Identification nr: 31-Footrest Supply Failure
+entry: 77 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 76 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 75 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 74 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 73 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 72 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 71 Clear Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Mr Stephen
+Address = USJ 4
+Postal = 47600
+City = Subang Jaya
+Country = Malaysia
+Phone = 106
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:92]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:467] [2:1727] [3:2815]
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

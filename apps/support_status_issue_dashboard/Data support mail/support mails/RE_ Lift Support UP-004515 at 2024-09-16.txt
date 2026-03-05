@@ -1,0 +1,323 @@
+Subject: RE: Lift Support UP-004515 at 2024-09-16
+From: Support DeVi-Stairlifts
+To: brandon.dudley
+CC: UP Stairlift; Support DeVi-Stairlifts
+Date: 2024-09-17 09:14:42
+
+Hi Brandon,
+
+ 
+
+We see in the menu the se erros.
+
+ 
+
+entry: 9 Set Warning Identification nr: 30-Chair Not Closed
+entry: 8 Clear Warning Identification nr: 30-Chair Not Closed
+
+ 
+
+this together with the notification that the customer needed to shake the seat for the lift move on.
+
+ 
+
+This could mean that the seat pcb has an issue reading the magnet due to a lot of play on the seat chassis or a bad component.
+
+ 
+
+Let him take a spare wifi/seat pcb with him just in case.
+
+ 
+
+Met vriendelijke groet/ With kind regards/Mit freundlichen Grüßen/ Bien cordialement,
+
+ 
+
+Technical Support team
+
+ 
+
+
+
+DeVi-Group B.V.
+De Veken 250
+
+1716 KJ Opmeer
+The Netherlands
+T + 31 (0)226 45 40 29 (general)
+T + 31 (0)226 45 35 76 (support)
+T + 31 (0)6 16 55 15 64 (support mobile)
+
+support@devi-stairlifts.com <mailto:sku@devi-stairlifts.com> 
+www.upstairlift.com <http://www.upstairlift.com/> 
+
+ 
+
+
+
+P Please consider your environmental responsibility
+
+This e-mail may contain privileged or confidential information and is intended only for use by the addressee.
+If you are not the addressee, we request you not to use the contents or to disclose it in any manner to third parties,
+and to inform us immediately by reply email and delete the email from your system.
+DeVi-Group denies any responsibility for damages resulting from the use of e-mail.
+
+Van: Brandon Dudley <brandon.dudley@harmar.com> 
+Verzonden: maandag 16 september 2024 20:07
+Aan: Support DeVi-Stairlifts <support@devi-stairlifts.com>; UP Stairlift <UP@harmar.com>
+Onderwerp: RE: Lift Support UP-004515 at 2024-09-16
+
+ 
+
+Hello Support,
+
+ 
+
+Do you see anything out of the ordinary with any thing on this report? Customer states the lift stops during travel and they have to “shake” the chair to get it working again, and even supposedly the unit has swiveled at the mid landing charge a couple times.
+
+ 
+
+The errors in the data log are all from the tech that was onsite, as the lift was shut off before he got there. So disregard all the arm rest not in position, and safety footrest pressed which tech told me he pushed on, tech adjusted the rail data as well and couldn’t tell me when exactly the Traction supply failure happened either..
+
+ 
+
+The user was not home so my suggestion was to have the user ride the unit to see exactly how he is operating it and what he is doing, he weighs 180 lbs.
+
+ 
+
+The tech is going back on site Wednesday and going to send another report before the lift is shut off and do some testing with he user to see how it is being operated.
+
+ 
+
+Just wanted to send this over to see if anything else in this report could result in a intermittent stopping issue.
+
+ 
+
+Thank you 
+
+ 
+
+Brandon Dudley​​​​
+
+	
+Curved Stairlift Specialist
+
+Harmar
+
+T: 
+
+941-308-7477 <tel:941-308-7477> 
+
+ 
+
+From: Richard Lacy <Richard.Lacy@mobilityworks.com <mailto:Richard.Lacy@mobilityworks.com> > 
+Sent: Monday, September 16, 2024 11:57 AM
+To: support@devi-stairlifts.com <mailto:support@devi-stairlifts.com> ; UP Stairlift <UP@harmar.com <mailto:UP@harmar.com> >
+Subject: Lift Support UP-004515 at 2024-09-16
+
+ 
+
+	Some people who received this message don't often get email from richard.lacy@mobilityworks.com <mailto:richard.lacy@mobilityworks.com> . Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  
+
+	
+
+*** EXTERNAL MESSAGE - Please be cautious when opening links or attachments in this email *** 
+ 
+
+*********************************************************************** 
+
+UP-004515
+*********************************************************************** 
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-1
+*********************************************************************** 
+Mechanic: Richard Lacy
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 33
+Rail Checksum: 45 | 45
+Current Live: 486
+Current Peak: 504
+Supply Battery: 249
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 436
+Total: 381885cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11894
+Channels: 11894
+Angle: 2
+Raw: 33465
+Cal: 32830
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 998
+Channels: 998
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 48
+TimeAlive Hours: 13
+TimeAlive days: 2
+*********************************************************************** 
+Skip:false
+Length:12
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (4-238) Value: 1262
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (2-18) Value: 530
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (1-29) Value: 285
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-134) Value: 134
+P8| (26) Upward (0-9) Value: 9
+P9| (10) Straight (9-147) Value: 2451
+P10| (46) Downward (0-9) Value: 9
+P11| (10) Straight (2-53) Value: 565
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 26 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 25 Set Warning Identification nr: 19-Safety Guidance Up Pressed
+entry: 24 Clear Warning Identification nr: 19-Safety Guidance Up Pressed
+entry: 23 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 22 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 21 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 20 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 19 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 18 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 17 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 16 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 15 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 14 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 13 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 12 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 11 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 10 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 9 Set Warning Identification nr: 30-Chair Not Closed
+entry: 8 Clear Warning Identification nr: 30-Chair Not Closed
+entry: 7 Set Warning Identification nr: 4-Not Charging
+entry: 6 Clear Warning Identification nr: 4-Not Charging
+entry: 5 Set Warning Identification nr: 4-Not Charging
+entry: 4 Clear Warning Identification nr: 4-Not Charging
+entry: 3 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 2 Clear Warning Identification nr: 13-ArmRests Not In Position
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left No Addon 
+NR: 1 Enc: 7637 No Swivel Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 20129 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Address = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Postal = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+City = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Country = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Phone = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:672] [2:2048] [3:2943] 
+*********************************************************************** 
+
+ 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 
+
+Richard​​​​
+
+ 
+
+Lacy
+
+Home Access Technician
+
+
+
+7450 Midlothian Turnpike
+
+North Chesterfield
+
+, 
+
+VA
+
+ 
+
+23225
+
+OFFICE: 
+
+804.233.8267
+
+mobilityworks.com <http://www.mobilityworks.com/> 
+
+
+
+ 

@@ -1,0 +1,188 @@
+Subject: Lift Support UP-004653 at 2025-09-08
+From: info@inno-lift.eu
+To: Support DeVi-Stairlifts
+CC: info@inno-lift.eu
+Date: 2025-09-08 12:26:20
+
+***********************************************************************
+UP-004653
+***********************************************************************
+App version: V11.0.469
+App type: release
+App version code: 469
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 0.0.0.0 CRC: 0x0
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 134221824
+Warning Identification nr: 12-Communication Timed Out
+Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+Safety Feed: 12-1
+Safety Last Seen: 12-1
+***********************************************************************
+Mechanic: Patric Wileczil
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 23
+Rail Checksum: 4 | 4
+Current Live: 144
+Current Peak: 198
+Supply Battery: 251
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 20781
+Total: 27586cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10025
+Channels: 10025
+Angle: 0
+Raw: 0
+Cal: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1001
+Channels: 1001
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 240
+Current Peak: 240
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 4
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:70
+P0| (1) Start (0-35) Value: 35
+P1| (10) Straight (5-107) Value: 1387
+P2| (44) Downward (0-7) Value: 7
+P3| (10) Straight (0-86) Value: 86
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-83) Value: 83
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-25) Value: 25
+P8| (23) Upward (0-6) Value: 6
+P9| (10) Straight (15-151) Value: 3991
+P10| (43) Downward (0-6) Value: 6
+P11| (10) Straight (0-179) Value: 179
+P12| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 30 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 29 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 28 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 27 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 26 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 25 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 24 Set Warning Identification nr: 4-Not Charging
+entry: 23 Clear Warning Identification nr: 4-Not Charging
+entry: 22 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 21 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 20 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 19 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 18 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 17 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 16 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 15 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 14 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 13 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 12 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 11 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 10 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 9 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 8 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 7 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 6 Clear Warning Identification nr: 10-Angle Comparator Triggered
+***********************************************************************
+NR: 0 Enc: 425 No Swivel No Addon
+NR: 1 Enc: 3733 No Swivel Hingedrail
+NR: 2 Enc: 5889 No Swivel Charge Station
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 20781 Swivel Right No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Name
+Address = Address
+Postal = Postal
+City = City
+Country = Country
+Phone = 06-12345678
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:835] [2:2079] [3:3072]
+***********************************************************************
+
+_______________________________
+Patric Wileczil
+Inhaber Innolift Treppenlifte
+Gerichtssachverständiger
+
+
+Tel.:       +43 2743 93081
+Mail:     info@inno-lift.eu <mailto:info@inno-lift.eu>  
+Web:    www.inno-lift.eu <http://www.inno-lift.eu/>  • www.innolift-treppenlifte.at <http://www.innolift-treppenlifte.at/>  
+
+
+
+
+Innolift e.U. • Mauterheim 24 • 3140 Böheimkirchen
+HG: St. Pölten • FN: 589906i • UID: ATU78576667

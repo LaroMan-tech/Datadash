@@ -1,0 +1,162 @@
+Subject: Lift Support UP-004907 at 2025-06-20
+From: Steffen Gnadt
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-06-20 08:50:18
+
+***********************************************************************
+UP-004907
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Steffen Gnadt
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 438
+Total: 55725cm
+Channels: false | true
+FrictionWheel: false
+Current: 0
+Current Peak: 9680
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32493
+Cal: 32504
+Current: 0
+Current Peak: 1160
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 48
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: No Type Defined
+Skip:false
+Length:2
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (15-115) Value: 3955
+P2| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 37 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 30 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 29 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 28 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 27 Set Warning Identification nr: 4-Not Charging
+entry: 26 Clear Warning Identification nr: 4-Not Charging
+entry: 25 Set Warning Identification nr: 4-Not Charging
+entry: 24 Clear Warning Identification nr: 4-Not Charging
+entry: 23 Set Warning Identification nr: 30-Chair Not Closed
+entry: 22 Clear Warning Identification nr: 30-Chair Not Closed
+entry: 21 Set Warning Identification nr: 4-Not Charging
+entry: 20 Clear Warning Identification nr: 4-Not Charging
+entry: 19 Set Warning Identification nr: 4-Not Charging
+entry: 18 Clear Warning Identification nr: 4-Not Charging
+entry: 17 Set Warning Identification nr: 4-Not Charging
+entry: 16 Clear Warning Identification nr: 4-Not Charging
+entry: 15 Set Warning Identification nr: 30-Chair Not Closed
+entry: 14 Clear Warning Identification nr: 30-Chair Not Closed
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 140
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Herr Eggert Meyer
+Address = Lurup 26
+Postal = 21614
+City = Buxtehude
+Country = Deutschland
+Phone = 00000
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:31]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:463] [2:1778] [3:2885]
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

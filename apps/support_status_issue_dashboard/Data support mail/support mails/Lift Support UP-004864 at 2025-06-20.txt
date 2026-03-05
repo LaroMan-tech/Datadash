@@ -1,0 +1,183 @@
+Subject: Lift Support UP-004864 at 2025-06-20
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: jb@liftteam.de
+Date: 2025-06-20 08:19:03
+
+***********************************************************************
+UP-004864
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.4 CRC: 0x4F7B
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 64 |W| 0 0 0 0
+Error Identification nr: 6-Traction Encoder Failure
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Jan Brandenburg
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 6080
+Total: 73404cm
+Channels: false | false
+FrictionWheel: true
+Current: 80
+Current Peak: 110
+Current Brake: 140
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32602
+Cal: 32840
+Current: 80
+Current Peak: 110
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 38
+TimeAlive Hours: 13
+TimeAlive days: 0
+***********************************************************************
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-65) Value: 65
+P1| (10) Straight (0-226) Value: 226
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (4-83) Value: 1107
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (0-69) Value: 69
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-130) Value: 130
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-36) Value: 36
+P10| (25) Upward (0-8) Value: 8
+P11| (10) Straight (9-110) Value: 2414
+P12| (45) Downward (0-8) Value: 8
+P13| (10) Straight (1-55) Value: 311
+P14| (66) Horizontal (0-9) Value: 9
+P15| (10) Straight (0-130) Value: 130
+P16| (66) Horizontal (0-9) Value: 9
+P17| (10) Straight (0-40) Value: 40
+P18| (23) Upward (0-6) Value: 6
+P19| (10) Straight (1-70) Value: 326
+P20| (43) Downward (0-6) Value: 6
+P21| (10) Straight (1-42) Value: 298
+P22| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 40 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 39 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 38 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 30 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 29 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 28 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 27 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 26 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 25 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 24 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 23 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 22 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 21 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 20 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 19 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 18 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 17 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 No Swivel Charge Station
+NR: 1 Enc: 17331 No Swivel Charge Station
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Heitmann
+Address = Forstmeisterweg 41
+Postal = 23568
+City = Lübeck
+Country = Deutschland
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:6] [1:69]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:159] [1:1056] [2:2335] [3:3200]
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

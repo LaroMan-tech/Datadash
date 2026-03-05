@@ -1,0 +1,204 @@
+Subject: FW: Lift Registering UP-005760 at 2024-11-25
+From: Support DeVi-Stairlifts
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-12-08 15:08:55
+
+________________________________
+
+From: Niko Hojnik <niko.hojnik@student.um.si <mailto:niko.hojnik@student.um.si> >
+Sent: Monday, November 25, 2024 6:18:09 PM
+To: max.kropfl@gmail.com <mailto:max.kropfl@gmail.com>  <max.kropfl@gmail.com <mailto:max.kropfl@gmail.com> >
+Subject: Lift Registering UP-005760 at 2024-11-25 
+
+ 
+
+*********************************************************************** 
+
+UP-005760
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 212
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Max
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 40
+Rail Checksum: 167 | 167
+Current Live: 54
+Current Peak: 22788
+Supply Battery: 249
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:true R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 437
+Total: 121516cm
+Channels: true | true
+FrictionWheel: true
+Current: 30
+Current Peak: 11870
+Current Brake: 42
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 9999
+Channels: 9999
+Angle: 2
+Raw: 32695
+Cal: 33275
+Current: 30
+Current Peak: 6560
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 30
+Current Peak: 3260
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 50
+Current Peak: 1440
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 12
+TimeAlive Hours: 0
+TimeAlive days: 12
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:24
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-44) Value: 300
+P2| (28) Upward (0-11) Value: 11
+P3| (10) Straight (0-185) Value: 185
+P4| (48) Downward (0-11) Value: 11
+P5| (10) Straight (0-25) Value: 25
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-170) Value: 170
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-30) Value: 30
+P10| (24) Upward (0-7) Value: 7
+P11| (10) Straight (7-252) Value: 2044
+P12| (44) Downward (0-7) Value: 7
+P13| (10) Straight (0-37) Value: 37
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-180) Value: 180
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (0-38) Value: 38
+P18| (24) Upward (0-7) Value: 7
+P19| (10) Straight (8-104) Value: 2152
+P20| (44) Downward (0-7) Value: 7
+P21| (10) Straight (0-46) Value: 46
+P22| (75) Horizontal (0-18) Value: 18
+P23| (10) Straight (1-237) Value: 493
+P24| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 38 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Set Warning Identification nr: 12-Communication Timed Out
+entry: 36 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 35 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 34 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 33 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 32 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 31 Set Warning Identification nr: 21-Safety Motor Up Pressed
+entry: 30 Clear Warning Identification nr: 21-Safety Motor Up Pressed
+entry: 29 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 28 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 27 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 26 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 25 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 24 Set Warning Identification nr: 12-Communication Timed Out
+entry: 23 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 22 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 21 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 20 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 19 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 18 Set Warning Identification nr: 4-Not Charging
+entry: 17 Clear Warning Identification nr: 4-Not Charging
+entry: 16 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 15 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 25087 No Swivel Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:2] [1:69] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:207] [1:1103] [2:2386] [3:3203] 
+*********************************************************************** 
+Registration checklist results 
+Checked tasks: 
+Rail and joints installed and checked
+Mechanical Unit components greased and fixated
+Electrical Unit charger and battery
+Functional checks
+Safety Functions tested
+Documentation and logbook left at customer
+Customer Test Ride and remarks
+
+Unchecked tasks: 
+*********************************************************************** 

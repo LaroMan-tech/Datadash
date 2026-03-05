@@ -1,0 +1,182 @@
+Subject: Lift Maintenance UP-005751 at 2025-12-10
+From: Thomas Zwingelberg
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-12-10 09:48:32
+
+*********************************************************************** 
+UP-005751
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.4    CRC: 0xD705
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Thomas Zwingelberg
+Extra notes from the mechanic: 
+Softwareupdate durchgeführt 
+
+*********************************************************************** 
+System
+Temperature: 36
+Rail Checksum: 248 | 248
+Current Live: 234
+Current Peak: 2232
+Supply Battery: 249
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:true R:true
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 18275
+Total: 1254375cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32843
+Cal: 32618
+Current: 310
+Current Peak: 310
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1002
+Channels: 1002
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 290
+Current Peak: 1800
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 1
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:74
+P0| (1) Start   (0-40)  Value: 40
+P1| (10) Straight   (4-206)  Value: 1230
+P2| (45) Downward   (0-8)  Value: 8
+P3| (10) Straight   (0-25)  Value: 25
+P4| (66) Horizontal   (0-9)  Value: 9
+P5| (10) Straight   (0-130)  Value: 130
+P6| (66) Horizontal   (0-9)  Value: 9
+P7| (10) Straight   (0-34)  Value: 34
+P8| (25) Upward   (0-8)  Value: 8
+P9| (10) Straight   (11-201)  Value: 3017
+P10| (45) Downward   (0-8)  Value: 8
+P11| (10) Straight   (2-11)  Value: 523
+P12| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel  No Addon 
+NR: 1 Enc: 3871 No Swivel  Hingedrail 
+NR: 2 Enc: 5345 No Swivel  Charge Station 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 18274 Swivel Right  Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 80
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Rohlf
+Address = Bergstraße 6a
+Postal = 24321
+City = Lütjenburg
+Country = Deutschland
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:31] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:223] [1:1119] [2:2367] [3:3107] 
+*********************************************************************** 
+Latitude: 54.29520106
+Longitude: 10.59249593
+*********************************************************************** 
+Date & Time (tablet): 2025-12-10 09:48:04
+*********************************************************************** 
+App session length: 62m 12s
+*********************************************************************** 
+Location session length: 62m 12s
+*********************************************************************** 
+ 

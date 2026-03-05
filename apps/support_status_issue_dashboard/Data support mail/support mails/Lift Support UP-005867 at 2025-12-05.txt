@@ -1,0 +1,177 @@
+Subject: Lift Support UP-005867 at 2025-12-05
+From: Zahir Isma
+To: Support DeVi-Stairlifts
+CC: zahir@stairliftworld.my; segar
+Date: 2025-12-05 08:05:31
+
+***********************************************************************
+UP-005867
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.4 CRC: 0x4F7B
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x0
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 4
+Warning Identification nr: 2-Traction Encoder Out Of Bound
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Zahir
+Extra notes from the mechanic:
+Try to replace the Chair from the UP-007502 change to UP-005867...After replacing the chair,the swivel chair has problem...
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 390
+Total: 1212121cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 11893
+Channels: 11893
+Angle: 1
+Raw: 32743
+Cal: 33189
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 4
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (9-99) Value: 2403
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (2-17) Value: 529
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-100) Value: 100
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (5-49) Value: 1329
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-100) Value: 100
+P10| (66) Horizontal (0-9) Value: 9
+P11| (10) Straight (0-34) Value: 34
+P12| (25) Upward (0-8) Value: 8
+P13| (10) Straight (9-127) Value: 2431
+P14| (45) Downward (0-8) Value: 8
+P15| (10) Straight (4-226) Value: 1250
+P16| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Right Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:96]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:904] [2:2239] [3:3182]
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

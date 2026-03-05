@@ -1,0 +1,184 @@
+Subject: Lift Support UP-005040 at 2026-01-27
+From: fayaz
+To: Support DeVi-Stairlifts
+CC: nazia@247medicalequipment.com
+Date: 2026-01-27 09:33:38
+
+***********************************************************************
+UP-005040
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 215
+Software Main: V 2.4.8.2 CRC: 0xB9F4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 8 0 1 80
+Warning Identification nr: 4-Not Charging
+Warning Identification nr: 6-Low Supply Voltage
+Warning Identification nr: 8-Low Supply Voltage Since Bootup
+Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+Safety Feed: 8-1
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: fayaz ali
+Extra notes from the mechanic:
+changing charger
+
+***********************************************************************
+System
+Temperature: 27
+Rail Checksum: 14 | 14
+Current Live: 684
+Current Peak: 1026
+Supply Battery: 154
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 36088
+Total: 2821273cm
+Channels: false | false
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10093
+Channels: 10093
+Angle: 1
+Raw: 32888
+Cal: 33405
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 1002
+Channels: 1002
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 3
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:20
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (1-87) Value: 343
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (7-72) Value: 1864
+P4| (43) Downward (0-6) Value: 6
+P5| (10) Straight (3-57) Value: 825
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (1-246) Value: 502
+P8| (23) Upward (0-6) Value: 6
+P9| (10) Straight (10-111) Value: 2671
+P10| (43) Downward (0-6) Value: 6
+P11| (10) Straight (2-241) Value: 753
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (1-168) Value: 424
+P14| (23) Upward (0-6) Value: 6
+P15| (10) Straight (9-41) Value: 2345
+P16| (43) Downward (0-6) Value: 6
+P17| (10) Straight (0-61) Value: 61
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (0-248) Value: 248
+P20| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 2 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 1 Clear Warning Identification nr: 6-Low Supply Voltage
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Right Charge Station
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 37542 No Swivel Charge Station
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:304] [1:1155] [2:2349] [3:2943]
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

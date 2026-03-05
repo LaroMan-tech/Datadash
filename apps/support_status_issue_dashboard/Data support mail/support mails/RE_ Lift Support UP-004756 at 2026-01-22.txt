@@ -1,0 +1,245 @@
+Subject: RE: Lift Support UP-004756 at 2026-01-22
+From: stagiair
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2026-01-22 12:28:33
+
+
+Suppressions enabled
+
+
+*	Errors suppressed: E4, E31
+*	Safeties suppressed: S0
+
+
+
+Fault report
+
+
+Summary: Safety PIC feed: 10-1, W9, W10, W12, W27 detected; Chair PCB software version is 0.0.0.0 and time alive < 1 day (AppVersion=v11.0.534, BatteryV=24.8, OnStation=True).
+
+Root cause: The Chair/main PCB appears uninitialized or corrupted (Chair PCB software version 0.0.0.0), triggering Safety PIC intervention and related communication/logic/angle warnings.
+
+
+Recommended actions
+
+
+*	Power-cycle and reseat the Chair PCB: unplug then replug the PCB, restart the lift and app, and check the Chair PCB software version.
+*	If issue persists, isolate cabling and sensors: connect a direct UTP between main PCB and WiFi/Chair PCB, verify LED activity, and ensure the seat is level (address W10 Angle Comparator Triggered).
+*	Resolve any remaining visible errors/warnings (check Errors → SafetyPic Feed and Last Seen code); check for physical damage or brief interruptions in power/safety lines if only SafetyPIC remains active.
+*	If warnings persist after the above steps, replace the main PCB (UP000056) and the Seat/WiFi PCB; contact DeVi-Stairlifts support if needed.
+*	After any replacement or repair, restart the system, verify software version and logs, and recheck logs after 24 hours of operation (validate Safety PIC feed returns to feed = 0-0).
+
+
+Verification
+
+
+*	Confirm Chair PCB software version is no longer 0.0.0.0 and Safety PIC Feed 10-1 is cleared (Errors → SafetyPic Feed shows feed = 0-0 and Last Seen cleared).
+*	Verify W9, W10, W12, W27 are absent from the warnings list, direct UTP link shows LED activity, and logs show no recurrence after 24 hours (Time alive ≥ 24 hours).
+
+Disclaimer This is an automatically generated message.
+
+
+
+
+
+________________________________
+
+From: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Sent: Thursday, January 22, 2026 11:25:34 AM
+To: stagiair <stagiair@devi-comfort.com>
+Subject: FW: Lift Support UP-004756 at 2026-01-22 
+ 
+ 
+________________________________
+
+Van: James Bambridge <jamesandthenbambridge@gmail.com>
+Verzonden: donderdag 22 januari 2026 12:25:29 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Aan: Support DeVi-Stairlifts <support@devi-stairlifts.com>
+Onderwerp: Lift Support UP-004756 at 2026-01-22
+
+
+*********************************************************************** 
+
+UP-004756
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 0.0.0.0 CRC: 0x0
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 134223360
+Warning Identification nr: 9-Wrong Logic Voltage
+Warning Identification nr: 10-Angle Comparator Triggered
+Warning Identification nr: 12-Communication Timed Out
+Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+Safety Feed: 10-1
+Safety Last Seen: 10-1
+*********************************************************************** 
+Mechanic: jame bambridge
+Extra notes from the mechanic: 
+replaced wi-fi board, checked all connections between it and main pcb, no physical issues found, issue still there of multiple issues
+
+*********************************************************************** 
+System
+Temperature: 27
+Rail Checksum: 196 | 196
+Current Live: 0
+Current Peak: 0
+Supply Battery: 248
+Supply Chair: 0
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 436
+Total: 12875cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 0
+Cal: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 11
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:76
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-40) Value: 296
+P2| (24) Upward (0-7) Value: 7
+P3| (10) Straight (2-109) Value: 621
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (1-181) Value: 437
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-180) Value: 180
+P8| (26) Upward (0-9) Value: 9
+P9| (10) Straight (11-213) Value: 3029
+P10| (46) Downward (0-9) Value: 9
+P11| (10) Straight (2-210) Value: 722
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (1-94) Value: 350
+P14| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 11 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 10 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 9 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 8 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 7 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 6 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 5 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 4 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 3 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 2 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 1 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 21718 Swivel Left No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Name
+Address = Address
+Postal = Postal
+City = City
+Country = Country
+Phone = 06-12345678
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:651] [2:2048] [3:2751] 
+*********************************************************************** 
+Latitude: 51.5914637
+Longitude: -1.4305364
+*********************************************************************** 
+Date & Time (tablet): 2026-01-22 11:13:57
+*********************************************************************** 
+App session length: 14m 7s
+*********************************************************************** 
+Location session length: 14m 7s
+*********************************************************************** 
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

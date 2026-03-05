@@ -1,0 +1,37 @@
+Subject: Re: Lift Support UP-002076 at 2024-11-04
+From: 康士友
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-11-04 10:07:48
+
+Hi Andy
+
+
+Are you saying that the lift chair is not charged?
+
+Frank
+
+
+康士友有限公司
+0800-880-367
+葉桓村0963656509(LINEid)
+www.kangshi-you.com
+
+
+
+
+	Support DeVi-Stairlifts <support@devi-stairlifts.com> 於 2024年11月4日 16:47 寫道：
+	
+	
+
+	Hi Frank,
+
+	 
+
+	The errors in the file refers to the wifi board being donw or the cable to the wifiboard has an issue.
+
+	You can check this by using a UTP cable and connect the main board and the wifi board directly to see if the connection is reestablished.
+
+	 
+
+	Cheers Andy

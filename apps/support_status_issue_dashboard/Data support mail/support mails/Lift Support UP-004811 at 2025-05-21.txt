@@ -1,0 +1,178 @@
+Subject: Lift Support UP-004811 at 2025-05-21
+From: Support DeVi-Stairlifts
+To: Support DeVi-Stairlifts
+CC: Jorrit Lengers
+Date: 2025-05-21 10:17:23
+
+***********************************************************************
+UP-004811
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.5 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 128 0 0 |W| 8 0 4 145
+Error Identification nr: 23-Chair 5 Degree Violation
+Warning Identification nr: 0-Tilt Sensor Too Tilted
+Warning Identification nr: 4-Not Charging
+Warning Identification nr: 7-Chair Error Too High
+Warning Identification nr: 10-Angle Comparator Triggered
+Warning Identification nr: 27-SafetyPic Intervened
+***********************************************************************
+Safety Feed: 12-1
+Safety Last Seen: 12-1
+***********************************************************************
+Mechanic: Martijn
+Extra notes from the mechanic:
+test lift bij jorrit
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 8221
+Total: 2549580cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 14510
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 11115
+Channels: 11115
+Angle: 28
+Raw: 25072
+Cal: 33366
+Current: 20
+Current Peak: 7990
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: true
+***********************************************************************
+TimeAlive Minutes: 21
+TimeAlive Hours: 18
+TimeAlive days: 0
+***********************************************************************
+Lift type: Rechte bouw
+Skip:false
+Length:12
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (5-68) Value: 1348
+P2| (75) Horizontal (0-18) Value: 18
+P3| (10) Straight (1-46) Value: 302
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-177) Value: 177
+P6| (32) Upward (0-15) Value: 15
+P7| (10) Straight (1-177) Value: 433
+P8| (52) Downward (0-15) Value: 15
+P9| (10) Straight (0-26) Value: 26
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (2-188) Value: 700
+P12| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 66 Set Warning Identification nr: 12-Communication Timed Out
+entry: 65 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 64 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 63 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 62 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 61 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 60 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 59 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 58 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 57 Clear Warning Identification nr: 4-Not Charging
+entry: 56 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 55 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 54 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 53 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 52 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 51 Set Warning Identification nr: 12-Communication Timed Out
+entry: 50 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 49 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 48 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 47 Set Warning Identification nr: 12-Communication Timed Out
+entry: 46 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 45 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 44 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 43 Set Warning Identification nr: 12-Communication Timed Out
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 1064 Swivel Right No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 250
+Offset Top Station: 85
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone =
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:128] [1:1024] [2:2207] [3:3103]
+***********************************************************************
+
+Verzonden vanaf Outlook voor Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,198 @@
+Subject: Lift Support UP-004828 at 2026-01-08
+From: EURO ASIA ACCESS SOLUTIONS SDN BHD
+To: Support DeVi-Stairlifts
+CC: Zahir@stairliftworld.my; segar@stairlift.my
+Date: 2026-01-08 05:19:10
+
+*********************************************************************** 
+
+UP-004828
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.0 CRC: 0xC2AF
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 12-2
+*********************************************************************** 
+Mechanic: Zahir
+Extra notes from the mechanic: 
+check and found battery problem
+change new battery 12v 7.2ah (2pcs)
+spindle problem already reset and reprogram 
+lift run as normal
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 23661
+Total: 4564701cm
+Channels: false | false
+FrictionWheel: true
+Current: 1220
+Current Peak: 7650
+Current Brake: 558
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11663
+Channels: 11663
+Angle: 2
+Raw: 32109
+Cal: 32917
+Current: 0
+Current Peak: 28660
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 2
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:34
+P0| (1) Start (0-35) Value: 35
+P1| (10) Straight (10-86) Value: 2646
+P2| (44) Downward (0-7) Value: 7
+P3| (10) Straight (1-139) Value: 395
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (1-141) Value: 397
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-40) Value: 40
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (9-152) Value: 2456
+P10| (44) Downward (0-7) Value: 7
+P11| (10) Straight (2-172) Value: 684
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (1-195) Value: 451
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-39) Value: 39
+P16| (25) Upward (0-8) Value: 8
+P17| (10) Straight (10-85) Value: 2645
+P18| (45) Downward (0-8) Value: 8
+P19| (10) Straight (2-177) Value: 689
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (0-27) Value: 27
+P22| (25) Upward (0-8) Value: 8
+P23| (10) Straight (1-96) Value: 352
+P24| (45) Downward (0-8) Value: 8
+P25| (10) Straight (0-28) Value: 28
+P26| (75) Horizontal (0-18) Value: 18
+P27| (10) Straight (0-27) Value: 27
+P28| (24) Upward (0-7) Value: 7
+P29| (10) Straight (9-224) Value: 2528
+P30| (44) Downward (0-7) Value: 7
+P31| (10) Straight (2-36) Value: 548
+P32| (75) Horizontal (0-18) Value: 18
+P33| (10) Straight (1-96) Value: 352
+P34| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 83 Set Warning Identification nr: 4-Not Charging
+entry: 82 Clear Warning Identification nr: 4-Not Charging
+entry: 81 Set Warning Identification nr: 4-Not Charging
+entry: 80 Clear Warning Identification nr: 4-Not Charging
+entry: 79 Set Warning Identification nr: 4-Not Charging
+entry: 78 Clear Warning Identification nr: 4-Not Charging
+entry: 77 Set Warning Identification nr: 4-Not Charging
+entry: 76 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 75 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 74 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 73 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 72 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 71 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 70 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 69 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 68 Clear Warning Identification nr: 4-Not Charging
+entry: 67 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 66 Set Warning Identification nr: 4-Not Charging
+entry: 65 Clear Warning Identification nr: 4-Not Charging
+entry: 64 Set Warning Identification nr: 4-Not Charging
+entry: 63 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 62 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 61 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 60 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right No Addon 
+NR: 1 Enc: 26488 No Swivel Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Kindnest care centre
+Address = salak selatan
+Postal = 57100
+City = Kuala Lumpur
+Country = Malaysia
+Phone = 106
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:65] [1:1024] [2:2239] [3:2943]se
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

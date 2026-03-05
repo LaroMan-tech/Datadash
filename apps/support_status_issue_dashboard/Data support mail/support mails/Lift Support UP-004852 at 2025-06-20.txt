@@ -1,0 +1,189 @@
+Subject: Lift Support UP-004852 at 2025-06-20
+From: EURO ASIA ACCESS SOLUTIONS SDN BHD
+To: Support DeVi-Stairlifts
+CC: Zahir@stairliftworld.my; smith1108@ymail.com; shah.shafxq@gmail.com
+Date: 2025-06-20 09:08:56
+
+*********************************************************************** 
+
+UP-004852
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.0 CRC: 0xC2AF
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 16 
+Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-1
+*********************************************************************** 
+Mechanic: Zahir/Shafiq/segar
+Extra notes from the mechanic: 
+found charger spoil
+need claim charger and for this lift we aledy change 2pcs charger
+
+claim 2pcs charger
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 438
+Total: 3594687cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 7000
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32973
+Cal: 32690
+Current: 0
+Current Peak: 32240
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 51
+TimeAlive Hours: 10
+TimeAlive days: 40
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:24
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-134) Value: 390
+P2| (25) Upward (0-8) Value: 8
+P3| (10) Straight (4-71) Value: 1095
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (3-129) Value: 897
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (1-234) Value: 490
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (10-98) Value: 2658
+P10| (44) Downward (0-7) Value: 7
+P11| (10) Straight (3-127) Value: 895
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (6-182) Value: 1718
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (2-228) Value: 740
+P16| (24) Upward (0-7) Value: 7
+P17| (10) Straight (8-202) Value: 2250
+P18| (44) Downward (0-7) Value: 7
+P19| (10) Straight (0-230) Value: 230
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (0-158) Value: 158
+P22| (75) Horizontal (0-18) Value: 18
+P23| (10) Straight (1-194) Value: 450
+P24| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 46 Clear Warning Identification nr: 4-Not Charging
+entry: 45 Set Warning Identification nr: 4-Not Charging
+entry: 44 Clear Warning Identification nr: 4-Not Charging
+entry: 43 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 42 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 41 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 40 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 39 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 38 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 31 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 30 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 29 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 28 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 27 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 26 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 25 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 24 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 23 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = MS LEONG
+Address = LAPANGAN SETIA
+Postal = 31650
+City = IPOH
+Country = MALAYSIA
+Phone = 
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:176] [1:1030] [2:2210] [3:2891] 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

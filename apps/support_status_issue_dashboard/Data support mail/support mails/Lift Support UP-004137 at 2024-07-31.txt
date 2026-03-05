@@ -1,0 +1,172 @@
+Subject: Lift Support UP-004137 at 2024-07-31
+From: office
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-08-01 10:07:52
+
+*********************************************************************** 
+
+UP-004137
+*********************************************************************** 
+Software Main: V 2.4.1.1 CRC: 0xB988
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 128 0 0 |W| 0 2 0 16 
+Error Identification nr: 23-Chair 5 Degree Violation
+Warning Identification nr: 4-Not Charging
+Warning Identification nr: 17-Safety Footrest Left Pressed
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+*********************************************************************** 
+Mechanic: greg
+Extra notes from the mechanic: 
+lift 5degree vilation after 2 months
+
+*********************************************************************** 
+System
+Temperature: 25
+Rail Checksum: 72 | 72
+Current Live: 0
+Current Peak: 540
+Supply Battery: 250
+Supply Chair: 128
+Supply Logic: 48
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 15835
+Total: 440349cm
+Channels: true | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 11218
+Channels: 11218
+Angle: 5
+Raw: 31523
+Cal: 33184
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 997
+Channels: 997
+Compass: 50
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 320
+Current Peak: 790
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 1
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:5
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (0-210) Value: 210
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (2-138) Value: 650
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (1-42) Value: 298
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-129) Value: 129
+P8| (25) Upward (0-8) Value: 8
+P9| (10) Straight (11-39) Value: 2855
+P10| (45) Downward (0-8) Value: 8
+P11| (10) Straight (0-124) Value: 124
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 6 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 5 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 4 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 3 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 2 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 1 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Left No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 16218 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = joyce davies
+Address = 12 Newgate st
+Postal = ld38dn
+City = bracon
+Country = 
+Phone = 
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:183] [1:1103] [2:2397] [3:3234] 
+*********************************************************************** 
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

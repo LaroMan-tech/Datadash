@@ -1,0 +1,115 @@
+Subject: Re: UP-004864
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-11-30 11:40:38
+
+Hast du dafür eine Service-Nummer?
+Mit freundlichen Grüßen
+Jan Brandenburg
+ 
+
+Jan Brandenburg <https://ci3.googleusercontent.com/mail-sig/AIorK4xiW8KEltgWIT1Qv4WgF6cycMZD1L-o4S7makK6UkkAbbx5FbcvKS0f5xP5wwm4sj6LtWxbdOg> 
+Maschinenbauingenieur	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4zFpOXq8ObIub2qriOG4uRzAgkjEGOBf4R5mA3P7vxE3TNx4wFNY0yoROyxwiny6_D2GOgmVpY> 
+	Arfrader Straße 2 - 23554 Lübeck	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4yAYrHf5hWoiuBcDD6zRKjcJkxYypCkT_gf5-KvZgZDTIcD-xZWc-Cs-5GDBR9_xo4fqhS4ZTs> 	0451 12 01 53 20	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4xCQrO38ASQ58KF11rPICrIZTrJDpPyGb9Y-Jgl5O9jPXaou2mINq1gLOQKKjYdp1CAcBf7UuY> 	Jan.Brandenburg@Nord-Ostsee-Liftteam.de <mailto:Jan.Brandenburg@Nord-Ostsee-Liftteam.de> 	
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4y3KbY2u3-eBLtb_hsePJPZSL3xKuMY3_dlwRYlOr9v2JAip5WDmZfFhOgeD-y3LdmhfStntRc> 
+	www.Nord-Ostsee-Liftteam.de <https://www.nord-ostsee-liftteam.de/> 	
+Nord-Ostsee Liftteam Jan Brandenburg <https://ci3.googleusercontent.com/mail-sig/AIorK4z0nwEtF-2sbfWsfipm5mn9ZOg_jrF_C_DRh7Uv2130tFaTX4dStwQfH5vyQwVI8x1GhTT_Of0> 
+Ihr regionaler Ansprechpartner für
+Treppenlifte, Plattformlifte und Homelifte	
+
+
+Am Fr., 29. Nov. 2024 um 11:33 Uhr schrieb Support DeVi-Stairlifts <support@devi-stairlifts.com <mailto:support@devi-stairlifts.com> >:
+
+
+	Hi Jan,
+
+	 
+
+	Ich denke die platine ist das problem.
+
+	Ich werd eine neue mitt bringen.
+
+	 
+
+	Met vriendelijke groet/ With kind regards/Mit freundlichen Grüßen/ Bien cordialement,
+
+	 
+
+	Technical Support team
+
+	 
+
+	
+
+	DeVi-Group B.V.
+	De Veken 250
+
+	1716 KJ Opmeer
+	The Netherlands
+	T + 31 (0)226 45 40 29 (general)
+	T + 31 (0)226 45 35 76 (support)
+	T + 31 (0)6 16 55 15 64 (support mobile)
+
+	support@devi-stairlifts.com <mailto:sku@devi-stairlifts.com> 
+	www.upstairlift.com <http://www.upstairlift.com/> 
+
+	 
+
+	 
+
+	P Please consider your environmental responsibility
+
+	This e-mail may contain privileged or confidential information and is intended only for use by the addressee.
+	If you are not the addressee, we request you not to use the contents or to disclose it in any manner to third parties,
+	and to inform us immediately by reply email and delete the email from your system.
+	DeVi-Group denies any responsibility for damages resulting from the use of e-mail.
+
+	Van: Jan Brandenburg <jan.brandenburg@nord-ostsee-liftteam.de <mailto:jan.brandenburg@nord-ostsee-liftteam.de> > 
+	Verzonden: vrijdag 29 november 2024 08:44
+	Aan: Support DeVi-Stairlifts <support@devi-stairlifts.com <mailto:support@devi-stairlifts.com> >
+	CC: Andy van Leeuwen <Andy.vanleeuwen@devi-stairlifts.com <mailto:Andy.vanleeuwen@devi-stairlifts.com> >
+	Onderwerp: UP-004864
+
+	 
+
+	Hi, we had problems with the UP-004864 on 24.08.2024, 13.11.2024 and 28.11.2024. The first time was an spindel encoder error at an upward bend. The second and third time the lift didn't work after folding the hinge. The second time the customer turned it off and on, such that we could not check the error log. The third time the customer did not turn off, but when i arrived the lift turned off by itself, such that I couldn't check the log again. The lift worked after turning on normally. it was yesterday at 20 o'clock, so i could talk to you.
+
+	 
+
+	The customer is one of the less understanding ones, such that he was very angry. I swapped the whole carriage since i could not find any problem. Now i have this carriage at our store. What should i do? Do you think swapping the main pcb should solve the problem? 
+
+	 
+
+	Mit freundlichen Grüßen
+	Jan Brandenburg
+
+	 
+
+Jan Brandenburg <https://ci3.googleusercontent.com/mail-sig/AIorK4xiW8KEltgWIT1Qv4WgF6cycMZD1L-o4S7makK6UkkAbbx5FbcvKS0f5xP5wwm4sj6LtWxbdOg> 
+Maschinenbauingenieur
+
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4zFpOXq8ObIub2qriOG4uRzAgkjEGOBf4R5mA3P7vxE3TNx4wFNY0yoROyxwiny6_D2GOgmVpY> 
+
+Arfrader Straße 2 - 23554 Lübeck
+
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4yAYrHf5hWoiuBcDD6zRKjcJkxYypCkT_gf5-KvZgZDTIcD-xZWc-Cs-5GDBR9_xo4fqhS4ZTs> 
+
+0451 12 01 53 20
+
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4xCQrO38ASQ58KF11rPICrIZTrJDpPyGb9Y-Jgl5O9jPXaou2mINq1gLOQKKjYdp1CAcBf7UuY> 
+
+Jan.Brandenburg@Nord-Ostsee-Liftteam.de <mailto:Jan.Brandenburg@Nord-Ostsee-Liftteam.de> 
+
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4y3KbY2u3-eBLtb_hsePJPZSL3xKuMY3_dlwRYlOr9v2JAip5WDmZfFhOgeD-y3LdmhfStntRc> 
+
+www.Nord-Ostsee-Liftteam.de <https://www.nord-ostsee-liftteam.de/> 
+
+Nord-Ostsee Liftteam Jan Brandenburg <https://ci3.googleusercontent.com/mail-sig/AIorK4z0nwEtF-2sbfWsfipm5mn9ZOg_jrF_C_DRh7Uv2130tFaTX4dStwQfH5vyQwVI8x1GhTT_Of0> 
+Ihr regionaler Ansprechpartner für
+Treppenlifte, Plattformlifte und Homelifte
+
+	 

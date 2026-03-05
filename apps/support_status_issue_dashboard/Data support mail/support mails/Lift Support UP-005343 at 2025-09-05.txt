@@ -1,0 +1,183 @@
+Subject: Lift Support UP-005343 at 2025-09-05
+From: Rustin Buteyn
+To: Support DeVi-Stairlifts; UP Stairlift
+CC: Rustin Buteyn
+Date: 2025-09-05 21:50:29
+
+We have been out here 9 times this year! If something else goes wrong customer wants to return the lift.  Looks like Footrest errors to me.  Anything else you guys see?
+Thanks,
+Rustin
+
+
+***********************************************************************
+UP-005343
+***********************************************************************
+App version: V10.9
+App type: beta
+App version code: 222
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x2C4C
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Rustin Buteyn
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 18889
+Total: 477521cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 7990
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32496
+Cal: 32489
+Current: 0
+Current Peak: 4290
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 54
+TimeAlive Hours: 3
+TimeAlive days: 1
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:3
+P0| (1) Start (0-50) Value: 50
+P1| (10) Straight (2-201) Value: 713
+P2| (40) Downward (0-3) Value: 3
+P3| (10) Straight (5-25) Value: 1305
+P4| (22) Upward (0-5) Value: 5
+P5| (10) Straight (0-247) Value: 247
+P6| (49) Downward (0-12) Value: 12
+P7| (10) Straight (0-42) Value: 42
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-60) Value: 60
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-25) Value: 25
+P12| (25) Upward (0-8) Value: 8
+P13| (10) Straight (5-90) Value: 1370
+P14| (45) Downward (0-8) Value: 8
+P15| (10) Straight (0-220) Value: 220
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (2-8) Value: 520
+P18| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 60 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 59 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 58 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 57 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 56 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 55 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 54 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 53 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 52 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 51 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 50 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 49 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 48 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 47 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 46 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 45 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 44 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 43 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 42 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 41 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 40 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 39 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 38 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 37 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Left Charge Station
+NR: 1 Enc: 7521 Swivel Right Charge Station
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 68
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone =
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:58]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:1] [1:749] [2:2063] [3:3072]
+***********************************************************************
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

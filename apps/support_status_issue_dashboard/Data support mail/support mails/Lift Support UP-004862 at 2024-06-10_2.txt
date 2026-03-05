@@ -1,0 +1,172 @@
+Subject: Lift Support UP-004862 at 2024-06-10
+From: SIMPLIFE | Jeroen Hazenberg
+To: Support DeVi-Stairlifts
+CC: SIMPLIFE | Jeroen Hazenberg
+Date: 2024-06-10 14:27:29
+
+*********************************************************************** 
+
+UP-004862
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-1
+*********************************************************************** 
+Mechanic: Hazenberg Jeroen
+Extra notes from the mechanic: 
+Fout 27
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 435
+Total: 97629cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 9870
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 13158
+Channels: 13158
+Angle: 0
+Raw: 32951
+Cal: 32848
+Current: 0
+Current Peak: 8170
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 36
+TimeAlive Hours: 2
+TimeAlive days: 3
+*********************************************************************** 
+Lift type: Rechte bouw
+Skip:false
+Length:12
+P0| (1) Start (0-70) Value: 70
+P1| (10) Straight (1-198) Value: 454
+P2| (43) Downward (0-6) Value: 6
+P3| (10) Straight (11-246) Value: 3062
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (0-72) Value: 72
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-65) Value: 65
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-25) Value: 25
+P10| (25) Upward (0-8) Value: 8
+P11| (10) Straight (3-21) Value: 789
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 101 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 100 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 99 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 98 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 97 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 96 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 95 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 94 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 93 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 92 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 91 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 90 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 89 Set Warning Identification nr: 12-Communication Timed Out
+entry: 88 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 87 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 86 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 85 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 84 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 83 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 82 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Set Warning Identification nr: 4-Not Charging
+entry: 4 Clear Warning Identification nr: 4-Not Charging
+entry: 3 Set Warning Identification nr: 4-Not Charging
+entry: 2 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 1 Clear Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 16105 Swivel Left No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 205
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:196] [1:1087] [2:2370] [3:3215] 
+*********************************************************************** 

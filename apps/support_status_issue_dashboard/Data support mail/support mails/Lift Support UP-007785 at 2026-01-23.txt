@@ -1,0 +1,191 @@
+Subject: Lift Support UP-007785 at 2026-01-23
+From: Damian
+To: Support DeVi-Stairlifts; damian@primecomfort.co.uk
+CC: 
+Date: 2026-01-23 15:56:14
+
+*********************************************************************** 
+UP-007785
+*********************************************************************** 
+App version: V11.1.562
+App type: release
+App version code: 562
+Software Main: V 2.4.9.4    CRC: 0xD705
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.3.3.0    CRC: 0x7E0D
+Code of the day active: Yes
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 134
+Warning Identification nr: 1-Rail Configuration Incomplete
+Warning Identification nr: 2-Traction Encoder Out Of Bound
+Warning Identification nr: 7-Chair Error Too High
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Damian
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 30
+Rail Checksum: 195 | 80
+Current Live: 432
+Current Peak: 2268
+Supply Battery: 251
+Supply Chair: 136Supply Logic: 56Armrests: L:true R:true
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 0
+Total: 629cm
+Channels: false | false
+FrictionWheel: false
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 11020
+Channels: false | true
+Angle: 0
+Raw: 32625
+Cal: 32566
+Current: 0
+Current Peak: 850
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: true | false
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1490
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 33
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:98
+P0| (1) Start   (0-70)  Value: 70
+P1| (10) Straight   (0-167)  Value: 167
+P2| (42) Downward   (0-5)  Value: 5
+P3| (10) Straight   (4-6)  Value: 1030
+P4| (46) Downward   (0-9)  Value: 9
+P5| (10) Straight   (0-212)  Value: 212
+P6| (106)    (0-9)  Value: 9
+P7| (10) Straight   (0-100)  Value: 100
+P8| (106)    (0-9)  Value: 9
+P9| (10) Straight   (0-25)  Value: 25
+P10| (25) Upward   (0-8)  Value: 8
+P11| (10) Straight   (9-1)  Value: 2305
+P12| (45) Downward   (0-8)  Value: 8
+P13| (10) Straight   (0-148)  Value: 148
+P14| (106)    (0-9)  Value: 9
+P15| (10) Straight   (0-100)  Value: 100
+P16| (106)    (0-9)  Value: 9
+P17| (10) Straight   (0-25)  Value: 25
+P18| (21) Upward   (0-4)  Value: 4
+P19| (10) Straight   (2-162)  Value: 674
+P20| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 19 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 18 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 17 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 16 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 15 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 14 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 13 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 12 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 11 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 10 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 9 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 8 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 6 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 5 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 4 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 3 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 2 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 1 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Station Not Active 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 0
+Offset Top Station: 0
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:71] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:228] [1:802] [2:2050] [3:3007] 
+*********************************************************************** 
+Latitude: 52.9015883
+Longitude: -0.6233733
+*********************************************************************** 
+Date & Time (tablet): 2026-01-23 14:55:29
+*********************************************************************** 
+App session length: 111m 48s
+*********************************************************************** 
+Location session length: 111m 45s
+*********************************************************************** 
+ 

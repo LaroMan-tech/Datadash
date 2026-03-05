@@ -1,0 +1,181 @@
+Subject: Lift Support UP-005713 at 2025-07-02
+From: Étienne SENECLAUZE
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-07-02 12:05:27
+
+***********************************************************************
+UP-005713
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.5 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x0
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 16
+Warning Identification nr: 4-Not Charging
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Étienne
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 8134
+Total: 630749cm
+Channels: true | false
+FrictionWheel: true
+Current: 30
+Current Peak: 30
+Current Brake: 60
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 10490
+Channels: 10490
+Angle: 3
+Raw: 34136
+Cal: 33044
+Current: 30
+Current Peak: 30
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 1
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Lift type: Construction droite
+Skip:false
+Length:3
+P0| (1) Start (0-55) Value: 55
+P1| (10) Straight (5-225) Value: 1505
+P2| (48) Downward (0-11) Value: 11
+P3| (10) Straight (1-166) Value: 422
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-25) Value: 25
+P6| (24) Upward (0-7) Value: 7
+P7| (10) Straight (14-115) Value: 3699
+P8| (44) Downward (0-7) Value: 7
+P9| (10) Straight (0-26) Value: 26
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-228) Value: 228
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (0-34) Value: 34
+P14| (28) Upward (0-11) Value: 11
+P15| (10) Straight (11-21) Value: 2837
+P16| (48) Downward (0-11) Value: 11
+P17| (10) Straight (0-191) Value: 191
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (1-245) Value: 501
+P20| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 No Swivel No Addon
+NR: 1 Enc: 15616 No Swivel Charge Station
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 150
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = Duquenne
+Address = 3 cours Notre-Dame
+Postal = 02290
+City = Vic sur Aisne
+Country = France
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:3] [1:63]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:130] [1:907] [2:2194] [3:3084]
+*********************************************************************** 
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,197 @@
+Subject: Lift Support UP-004189 at 2025-12-10
+From: BATILECTRIQUE
+To: Support DeVi-Stairlifts
+CC: Dodou Kamara
+Date: 2025-12-10 17:37:04
+
+*********************************************************************** 
+UP-004189
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.1.1    CRC: 0xB988
+Software Chair: V 1.0.3.0    CRC: 0x64CB
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 1073741824
+Warning Identification nr: 30-Chair Not Closed
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+*********************************************************************** 
+Mechanic: kamara
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 38
+Rail Checksum: 184 | 184
+Current Live: 0
+Current Peak: 24516
+Supply Battery: 251
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 19943
+Total: 1136471cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 12280
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 32720
+Cal: 32812
+Current: 0
+Current Peak: 8290
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1001
+Channels: 1001
+Compass: 0
+Current: 0
+Current Peak: 870
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1680
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 31
+TimeAlive Hours: 0
+TimeAlive days: 1
+*********************************************************************** 
+Skip:false
+Length:80
+P0| (1) Start   (0-70)  Value: 70
+P1| (10) Straight   (1-191)  Value: 447
+P2| (43) Downward   (0-6)  Value: 6
+P3| (10) Straight   (4-150)  Value: 1174
+P4| (45) Downward   (0-8)  Value: 8
+P5| (10) Straight   (1-251)  Value: 507
+P6| (75) Horizontal   (0-18)  Value: 18
+P7| (10) Straight   (0-57)  Value: 57
+P8| (25) Upward   (0-8)  Value: 8
+P9| (10) Straight   (3-18)  Value: 786
+P10| (45) Downward   (0-8)  Value: 8
+P11| (10) Straight   (0-198)  Value: 198
+P12| (75) Horizontal   (0-18)  Value: 18
+P13| (10) Straight   (0-25)  Value: 25
+P14| (24) Upward   (0-7)  Value: 7
+P15| (10) Straight   (5-123)  Value: 1403
+P16| (44) Downward   (0-7)  Value: 7
+P17| (10) Straight   (1-73)  Value: 329
+P18| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 33 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 32 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 31 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 30 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 29 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 28 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 27 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 26 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 25 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 24 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 23 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 22 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 21 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 20 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 19 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 18 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 17 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 16 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 15 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 14 Set Warning Identification nr: 12-Communication Timed Out
+entry: 13 Set Warning Identification nr: 10-Angle Comparator Triggered
+entry: 12 Clear Warning Identification nr: 10-Angle Comparator Triggered
+entry: 11 Set Warning Identification nr: 9-Wrong Logic Voltage
+entry: 10 Clear Warning Identification nr: 9-Wrong Logic Voltage
+entry: 9 Clear Warning Identification nr: 12-Communication Timed Out
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 19954 Swivel Left  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 1016
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:500] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:1] [1:719] [2:2048] [3:3072] 
+*********************************************************************** 
+Latitude: 48.6758075
+Longitude: 2.3207466
+*********************************************************************** 
+Date & Time (tablet): 2025-12-10 17:36:51
+*********************************************************************** 
+App session length: 2m 17s
+*********************************************************************** 
+Location session length: 2m 13s
+*********************************************************************** 
+ 
+
+
+
+11 avenue Maurice Thorez 
+92240 Malakoff
+0184730610
+ <https://ci3.googleusercontent.com/mail-sig/AIorK4zi83VQMTR834nWOCkGzlMOSRbsbdLy9FlGqheA-8AM70d5Cd3r0omS7Ipw2vwMic_eOB9ikqv6XMJj> 
+https://depannage-monte-escalier.fr/

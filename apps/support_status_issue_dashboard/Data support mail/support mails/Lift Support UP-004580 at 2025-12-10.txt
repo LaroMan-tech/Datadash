@@ -1,0 +1,208 @@
+Subject: Lift Support UP-004580 at 2025-12-10
+From: info@inno-lift.eu
+To: Support DeVi-Stairlifts
+CC: info@inno-lift.eu
+Date: 2025-12-10 08:31:41
+
+***********************************************************************
+UP-004580
+***********************************************************************
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.3.0 CRC: 0x64CB
+Software Safety: V 3.33 CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+***********************************************************************
+|E| 0 |W| 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Patric Wileczil
+Extra notes from the mechanic:
+Lift stoppt ztw. bei Niveau
+änderung. Schiene neu programmiert
+
+***********************************************************************
+System
+Temperature: 51
+Rail Checksum: 43 | 43
+Current Live: 0
+Current Peak: 41886
+Supply Battery: 246
+Supply Chair: 124
+Supply Logic: 47
+Armrests: L:true R:true
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 462
+Total: 1419988cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 21460
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 12962
+Channels: 12962
+Angle: 0
+Raw: 32156
+Cal: 31992
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 120
+Current Peak: 120
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 1035
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 32
+TimeAlive Hours: 12
+TimeAlive days: 3
+***********************************************************************
+Skip:false
+Length:84
+P0| (1) Start (0-65) Value: 65
+P1| (10) Straight (1-111) Value: 367
+P2| (44) Downward (0-7) Value: 7
+P3| (10) Straight (6-14) Value: 1550
+P4| (24) Upward (0-7) Value: 7
+P5| (10) Straight (1-162) Value: 418
+P6| (50) Downward (0-13) Value: 13
+P7| (10) Straight (0-21) Value: 21
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-35) Value: 35
+P10| (31) Upward (0-14) Value: 14
+P11| (10) Straight (2-10) Value: 522
+P12| (51) Downward (0-14) Value: 14
+P13| (10) Straight (0-17) Value: 17
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-43) Value: 43
+P16| (24) Upward (0-7) Value: 7
+P17| (10) Straight (9-57) Value: 2361
+P18| (44) Downward (0-7) Value: 7
+P19| (10) Straight (0-201) Value: 201
+P20| (75) Horizontal (0-18) Value: 18
+P21| (10) Straight (1-94) Value: 350
+P22| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 74 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 73 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 72 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 71 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 70 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 69 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 68 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 67 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 66 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 65 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 64 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 63 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 62 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 61 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 60 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 59 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 58 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 57 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 56 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 55 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 54 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 53 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 52 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 51 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 50 Set Warning Identification nr: 4-Not Charging
+***********************************************************************
+NR: 0 Enc: 459 No Swivel No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 25045 No Swivel No Addon
+***********************************************************************
+Offset Bottom Station: 70
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 1016
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:35]
+Spindle: [0:4095] [1:4095] [2:4095] [3:4095]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:11] [1:47] [2:61] [3:88]
+Hinged: [0:252] [1:1152] [2:2431] [3:3263]
+***********************************************************************
+Latitude: 48.3808943
+Longitude: 16.3859946
+***********************************************************************
+Date & Time (tablet): 2025-12-10 08:31:32
+***********************************************************************
+App session length: 12m 16s
+***********************************************************************
+Location session length: 12m 15s
+***********************************************************************
+
+_______________________________
+Patric Wileczil
+Inhaber Innolift Treppenlifte
+Gerichtssachverständiger
+
+
+Tel.:       +43 2743 93081
+Mail:     info@inno-lift.eu <mailto:info@inno-lift.eu>  
+Web:    www.inno-lift.eu <http://www.inno-lift.eu/>  • www.innolift-treppenlifte.at <http://www.innolift-treppenlifte.at/>  
+
+
+
+
+Innolift e.U. • Mauterheim 24 • 3140 Böheimkirchen
+HG: St. Pölten • FN: 589906i • UID: ATU78576667

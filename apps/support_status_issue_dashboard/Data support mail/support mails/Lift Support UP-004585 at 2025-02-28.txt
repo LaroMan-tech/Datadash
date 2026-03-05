@@ -1,0 +1,171 @@
+Subject: Lift Support UP-004585 at 2025-02-28
+From: Jan Brandenburg
+To: Support DeVi-Stairlifts
+CC: jb@liftteam.de
+Date: 2025-02-28 08:50:51
+
+*********************************************************************** 
+
+UP-004585
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.4 CRC: 0x4F7B
+Software Chair: V 1.0.3.1 CRC: 0x9EC8
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 11-1
+Safety Last Seen: 11-1
+*********************************************************************** 
+Mechanic: Jan Brandenburg 
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 438
+Total: 20647cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 12090
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 12962
+Channels: 12962
+Angle: 0
+Raw: 32819
+Cal: 32875
+Current: 0
+Current Peak: 4080
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 34
+TimeAlive Hours: 12
+TimeAlive days: 5
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:3
+P0| (1) Start (0-65) Value: 65
+P1| (10) Straight (1-242) Value: 498
+P2| (50) Downward (0-13) Value: 13
+P3| (10) Straight (0-2) Value: 2
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-25) Value: 25
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-48) Value: 48
+P8| (26) Upward (0-9) Value: 9
+P9| (10) Straight (13-39) Value: 3367
+P10| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 24 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 23 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 22 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 21 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 20 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 19 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 18 Set Error Identification nr: 9-Traction Supply Failure
+entry: 17 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 16 Set Error Identification nr: 9-Traction Supply Failure
+entry: 15 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 14 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 13 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 12 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 11 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 10 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 9 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 8 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 7 Set Warning Identification nr: 4-Not Charging
+entry: 6 Clear Warning Identification nr: 4-Not Charging
+entry: 5 Set Warning Identification nr: 4-Not Charging
+entry: 4 Clear Warning Identification nr: 4-Not Charging
+entry: 3 Set Warning Identification nr: 4-Not Charging
+entry: 2 Clear Warning Identification nr: 4-Not Charging
+entry: 1 Set Warning Identification nr: 4-Not Charging
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Bowe
+Address = Schnoorstraße 14
+Postal = 23611
+City = Bad Schwartau
+Country = Deutschland
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:30] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:55] [1:924] [2:2111] [3:3065] 
+*********************************************************************** 
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

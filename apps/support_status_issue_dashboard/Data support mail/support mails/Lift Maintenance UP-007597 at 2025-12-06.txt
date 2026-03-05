@@ -1,0 +1,176 @@
+Subject: Lift Maintenance UP-007597 at 2025-12-06
+From: Géresi Miklós
+To: Support DeVi-Stairlifts
+CC: Info LiftNekem
+Date: 2025-12-06 11:19:03
+
+*********************************************************************** 
+UP-007597
+*********************************************************************** 
+App version: V11.0.534
+App type: release
+App version code: 534
+Software Main: V 2.4.9.4    CRC: 0xD705
+Software Chair: V 1.0.4.2    CRC: 0xB2DF
+Software Safety: V 3.33    CRC: 0x7E0D
+Code of the day active: No
+Code of the day extra active: No
+*********************************************************************** 
+|E| 0 |W| 0
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Kismaros Folyosó
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 30
+Rail Checksum: 58 | 58
+Current Live: 432
+Current Peak: 17712
+Supply Battery: 256
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 7918
+Total: 1387cm
+Channels: true | false
+FrictionWheel: false
+Current: 240
+Current Peak: 7870
+Current Brake: 0
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 9999
+Channels: 9999
+Angle: 0
+Raw: 32860
+Cal: 32873
+Current: 360
+Current Peak: 2980
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 420
+Driver: true
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 700
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 34
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:72
+P0| (1) Start   (0-0)  Value: 0
+P1| (10) Straight   (0-230)  Value: 230
+P2| (24) Upward   (0-7)  Value: 7
+P3| (10) Straight   (5-165)  Value: 1445
+P4| (44) Downward   (0-7)  Value: 7
+P5| (10) Straight   (2-53)  Value: 565
+P6| (2) Stop   (0-0)  Value: 0
+*********************************************************************** 
+entry: 101 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 100 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 99 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 98 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 97 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 96 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 95 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 94 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 93 Set Warning Identification nr: 4-Not Charging
+entry: 92 Clear Warning Identification nr: 4-Not Charging
+entry: 91 Set Warning Identification nr: 4-Not Charging
+entry: 90 Clear Warning Identification nr: 4-Not Charging
+entry: 89 Set Warning Identification nr: 4-Not Charging
+entry: 88 Clear Warning Identification nr: 4-Not Charging
+entry: 87 Set Warning Identification nr: 4-Not Charging
+entry: 86 Clear Warning Identification nr: 4-Not Charging
+entry: 85 Set Warning Identification nr: 4-Not Charging
+entry: 8 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 6 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 4 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 3 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 2 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 1 Clear Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel  No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 7919 No Swivel  No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Kismaros Folyoso
+Address = 
+Postal = 
+City = Kismaros
+Country = Hungary
+Phone = 16
+*********************************************************************** 
+Traction:     [0:1] [1:100] [2:200] [3:300] 
+Brake:     [0:1] [1:76] 
+Spindle:     [0:1] [1:100] [2:200] [3:300] 
+Swivel:     [0:1] [1:50] [2:100] [3:150] 
+Footrest:     [0:1] [1:50] [2:100] [3:150] 
+Hinged:     [0:102] [1:864] [2:2125] [3:3072] 
+*********************************************************************** 
+Latitude: 47.834539
+Longitude: 19.0005955
+*********************************************************************** 
+Date & Time (tablet): 2025-12-06 11:18:59
+*********************************************************************** 
+App session length: 29m 58s
+*********************************************************************** 
+Location session length: 29m 39s
+*********************************************************************** 
+ 

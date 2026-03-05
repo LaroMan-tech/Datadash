@@ -1,0 +1,181 @@
+Subject: Lift Support UP-002096 at 2024-12-10
+From: aufmass@scharrer-lbw.de
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-12-10 14:17:02
+
+*********************************************************************** 
+
+UP-002096
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.2 CRC: 0xB9F4
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: be
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 16801
+Total: 472296cm
+Channels: false | false
+FrictionWheel: false
+Current: 10
+Current Peak: 11760
+Current Brake: 54
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10042
+Channels: 10042
+Angle: 2
+Raw: 32308
+Cal: 32910
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 5
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Gerader Bauweise
+Skip:false
+Length:20
+P0| (1) Start (0-60) Value: 60
+P1| (10) Straight (1-129) Value: 385
+P2| (49) Downward (0-12) Value: 12
+P3| (10) Straight (0-25) Value: 25
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-150) Value: 150
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (1-236) Value: 492
+P10| (22) Upward (0-5) Value: 5
+P11| (10) Straight (3-168) Value: 936
+P12| (49) Downward (0-12) Value: 12
+P13| (10) Straight (0-25) Value: 25
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (0-44) Value: 44
+P16| (25) Upward (0-8) Value: 8
+P17| (10) Straight (5-98) Value: 1378
+P18| (45) Downward (0-8) Value: 8
+P19| (10) Straight (0-219) Value: 219
+P20| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 55 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 54 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 53 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 52 Set Warning Identification nr: 12-Communication Timed Out
+entry: 51 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 50 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 49 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 48 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 47 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 46 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 45 Set Warning Identification nr: 4-Not Charging
+entry: 44 Clear Warning Identification nr: 4-Not Charging
+entry: 43 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 42 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 41 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 40 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 39 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 38 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 37 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 36 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 35 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 34 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 26 Set Warning Identification nr: 4-Not Charging
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 16811 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 80
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Rita Koschinski Pion
+Address = Auf der Wanne 2
+Postal = 31737
+City = Rinteln
+Country = Deutschland
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:127] [1:1056] [2:2378] [3:3232] 
+***********************************************************************
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 

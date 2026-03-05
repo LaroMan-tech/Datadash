@@ -1,0 +1,11 @@
+Subject: Lift Crash report UP-006304 at 2025-10-03
+From: MPA UP
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-10-03 23:17:34
+
+App version: V11.0.534
+App version code: 534
+Session length: 40m 41s
+Location session length: 40m 40s
+ 

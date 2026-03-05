@@ -1,0 +1,178 @@
+Subject: Lift Support UP-007182 at 2025-09-24
+From: Julien PRODAULT
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-09-24 14:51:56
+
+*********************************************************************** 
+
+UP-007182
+*********************************************************************** 
+App version: V11.0.457
+App type: release
+App version code: 457
+Software Main: V 2.4.9.3 CRC: 0x5454
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 2048 |W| 136
+Error Identification nr: 11-Spindle Supply Failure
+Warning Identification nr: 3-Spindle Encoder Out Of Bound
+Warning Identification nr: 7-Chair Error Too High
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Prodault 
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 30
+Rail Checksum: 32 | 32
+Current Live: 0
+Current Peak: 2304
+Supply Battery: 253
+Supply Chair: 123
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 19999
+Total: 733cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 30001
+Channels: 30001
+Angle: 0
+Raw: 32620
+Cal: 32606
+Current: 0
+Current Peak: 2770
+Driver: false
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 1230
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Lift type: Curved Build
+Lift orientation: Left Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 35
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:76
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-144) Value: 400
+P2| (28) Upward (0-11) Value: 11
+P3| (10) Straight (2-61) Value: 573
+P4| (48) Downward (0-11) Value: 11
+P5| (10) Straight (1-238) Value: 494
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-100) Value: 100
+P8| (66) Horizontal (0-9) Value: 9
+P9| (10) Straight (0-165) Value: 165
+P10| (27) Upward (0-10) Value: 10
+P11| (10) Straight (12-27) Value: 3099
+P12| (47) Downward (0-10) Value: 10
+P13| (10) Straight (1-145) Value: 401
+P14| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 53 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 52 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 51 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 50 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 49 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 48 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 47 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 46 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 45 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 44 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 43 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 42 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 41 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 40 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 39 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 38 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 37 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 36 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 35 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 34 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 33 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 32 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 31 Set Error Identification nr: 11-Spindle Supply Failure
+entry: 30 Clear Error Identification nr: 11-Spindle Supply Failure
+entry: 29 Set Error Identification nr: 11-Spindle Supply Failure
+*********************************************************************** 
+NR: 0 Enc: 496 Swivel Left No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 19999 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 81
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:32] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:532] [2:1791] [3:2815] 
+*********************************************************************** 
+
+Télécharger Outlook pour Android <https://aka.ms/AAb9ysg> 

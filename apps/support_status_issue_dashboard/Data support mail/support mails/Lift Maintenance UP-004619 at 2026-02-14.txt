@@ -1,0 +1,217 @@
+Subject: Lift Maintenance UP-004619 at 2026-02-14
+From: Nicolas DUPERRET
+To: Support DeVi-Stairlifts
+CC: Nicolas DUPERRET
+Date: 2026-02-14 18:50:43
+
+***********************************************************************
+UP-004619
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Nicolas DUPERRET
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 34
+Rail Checksum: 67 | 67
+Current Live: 198
+Current Peak: 8892
+Supply Battery: 231
+Supply Chair: 123
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 573
+Total: 2536215cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 2450
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 11435
+Channels: 11435
+Angle: 1
+Raw: 32413
+Cal: 32784
+Current: 0
+Current Peak: 4270
+Driver: false
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 20
+TimeAlive Hours: 8
+TimeAlive days: 0
+***********************************************************************
+Lift type: Construction droite
+Skip:false
+Length:16
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (3-154) Value: 922
+P2| (23) Upward (0-6) Value: 6
+P3| (10) Straight (3-27) Value: 795
+P4| (43) Downward (0-6) Value: 6
+P5| (10) Straight (0-124) Value: 124
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (7-58) Value: 1850
+P10| (20) Upward (0-3) Value: 3
+P11| (10) Straight (0-109) Value: 109
+P12| (40) Downward (0-3) Value: 3
+P13| (10) Straight (8-121) Value: 2169
+P14| (44) Downward (0-7) Value: 7
+P15| (10) Straight (2-48) Value: 560
+P16| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 89 Set Warning Identification nr: 6-Low Supply Voltage
+entry: 88 Set Warning Identification nr: 4-Not Charging
+entry: 87 Clear Warning Identification nr: 4-Not Charging
+entry: 86 Set Warning Identification nr: 4-Not Charging
+entry: 85 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 84 Clear Warning Identification nr: 4-Not Charging
+entry: 83 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 82 Set Warning Identification nr: 4-Not Charging
+entry: 81 Clear Warning Identification nr: 4-Not Charging
+entry: 80 Set Warning Identification nr: 4-Not Charging
+entry: 79 Clear Warning Identification nr: 4-Not Charging
+entry: 78 Set Warning Identification nr: 4-Not Charging
+entry: 77 Clear Warning Identification nr: 4-Not Charging
+entry: 76 Set Warning Identification nr: 4-Not Charging
+entry: 75 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 74 Clear Warning Identification nr: 4-Not Charging
+entry: 73 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 72 Set Warning Identification nr: 4-Not Charging
+entry: 71 Clear Warning Identification nr: 4-Not Charging
+entry: 70 Set Warning Identification nr: 4-Not Charging
+entry: 69 Clear Warning Identification nr: 4-Not Charging
+entry: 68 Set Warning Identification nr: 4-Not Charging
+entry: 67 Clear Warning Identification nr: 4-Not Charging
+entry: 66 Set Warning Identification nr: 4-Not Charging
+entry: 65 Clear Warning Identification nr: 4-Not Charging
+***********************************************************************
+NR: 0 Enc: 560 No Swivel No Addon
+NR: 1 Enc: 21726 No Swivel Charge Station
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 100
+Offset Top Station: 210
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone = 1016
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:500]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:90] [1:1017] [2:2192] [3:3085]
+***********************************************************************
+Maintenance checklist results
+Checked tasks:
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks:
+*********************************************************************** 
+
+
+ <https://storage.letsignit.com/65eef03356d0e7dbe4038a0b/generated/84b5efa4-4e9a-4e0a-a437-555167f976f8_effects_61d10143e58f6d0b45ac6a75df2d8042ee935f06dbaad4a5e2fca953.png> 
+
+ <https://storage.letsignit.com/65eef03356d0e7dbe4038a0b/generated/effects_9abbd9edcbe0df6504030656de400259bd8661d97228952db2fedef8.png> 
+
+ <https://storage.letsignit.com/65eef03356d0e7dbe4038a0b/generated/effects_46ba36e3c8f8f06071361adb358147f6d6e935159e98201b783097a6.png> 
+
+ <https://storage.letsignit.com/65eef03356d0e7dbe4038a0b/generated/effects_0d16399eda22669dde0fd62455aacc989bc456200ac62c164dc74ef1.png> 
+
+Nicolas DUPERRET
+
+DOMetVIE Aix‑en‑Provence
+
+Directeur d'Agence
+
+06 11 36 97 78
+
+n.duperret@dometvie.fr
+
+ <https://storage.letsignit.com/65eef03356d0e7dbe4038a0b/generated/effects_306643d1001c0e14e71a784c0d0313ffa38158e9b907ce73f8d035f9.png> 
+
+https://www.dometvie.fr/stores/dometvie‑aix‑en‑provence/ <https://cloud.letsignit.com/collect/bc/665d71282c42b239ba26e714?p=XOJHPLo3o2KiFnUZXZbTNqgrPqFsXoAsKhPD1uPiDDs4wMvieyLfg4op20jphRoZu3yHID-rZGrgr3_jDOwNNOU_z5ON46A5aOWtw6zRNVzl6rju5l5_D6ayySY5Ab6bnJaktOAth38Ec0zqZr7xsqpeMhYLZCenEjWJpAWGqPWoQPH0hdhFsDTu3osl-Z7y> 
+
+30 Av. Alfred Capus BAT C
+
+13090
+
+Aix‑en‑Provence
+
+  

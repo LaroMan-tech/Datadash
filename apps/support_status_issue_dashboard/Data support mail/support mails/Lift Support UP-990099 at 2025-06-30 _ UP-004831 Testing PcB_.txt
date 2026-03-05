@@ -1,0 +1,181 @@
+Subject: Lift Support UP-990099 at 2025-06-30 ( UP-004831 Testing PcB)
+From: Zahir Isma
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-06-30 09:05:13
+
+***********************************************************************
+UP-990099
+***********************************************************************
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 128 |W| 0 0 0 16
+Error Identification nr: 7-Spindle Encoder Failure
+Warning Identification nr: 4-Not Charging
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: Zahir
+Extra notes from the mechanic: 
+
+UP-004831 After Replaced New PcB....still have same error....
+
+***********************************************************************
+System
+Temperature: 41
+Rail Checksum: 78 | 78
+Current Live: 0
+Current Peak: 3114
+Supply Battery: 245
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 47334
+Total: 528cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 630
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 11633
+Channels: 11633
+Angle: 0
+Raw: 33005
+Cal: 33013
+Current: 0
+Current Peak: 2380
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Swivel Motor
+Encoder: 1000
+Channels: 1000
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 430
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 6
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:16
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-144) Value: 400
+P2| (24) Upward (0-7) Value: 7
+P3| (10) Straight (7-144) Value: 1936
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (4-164) Value: 1188
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (6-61) Value: 1597
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (2-77) Value: 589
+P10| (24) Upward (0-7) Value: 7
+P11| (10) Straight (7-245) Value: 2037
+P12| (44) Downward (0-7) Value: 7
+P13| (10) Straight (3-204) Value: 972
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (6-84) Value: 1620
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (1-89) Value: 345
+P18| (24) Upward (0-7) Value: 7
+P19| (10) Straight (7-242) Value: 2034
+P20| (44) Downward (0-7) Value: 7
+P21| (10) Straight (3-150) Value: 918
+P22| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 13 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 12 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 11 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 10 Clear Warning Identification nr: 4-Not Charging
+entry: 9 Clear Error Identification nr: 7-Spindle Encoder Failure
+entry: 8 Set Warning Identification nr: 4-Not Charging
+entry: 7 Clear Warning Identification nr: 4-Not Charging
+entry: 6 Set Warning Identification nr: 4-Not Charging
+entry: 5 Set Warning Identification nr: 7-Chair Error Too High
+entry: 4 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 3 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 2 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 1 Clear Warning Identification nr: 7-Chair Error Too High
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 No Swivel No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 50624 Swivel Right No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Address = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Postal = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+City = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Country = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:45]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:48] [1:717] [2:2048] [3:3007]
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

@@ -1,0 +1,171 @@
+Subject: Lift Support UP-005134 at 2024-12-09
+From: Survey
+To: Support DeVi-Stairlifts
+CC: Info
+Date: 2024-12-09 12:30:16
+
+***********************************************************************
+UP-005134
+***********************************************************************
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 0 0 0 |W| 0 0 0 0
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: james B
+Extra notes from the mechanic:
+innes rg314xl
+lift stopped a couple of times 3 days ago, noise from carriage has been getting worse
+
+***********************************************************************
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+***********************************************************************
+Traction Motor
+Encoder: 437
+Total: 1146084cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 13130
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Spindle Motor
+Encoder: 11893
+Channels: 11893
+Angle: 0
+Raw: 32249
+Cal: 32113
+Current: 0
+Current Peak: 9040
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 55
+TimeAlive Hours: 4
+TimeAlive days: 55
+***********************************************************************
+Lift type: Straight Build
+Skip:false
+Length:10
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (11-20) Value: 2836
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (1-219) Value: 475
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-50) Value: 50
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-86) Value: 86
+P8| (25) Upward (0-8) Value: 8
+P9| (10) Straight (4-214) Value: 1238
+P10| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 44 Set Warning Identification nr: 4-Not Charging
+entry: 43 Clear Warning Identification nr: 4-Not Charging
+entry: 42 Set Warning Identification nr: 4-Not Charging
+entry: 41 Clear Warning Identification nr: 4-Not Charging
+entry: 40 Set Warning Identification nr: 4-Not Charging
+entry: 39 Clear Warning Identification nr: 4-Not Charging
+entry: 38 Set Warning Identification nr: 4-Not Charging
+entry: 37 Clear Warning Identification nr: 4-Not Charging
+entry: 36 Set Warning Identification nr: 4-Not Charging
+entry: 35 Clear Warning Identification nr: 4-Not Charging
+entry: 34 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 33 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 32 Set Warning Identification nr: 12-Communication Timed Out
+entry: 31 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 30 Set Warning Identification nr: 4-Not Charging
+entry: 29 Clear Warning Identification nr: 4-Not Charging
+entry: 28 Set Warning Identification nr: 4-Not Charging
+entry: 27 Clear Warning Identification nr: 4-Not Charging
+entry: 26 Set Warning Identification nr: 4-Not Charging
+entry: 25 Clear Warning Identification nr: 4-Not Charging
+entry: 24 Set Warning Identification nr: 4-Not Charging
+entry: 23 Clear Warning Identification nr: 4-Not Charging
+entry: 22 Set Warning Identification nr: 4-Not Charging
+entry: 21 Clear Warning Identification nr: 4-Not Charging
+entry: 20 Set Warning Identification nr: 4-Not Charging
+***********************************************************************
+NR: 0 Enc: 425 No Swivel No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Station Not Active
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name =
+Address =
+Postal =
+City =
+Country =
+Phone =
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:77]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:196] [1:1086] [2:2383] [3:3225]
+*********************************************************************** 
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

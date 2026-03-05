@@ -1,0 +1,59 @@
+Subject: Service call report UP-004678/ case #326408
+From: Craig Peters
+To: Support DeVi-Stairlifts
+CC: UP Stairlift
+Date: 2024-06-07 21:54:54
+
+Hello Support,
+
+ 
+
+ 
+
+Customer: Accessible Systems, INC. Denver (Lifeway)
+
+State:
+
+Lift: UP-004678
+
+ 
+
+Investigation: The technician had everything working after we walked them through the programing, after we were off the phone the customer asked to have the lift stop a little higher at the top. He tried to move the top charge station, after that he was trying to reprogram the lift and he said that he kept losing the rail data in the V10.9 app (beta). 
+
+ 
+
+Resolution: He returned today and used the V10.8 app, we had to reset the spindle encoder but after that everything was working well.
+
+ 
+
+Time: 2.5 hours
+
+Correction: Having the V10.8 as a backup.
+
+ 
+
+Comments: Hopefully getting the newest apps bugs figured out. I just wanted to let you know that he had this issue.
+
+ 
+
+ 
+
+Kind Regards,
+
+ 
+
+ 
+
+
+
+Craig Peters​​​​
+
+Installation and Service Specialist
+
+800‑833‑0478
+
+email: tech.services@harmar.com
+
+ <https://www.surveymonkey.com/r/HarmarTech1> 
+
+ 

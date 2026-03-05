@@ -1,0 +1,199 @@
+Subject: Lift Support UP-006646 at 2025-09-18
+From: Team Mobility
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2025-09-18 09:30:59
+
+***********************************************************************
+UP-006646
+***********************************************************************
+App version: V11.0.469
+App type: release
+App version code: 469
+Software Main: V 2.4.9.1 CRC: 0x8622
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+***********************************************************************
+|E| 0 |W| 4
+Warning Identification nr: 2-Traction Encoder Out Of Bound
+***********************************************************************
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+***********************************************************************
+Mechanic: suraj saroj
+Extra notes from the mechanic:
+
+
+***********************************************************************
+System
+Temperature: 43
+Rail Checksum: 252 | 252
+Current Live: 18
+Current Peak: 810
+Supply Battery: 262
+Supply Chair: 126
+Supply Logic: 47
+Armrests: L:false R:false
+Seatbelt: true
+***********************************************************************
+Traction Motor
+Encoder: 29517
+Total: 43622cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 0
+Current Brake: 12
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 32521
+Cal: 32542
+Current: 0
+Current Peak: 0
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+***********************************************************************
+Swivel Motor
+Encoder: 999
+Channels: 999
+Compass: 100
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+***********************************************************************
+Footrest Motor
+Current: 140
+Current Peak: 720
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+***********************************************************************
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+***********************************************************************
+Lift type: Curved Build
+Lift orientation: Right Build
+Swivel: UNKNOWN
+Seatbelt required: true
+Endurance test: false
+***********************************************************************
+TimeAlive Minutes: 3
+TimeAlive Hours: 0
+TimeAlive days: 0
+***********************************************************************
+Skip:false
+Length:68
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-8) Value: 264
+P2| (24) Upward (0-7) Value: 7
+P3| (10) Straight (1-108) Value: 364
+P4| (44) Downward (0-7) Value: 7
+P5| (10) Straight (0-56) Value: 56
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-52) Value: 52
+P8| (26) Upward (0-9) Value: 9
+P9| (10) Straight (1-74) Value: 330
+P10| (46) Downward (0-9) Value: 9
+P11| (10) Straight (0-63) Value: 63
+P12| (76) Horizontal (0-19) Value: 19
+P13| (10) Straight (0-52) Value: 52
+P14| (24) Upward (0-7) Value: 7
+P15| (10) Straight (7-195) Value: 1987
+P16| (44) Downward (0-7) Value: 7
+P17| (10) Straight (0-118) Value: 118
+P18| (75) Horizontal (0-18) Value: 18
+P19| (10) Straight (0-51) Value: 51
+P20| (25) Upward (0-8) Value: 8
+P21| (10) Straight (3-92) Value: 860
+P22| (45) Downward (0-8) Value: 8
+P23| (10) Straight (0-55) Value: 55
+P24| (76) Horizontal (0-19) Value: 19
+P25| (10) Straight (0-51) Value: 51
+P26| (25) Upward (0-8) Value: 8
+P27| (10) Straight (2-240) Value: 752
+P28| (45) Downward (0-8) Value: 8
+P29| (10) Straight (0-50) Value: 50
+P30| (65) Horizontal (0-8) Value: 8
+P31| (10) Straight (0-31) Value: 31
+P32| (25) Upward (0-8) Value: 8
+P33| (10) Straight (2-195) Value: 707
+P34| (45) Downward (0-8) Value: 8
+P35| (10) Straight (0-52) Value: 52
+P36| (65) Horizontal (0-8) Value: 8
+P37| (10) Straight (2-23) Value: 535
+P38| (2) Stop (0-0) Value: 0
+***********************************************************************
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+***********************************************************************
+NR: 0 Enc: 425 Swivel Right No Addon
+NR: 1 Station Not Active
+NR: 2 Station Not Active
+NR: 3 Station Not Active
+NR: 4 Station Not Active
+NR: 5 Station Not Active
+NR: 6 Station Not Active
+NR: 7 Station Not Active
+NR: 8 Station Not Active
+NR: 9 Enc: 29473 Swivel Left No Addon
+***********************************************************************
+Offset Bottom Station: 60
+Offset Top Station: 60
+***********************************************************************
+Swivel Reach: 60
+***********************************************************************
+Name = meghana
+Address = 237 18th cross
+Postal = 560080
+City = Bangalore
+Country = IN
+Phone = 16
+***********************************************************************
+Traction: [0:1] [1:100] [2:200] [3:300]
+Brake: [0:1] [1:81]
+Spindle: [0:1] [1:100] [2:200] [3:300]
+Swivel: [0:1] [1:50] [2:100] [3:150]
+Footrest: [0:1] [1:50] [2:100] [3:150]
+Hinged: [0:5] [1:895] [2:2178] [3:3154]
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

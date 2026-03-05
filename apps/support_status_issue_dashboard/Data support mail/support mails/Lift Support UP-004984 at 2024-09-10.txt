@@ -1,0 +1,183 @@
+Subject: Lift Support UP-004984 at 2024-09-10
+From: Rustin Buteyn
+To: Support DeVi-Stairlifts
+CC: up@harmar.com
+Date: 2024-09-10 19:45:32
+
+*********************************************************************** 
+
+UP-004984
+*********************************************************************** 
+App version: V10.9
+App type: beta
+App version code: 222
+Software Main: V 2.4.8.2 CRC: 0xB9F4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: Rustin Buteyn
+Extra notes from the mechanic: 
+stopping at first bends after a few rides of normal operation. traction encoder doesn't seem to match station locations
+
+*********************************************************************** 
+System
+Temperature: 51
+Rail Checksum: 220 | 220
+Current Live: 162
+Current Peak: 22752
+Supply Battery: 245
+Supply Chair: 123
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: true
+*********************************************************************** 
+Traction Motor
+Encoder: 573
+Total: 18041cm
+Channels: false | true
+FrictionWheel: false
+Current: 60
+Current Peak: 11700
+Current Brake: 189
+Driver: true
+Supply: false
+Direction: false
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10056
+Channels: 10056
+Angle: 2
+Raw: 33329
+Cal: 32573
+Current: 110
+Current Peak: 7000
+Driver: true
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 70
+Current Peak: 1040
+Driver: true
+Supply: true
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 56
+TimeAlive Hours: 1
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:22
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-44) Value: 300
+P2| (28) Upward (0-11) Value: 11
+P3| (10) Straight (0-144) Value: 144
+P4| (48) Downward (0-11) Value: 11
+P5| (10) Straight (0-26) Value: 26
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-46) Value: 46
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-25) Value: 25
+P10| (26) Upward (0-9) Value: 9
+P11| (10) Straight (5-159) Value: 1439
+P12| (46) Downward (0-9) Value: 9
+P13| (10) Straight (4-28) Value: 1052
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (5-17) Value: 1297
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (1-243) Value: 499
+P18| (25) Upward (0-8) Value: 8
+P19| (10) Straight (7-206) Value: 1998
+P20| (45) Downward (0-8) Value: 8
+P21| (10) Straight (1-34) Value: 290
+P22| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 101 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 100 Set Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 99 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 98 Clear Warning Identification nr: 17-Safety Footrest Left Pressed
+entry: 97 Clear Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 19 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 18 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 17 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 16 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 15 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 14 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 13 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 12 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 11 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 10 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 9 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 8 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 7 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 6 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 4 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 3 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 2 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 1 Set Warning Identification nr: 18-Safety Footrest Right Pressed
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 560 No Swivel Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 29039 Swivel Right Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 100
+Offset Top Station: 145
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = John Lazear
+Address = 11782 e Adriatic pl
+Postal = 80014
+City = aurora
+Country = USA
+Phone = 16
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:2] [1:36] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:2] [1:671] [2:2048] [3:2815] 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

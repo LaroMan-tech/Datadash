@@ -1,0 +1,22 @@
+Subject: UP-002054 Chair not closed 
+From:  Lic. Francisco Rodríguez 
+To: Support DeVi-Stairlifts
+CC: Gustavo Rojo Plá
+Date: 2024-10-29 16:49:44
+
+Hello everyone, hope you are doing well 
+
+Just to let you know that we have an issue with the aforementioned lift regarding a chair not closed warning. We cannot get the compass value over 50. I will swap the WiFi/SEAT PCB. We have a spare one on stock. Thanks a lot for your support.
+
+Kind regards 
+
+
+--
+
+Lic. Francisco J. Rodríguez Villarreal
+
+damsa
+
+
+
+

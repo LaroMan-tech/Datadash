@@ -1,0 +1,179 @@
+Subject: Lift Support UP-005274 at 2025-09-29
+From: EURO ASIA ACCESS SOLUTIONS SDN BHD
+To: Support DeVi-Stairlifts; shah.shafxq@gmail.com; Zahir@stairliftworld.my
+CC: 
+Date: 2025-09-29 10:43:36
+
+*********************************************************************** 
+
+UP-005274
+*********************************************************************** 
+Software Main: V 2.4.8.3 CRC: 0xFD4
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-0
+*********************************************************************** 
+Mechanic: segar
+Extra notes from the mechanic: 
+check and found spindle problem.. it not smooth run...
+aledy send video om whatapp..
+need claim new spindle motor
+
+*********************************************************************** 
+System
+Temperature: 46
+Rail Checksum: 119 | 119
+Current Live: 0
+Current Peak: 16146
+Supply Battery: 251
+Supply Chair: 126
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 39190
+Total: 387432cm
+Channels: true | true
+FrictionWheel: true
+Current: 0
+Current Peak: 6500
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 10000
+Channels: 10000
+Angle: 0
+Raw: 33132
+Cal: 33219
+Current: 0
+Current Peak: 10420
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 1001
+Channels: 1001
+Compass: 100
+Current: 0
+Current Peak: 1940
+Driver: false
+Supply: true
+Direction: false
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 240
+Current Peak: 1340
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 43
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Skip:false
+Length:2
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-244) Value: 500
+P2| (25) Upward (0-8) Value: 8
+P3| (10) Straight (0-70) Value: 70
+P4| (45) Downward (0-8) Value: 8
+P5| (10) Straight (0-25) Value: 25
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (14-30) Value: 3614
+P10| (44) Downward (0-7) Value: 7
+P11| (10) Straight (4-226) Value: 1250
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (5-109) Value: 1389
+P14| (75) Horizontal (0-18) Value: 18
+P15| (10) Straight (3-22) Value: 790
+P16| (24) Upward (0-7) Value: 7
+P17| (10) Straight (7-117) Value: 1909
+P18| (44) Downward (0-7) Value: 7
+P19| (10) Straight (3-118) Value: 886
+P20| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 101 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 100 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 22 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 21 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 20 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 19 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 18 Set Warning Identification nr: 4-Not Charging
+entry: 17 Clear Warning Identification nr: 4-Not Charging
+entry: 16 Set Warning Identification nr: 4-Not Charging
+entry: 15 Clear Warning Identification nr: 4-Not Charging
+entry: 14 Set Warning Identification nr: 4-Not Charging
+entry: 13 Clear Warning Identification nr: 4-Not Charging
+entry: 12 Set Warning Identification nr: 4-Not Charging
+entry: 11 Clear Warning Identification nr: 4-Not Charging
+entry: 10 Set Warning Identification nr: 4-Not Charging
+entry: 9 Clear Warning Identification nr: 4-Not Charging
+entry: 8 Set Warning Identification nr: 7-Chair Error Too High
+entry: 7 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 6 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 5 Set Warning Identification nr: 12-Communication Timed Out
+entry: 4 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 3 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 2 Clear Warning Identification nr: 13-ArmRests Not In Position
+entry: 1 Set Warning Identification nr: 13-ArmRests Not In Position
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 39235 Swivel Right No Addon 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = alwyn heong
+Address = bukit damansara
+Postal = 50490
+City = malaysia
+Country = ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Phone = 106
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:77] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:158] [1:1035] [2:2291] [3:3143] 
+*********************************************************************** 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 

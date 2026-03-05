@@ -1,0 +1,189 @@
+Subject: Lift Maintenance UP-004364 at 2024-06-12
+From: Keith Garland
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-06-12 16:33:04
+
+*********************************************************************** 
+
+UP-004364
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 0.0.0.0 CRC: 0x0
+Software Safety: V 3.33 CRC: 0x0
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-32
+*********************************************************************** 
+Mechanic: Keith Garland 
+Extra notes from the mechanic: 
+we're just waiting on the software update programer so we can update the software 
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 1674
+Total: 333995cm
+Channels: false | false
+FrictionWheel: true
+Current: 0
+Current Peak: 10620
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 11880
+Channels: 11880
+Angle: 111
+Raw: 0
+Cal: 32006
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 30
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:16
+P0| (1) Start (0-75) Value: 75
+P1| (10) Straight (0-186) Value: 186
+P2| (42) Downward (0-5) Value: 5
+P3| (10) Straight (3-173) Value: 941
+P4| (47) Downward (0-10) Value: 10
+P5| (10) Straight (1-106) Value: 362
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-25) Value: 25
+P8| (21) Upward (0-4) Value: 4
+P9| (10) Straight (1-223) Value: 479
+P10| (41) Downward (0-4) Value: 4
+P11| (10) Straight (2-65) Value: 577
+P12| (75) Horizontal (0-18) Value: 18
+P13| (10) Straight (0-229) Value: 229
+P14| (25) Upward (0-8) Value: 8
+P15| (10) Straight (8-255) Value: 2303
+P16| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 46 Set Warning Identification nr: 4-Not Charging
+entry: 45 Clear Warning Identification nr: 4-Not Charging
+entry: 44 Set Warning Identification nr: 4-Not Charging
+entry: 43 Clear Warning Identification nr: 4-Not Charging
+entry: 42 Set Warning Identification nr: 4-Not Charging
+entry: 41 Clear Warning Identification nr: 4-Not Charging
+entry: 40 Set Warning Identification nr: 4-Not Charging
+entry: 39 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 38 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 37 Clear Warning Identification nr: 4-Not Charging
+entry: 36 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 35 Set Warning Identification nr: 4-Not Charging
+entry: 34 Clear Warning Identification nr: 4-Not Charging
+entry: 33 Set Warning Identification nr: 4-Not Charging
+entry: 32 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 31 Clear Warning Identification nr: 4-Not Charging
+entry: 30 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 29 Set Warning Identification nr: 4-Not Charging
+entry: 28 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 27 Set Error Identification nr: 23-Chair 5 Degree Violation
+entry: 26 Set Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 25 Clear Error Identification nr: 23-Chair 5 Degree Violation
+entry: 24 Clear Warning Identification nr: 4-Not Charging
+entry: 23 Clear Warning Identification nr: 0-Tilt Sensor Too Tilted
+entry: 22 Set Warning Identification nr: 30-Chair Not Closed
+*********************************************************************** 
+NR: 0 Enc: 492 Swivel Right No Addon 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 80
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Caine
+Address = 86 Lilliechurch
+Postal = rm8 2dy
+City = ronford
+Country = UK
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:75] [1:1024] [2:2261] [3:3103] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+***********************************************************************
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 

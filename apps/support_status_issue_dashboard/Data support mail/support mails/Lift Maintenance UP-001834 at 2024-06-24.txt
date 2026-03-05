@@ -1,0 +1,182 @@
+Subject: Lift Maintenance UP-001834 at 2024-06-24
+From: Francisco Javier Rodriguez Villarreal
+To: Support DeVi-Stairlifts
+CC: fco.rdz@gmail.com
+Date: 2024-06-24 19:15:28
+
+*********************************************************************** 
+
+UP-001834
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.0.8 CRC: 0x5EDE
+Software Chair: V 1.0.2.9 CRC: 0x3F4B
+Software Safety: V 3.33 CRC: 0x136
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 0-1
+*********************************************************************** 
+Mechanic: Francisco Rodriguez
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 24268
+Total: 124455cm
+Channels: false | false
+FrictionWheel: false
+Current: 0
+Current Peak: 7170
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 0
+Raw: 33131
+Cal: 33002
+Current: 0
+Current Peak: 8190
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 40
+TimeAlive Hours: 17
+TimeAlive days: 4
+*********************************************************************** 
+Lift type: Straight Build
+Skip:false
+Length:8
+P0| (1) Start (0-35) Value: 35
+P1| (10) Straight (11-203) Value: 3019
+P2| (44) Downward (0-7) Value: 7
+P3| (10) Straight (3-62) Value: 830
+P4| (24) Upward (0-7) Value: 7
+P5| (10) Straight (10-162) Value: 2722
+P6| (44) Downward (0-7) Value: 7
+P7| (10) Straight (1-174) Value: 430
+P8| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 92 Set Warning Identification nr: 4-Not Charging
+entry: 91 Clear Warning Identification nr: 4-Not Charging
+entry: 90 Set Warning Identification nr: 4-Not Charging
+entry: 89 Clear Warning Identification nr: 4-Not Charging
+entry: 88 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 87 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 86 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 85 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 84 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 83 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 82 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 81 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 80 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 79 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 78 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 77 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 76 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 75 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 74 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 73 Set Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 72 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 71 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 70 Clear Error Identification nr: 4-SafetyPic WatchDog Triggered
+entry: 69 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Enc: 3903 No Swivel Hingedrail 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:13] [1:899] [2:2176] [3:3077] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+*********************************************************************** 
+
+Enviado desde mi Samsung Mobile de Telcel
+Obtener Outlook para Android <https://aka.ms/AAb9ysg> 

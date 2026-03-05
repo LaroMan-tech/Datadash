@@ -1,0 +1,227 @@
+Subject: Lift Maintenance UP-004448 at 2024-09-07
+From: Paul FAVOT
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2024-09-07 10:10:31
+
+*********************************************************************** 
+
+UP-004448
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.7.4 CRC: 0x131A
+Software Chair: V 1.0.4.2 CRC: 0xB2DF
+Software Safety: V 3.33 CRC: 0x7E0D
+*********************************************************************** 
+|E| 0 0 0 0 |W| 0 0 0 0 
+*********************************************************************** 
+Safety Feed: 0-0
+Safety Last Seen: 10-1
+*********************************************************************** 
+Mechanic: favot
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 24086
+Total: 962213cm
+Channels: false | true
+FrictionWheel: true
+Current: 0
+Current Peak: 39350
+Current Brake: 0
+Driver: true
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 1
+Raw: 32526
+Cal: 32839
+Current: 0
+Current Peak: 8220
+Driver: false
+Supply: false
+Direction: true
+Permitted: true
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: LEFT
+Swivel: NEW
+Seatbelt required: true
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 52
+TimeAlive Hours: 11
+TimeAlive days: 94
+*********************************************************************** 
+Lift type: Construction droite
+Skip:false
+Length:3
+P0| (1) Start (0-0) Value: 0
+P1| (10) Straight (1-42) Value: 298
+P2| (29) Upward (0-12) Value: 12
+P3| (10) Straight (2-25) Value: 537
+P4| (49) Downward (0-12) Value: 12
+P5| (10) Straight (0-83) Value: 83
+P6| (75) Horizontal (0-18) Value: 18
+P7| (10) Straight (0-105) Value: 105
+P8| (75) Horizontal (0-18) Value: 18
+P9| (10) Straight (0-25) Value: 25
+P10| (24) Upward (0-7) Value: 7
+P11| (10) Straight (11-116) Value: 2932
+P12| (24) Upward (0-7) Value: 7
+P13| (10) Straight (2-101) Value: 613
+P14| (51) Downward (0-14) Value: 14
+P15| (10) Straight (0-77) Value: 77
+P16| (75) Horizontal (0-18) Value: 18
+P17| (10) Straight (0-25) Value: 25
+P18| (26) Upward (0-9) Value: 9
+P19| (10) Straight (0-172) Value: 172
+P20| (46) Downward (0-9) Value: 9
+P21| (10) Straight (0-151) Value: 151
+P22| (75) Horizontal (0-18) Value: 18
+P23| (10) Straight (1-94) Value: 350
+P24| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 63 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 62 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 61 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 60 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 59 Set Error Identification nr: 9-Traction Supply Failure
+entry: 58 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 57 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 56 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 55 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 54 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 53 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 52 Set Error Identification nr: 9-Traction Supply Failure
+entry: 51 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 50 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 49 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 48 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 47 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 46 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 45 Set Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 44 Clear Warning Identification nr: 13-ArmRests Not In Position or Seatbelt Not Fastened
+entry: 43 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 42 Clear Warning Identification nr: 27-SafetyPic Intervened
+entry: 41 Clear Error Identification nr: 9-Traction Supply Failure
+entry: 40 Set Warning Identification nr: 27-SafetyPic Intervened
+entry: 39 Set Warning Identification nr: 12-Communication Timed Out
+*********************************************************************** 
+NR: 0 Enc: 425 No Swivel Charge Station 
+NR: 1 Station Not Active 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = 
+Address = 
+Postal = 
+City = 
+Country = 
+Phone = 1016
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:1] [1:693] [2:2048] [3:3007] 
+*********************************************************************** 
+Maintenance checklist results 
+Checked tasks: 
+1. Start
+2. Rail and joints
+3. Mechanical
+4. Electrical
+5. Options foldable hinge
+6. Safety functions
+7. Finish
+
+Unchecked tasks: 
+*********************************************************************** 
+
+Cordialement, 
+
+ <https://storage.letsignit.com/65eef03356d0e7dbe4038a0b/profile_f67e281f359890295934258b01126eb5.png> 
+
+ <https://storage.letsignit.com/icons/designer/socials/Linkedin--circle--black.png> 
+
+ <https://storage.letsignit.com/icons/designer/socials/Facebook--circle--black.png> 
+
+ <https://storage.letsignit.com/icons/designer/socials/Youtube--circle--black.png> 
+
+Paul FAVOT
+
+DOMetVIE Royan
+
+Directeur d'agence
+
+05 46 23 62 65 / 06 30 50 15 88
+
+p.favot@dometvie.fr
+
+ <https://storage.letsignit.com/65eef03356d0e7dbe4038a0b/generated/effects_306643d1001c0e14e71a784c0d0313ffa38158e9b907ce73f8d035f9.png> 
+
+https://www.dometvie.fr/stores/royan/
+
+55 Avenue du Maréchal Juin
+
+17110
+
+St Georges de Didonne
+
+  

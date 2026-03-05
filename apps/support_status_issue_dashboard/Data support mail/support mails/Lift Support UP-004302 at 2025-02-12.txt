@@ -1,0 +1,177 @@
+Subject: Lift Support UP-004302 at 2025-02-12
+From: Damien Theys
+To: Support DeVi-Stairlifts
+CC: damien@hyseco.be
+Date: 2025-02-12 14:41:31
+
+*********************************************************************** 
+
+UP-004302
+*********************************************************************** 
+App version: V10.9
+App type: release
+App version code: 228
+Software Main: V 2.4.8.5 CRC: 0xFD4
+Software Chair: V 1.0.3.0 CRC: 0x0
+Software Safety: V 3.33 CRC: 0x136
+*********************************************************************** 
+|E| 0 0 0 0 |W| 8 0 0 1 
+Warning Identification nr: 0-Tilt Sensor Too Tilted
+Warning Identification nr: 27-SafetyPic Intervened
+*********************************************************************** 
+Safety Feed: 10-1
+Safety Last Seen: 10-1
+*********************************************************************** 
+Mechanic: damien
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 0
+Rail Checksum: 0 | 0
+Current Live: 0
+Current Peak: 0
+Supply Battery: 0
+Supply Chair: 0
+Supply Logic: 0
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 12830
+Total: 731469cm
+Channels: true | true
+FrictionWheel: true
+Current: 120
+Current Peak: 120
+Current Brake: 216
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 9998
+Channels: 9998
+Angle: 113
+Raw: 0
+Cal: 32772
+Current: 120
+Current Peak: 120
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 0
+Channels: 0
+Compass: 0
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Footrest Motor
+Current: 0
+Current Peak: 0
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 3
+TimeAlive Hours: 0
+TimeAlive days: 0
+*********************************************************************** 
+Lift type: Construction droite
+Skip:false
+Length:14
+P0| (1) Start (0-45) Value: 45
+P1| (10) Straight (11-235) Value: 3051
+P2| (46) Downward (0-9) Value: 9
+P3| (10) Straight (3-71) Value: 839
+P4| (75) Horizontal (0-18) Value: 18
+P5| (10) Straight (0-170) Value: 170
+P6| (26) Upward (0-9) Value: 9
+P7| (10) Straight (1-153) Value: 409
+P8| (46) Downward (0-9) Value: 9
+P9| (10) Straight (2-93) Value: 605
+P10| (75) Horizontal (0-18) Value: 18
+P11| (10) Straight (0-166) Value: 166
+P12| (25) Upward (0-8) Value: 8
+P13| (10) Straight (4-121) Value: 1145
+P14| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 30 Set Warning Identification nr: 12-Communication Timed Out
+entry: 29 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 28 Set Warning Identification nr: 12-Communication Timed Out
+entry: 27 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 26 Set Warning Identification nr: 12-Communication Timed Out
+entry: 25 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 24 Set Warning Identification nr: 12-Communication Timed Out
+entry: 23 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 22 Set Warning Identification nr: 12-Communication Timed Out
+entry: 21 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 20 Set Warning Identification nr: 12-Communication Timed Out
+entry: 19 Clear Warning Identification nr: 12-Communication Timed Out
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right No Addon 
+NR: 1 Enc: 12842 No Swivel Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Station Not Active 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 145
+*********************************************************************** 
+Swivel Reach: 20
+*********************************************************************** 
+Name = Name
+Address = Address
+Postal = Postal
+City = City
+Country = Country
+Phone = 06-12345678
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:287] [1:1182] [2:2431] [3:3262] 
+*********************************************************************** 
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 

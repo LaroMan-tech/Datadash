@@ -1,0 +1,173 @@
+Subject: Lift Support UP-002088 at 2023-11-15
+From: Jens Winterfeldt
+To: Support DeVi-Stairlifts
+CC: 
+Date: 2023-11-15 09:31:47
+
+*********************************************************************** 
+
+UP-002088
+*********************************************************************** 
+Software Main: V 2.4.1.1 CRC: 0xB988
+Software Chair: V 1.0.2.9 CRC: 0x0
+Software Safety: V 3.33 CRC: 0x136
+*********************************************************************** 
+|E| 0 0 0 0 |W| 8 0 16 17 
+Warnung Identifikations nr: 0-Neigungssensor zu geneigt
+Warnung Identifikations nr: 4-Lädt nicht
+Warnung Identifikations nr: 12-Zeitüberschreitung beim Kommunikation
+Warnung Identifikations nr: 27-Safety Pic eingegriffen
+*********************************************************************** 
+Safety Feed: 12-1
+Safety Last Seen: 12-1
+*********************************************************************** 
+Mechanic: winnie
+Extra notes from the mechanic: 
+
+
+*********************************************************************** 
+System
+Temperature: 31
+Rail Checksum: 79 | 79
+Current Live: 54
+Current Peak: 684
+Supply Battery: 245
+Supply Chair: 124
+Supply Logic: 46
+Armrests: L:false R:false
+Seatbelt: false
+*********************************************************************** 
+Traction Motor
+Encoder: 1146
+Total: 319397cm
+Channels: true | false
+FrictionWheel: true
+Current: 30
+Current Peak: 30
+Current Brake: 36
+Driver: true
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Spindle Motor
+Encoder: 11916
+Channels: 11916
+Angle: 112
+Raw: 0
+Cal: 32554
+Current: 30
+Current Peak: 8210
+Driver: false
+Supply: false
+Direction: true
+Permitted: false
+*********************************************************************** 
+Swivel Motor
+Encoder: 995
+Channels: 995
+Compass: 0
+Current: 30
+Current Peak: 450
+Driver: false
+Supply: true
+Direction: true
+Permitted: true
+*********************************************************************** 
+Footrest Motor
+Current: 30
+Current Peak: 770
+Driver: false
+Supply: false
+Direction: false
+Permitted: false
+*********************************************************************** 
+Hinged Motor
+Current: 0
+Driver: false
+Supply: false
+State: 0
+*********************************************************************** 
+Orientation: RIGHT
+Swivel: NEW
+Seatbelt required: false
+Endurance test: false
+*********************************************************************** 
+TimeAlive Minutes: 8
+TimeAlive Hours: 12
+TimeAlive days: 2
+*********************************************************************** 
+Skip:false
+Length:5
+P0| (1) Start (0-40) Value: 40
+P1| (10) Straight (4-143) Value: 1167
+P2| (45) Downward (0-8) Value: 8
+P3| (10) Straight (2-204) Value: 716
+P4| (66) Horizontal (0-9) Value: 9
+P5| (10) Straight (0-100) Value: 100
+P6| (66) Horizontal (0-9) Value: 9
+P7| (10) Straight (0-232) Value: 232
+P8| (24) Upward (0-7) Value: 7
+P9| (10) Straight (13-117) Value: 3445
+P10| (44) Downward (0-7) Value: 7
+P11| (10) Straight (0-156) Value: 156
+P12| (2) Stop (0-0) Value: 0
+*********************************************************************** 
+entry: 29 Set Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 28 Set Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 27 Clear Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 26 Clear Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 25 Set Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 24 Set Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 23 Clear Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 22 Clear Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 21 Set Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 20 Set Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 19 Clear Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 18 Clear Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 17 Set Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 16 Set Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 15 Clear Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 14 Clear Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 13 Set Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 12 Set Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 11 Clear Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 10 Clear Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 9 Set Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 8 Set Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 7 Clear Warnung Identifikations nr: 10-Winkelkomparator ging ab
+entry: 6 Clear Warnung Identifikations nr: 9- Falsche Logikspannung
+entry: 0 - -
+*********************************************************************** 
+NR: 0 Enc: 425 Swivel Right Charge Station 
+NR: 1 Enc: 7455 No Swivel Charge Station 
+NR: 2 Station Not Active 
+NR: 3 Station Not Active 
+NR: 4 Station Not Active 
+NR: 5 Station Not Active 
+NR: 6 Station Not Active 
+NR: 7 Station Not Active 
+NR: 8 Station Not Active 
+NR: 9 Enc: 21139 Swivel Left Charge Station 
+*********************************************************************** 
+Offset Bottom Station: 60
+Offset Top Station: 60
+*********************************************************************** 
+Swivel Reach: 60
+*********************************************************************** 
+Name = Name
+Address = Address
+Postal = Postal
+City = City
+Country = Country
+Phone = 06-12345678
+*********************************************************************** 
+Traction: [0:1] [1:100] [2:200] [3:300] 
+Brake: [0:1] [1:500] 
+Spindle: [0:1] [1:100] [2:200] [3:300] 
+Swivel: [0:1] [1:50] [2:100] [3:150] 
+Footrest: [0:1] [1:50] [2:100] [3:150] 
+Hinged: [0:463] [1:1358] [2:2492] [3:3229] 
+***********************************************************************
+
+Gesendet von Outlook für Android <https://aka.ms/AAb9ysg> 
