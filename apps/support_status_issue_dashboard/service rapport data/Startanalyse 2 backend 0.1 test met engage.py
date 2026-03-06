@@ -344,6 +344,132 @@ def safe_to_datetime(series: pd.Series) -> pd.Series:
     return pd.to_datetime(series, errors="coerce")
 
 
+def count_unique_stairs(frame: pd.DataFrame, stair_col: str | None) -> int:
+    if stair_col and stair_col in frame.columns:
+        ids: set[str] = set()
+        for raw in frame[stair_col].dropna().astype(str):
+            for part in raw.split(","):
+                value = part.strip()
+                if value and value.lower() not in {"<na>", "nan", "none"}:
+                    ids.add(value)
+        if ids:
+            return len(ids)
+    if "Location_ID" in frame.columns:
+        return int(frame["Location_ID"].dropna().nunique())
+    return 0
+
+
+def open_closed_counts(
+    frame: pd.DataFrame,
+    status_col: str | None,
+    status_map: dict[int, dict[str, str]],
+) -> tuple[int, int]:
+    if not status_col or status_col not in frame.columns:
+        return 0, 0
+    labels = frame[status_col].map(lambda v: status_label(v, status_map)).astype(str).str.lower()
+    is_open = labels.str.contains("open|repair|waiting", na=False)
+    open_count = int(is_open.sum())
+    closed_count = int(len(frame) - open_count)
+    return open_count, closed_count
+
+
+def top_problem_text(frame: pd.DataFrame, problem_col: str | None, top_n: int = 1) -> str:
+    if not problem_col or problem_col not in frame.columns:
+        return "-"
+    series = frame[problem_col].fillna("").astype(str).str.strip()
+    series = series[(series != "") & (series != "<NA>")]
+    if series.empty:
+        return "-"
+    vc = series.value_counts().head(top_n)
+    if top_n == 1:
+        return f"{vc.index[0]} ({int(vc.iloc[0])})"
+    return " | ".join(f"{idx} ({int(cnt)})" for idx, cnt in vc.items())
+
+
+def count_warranty_cases(frame: pd.DataFrame) -> int:
+    text_cols = [
+        col
+        for col in ["FinanceComment", "ReasonNoFollowUpAction", "Solution", "CauseMalfunction"]
+        if col in frame.columns
+    ]
+    if not text_cols:
+        return 0
+    warranty_mask = pd.Series(False, index=frame.index)
+    for col in text_cols:
+        warranty_mask = warranty_mask | frame[col].astype(str).str.contains(
+            r"garant|warranty",
+            case=False,
+            na=False,
+        )
+    return int(warranty_mask.sum())
+
+
+def build_klachten_targets_table(
+    base_df: pd.DataFrame,
+    created_col: str | None,
+    status_col: str | None,
+    problem_col: str | None,
+    stair_col: str | None,
+    status_map: dict[int, dict[str, str]],
+    prev_year: int = 2024,
+    target_year: int = 2025,
+) -> pd.DataFrame:
+    if created_col and created_col in base_df.columns:
+        years = safe_to_datetime(base_df[created_col]).dt.year
+    else:
+        years = pd.Series(index=base_df.index, dtype="float")
+
+    prev_df = base_df[years == prev_year].copy()
+    curr_df = base_df[years == target_year].copy()
+
+    prev_open, prev_closed = open_closed_counts(prev_df, status_col, status_map)
+    curr_open, curr_closed = open_closed_counts(curr_df, status_col, status_map)
+
+    target_reports = count_unique_stairs(curr_df, stair_col)
+    if target_reports == 0:
+        target_reports = count_unique_stairs(base_df, stair_col)
+
+    rows = [
+        {
+            "Klachten en Afwijkingen": "Aantal Klant klachten/service rapporten",
+            f"{prev_year} Actueel": int(len(prev_df)),
+            f"Target {target_year}": f"{target_reports} (1 service rapport per trap)",
+            f"{target_year} Actueel": int(len(curr_df)),
+        },
+        {
+            "Klachten en Afwijkingen": "Waarvan Open",
+            f"{prev_year} Actueel": prev_open,
+            f"Target {target_year}": "-",
+            f"{target_year} Actueel": curr_open,
+        },
+        {
+            "Klachten en Afwijkingen": "Waarvan Gesloten",
+            f"{prev_year} Actueel": prev_closed,
+            f"Target {target_year}": "-",
+            f"{target_year} Actueel": curr_closed,
+        },
+        {
+            "Klachten en Afwijkingen": "Meest voorkomende oorzaak (trend)",
+            f"{prev_year} Actueel": top_problem_text(prev_df, problem_col, top_n=1),
+            f"Target {target_year}": "-",
+            f"{target_year} Actueel": top_problem_text(curr_df, problem_col, top_n=1),
+        },
+        {
+            "Klachten en Afwijkingen": "Aantal Verleende garantiegevallen",
+            f"{prev_year} Actueel": count_warranty_cases(prev_df),
+            f"Target {target_year}": "-",
+            f"{target_year} Actueel": count_warranty_cases(curr_df),
+        },
+        {
+            "Klachten en Afwijkingen": "Rootcauses / trend",
+            f"{prev_year} Actueel": top_problem_text(prev_df, problem_col, top_n=3),
+            f"Target {target_year}": "-",
+            f"{target_year} Actueel": top_problem_text(curr_df, problem_col, top_n=3),
+        },
+    ]
+    return pd.DataFrame(rows)
+
+
 def main() -> None:
     st.set_page_config(page_title=APP_TITLE, layout="wide")
     st.title(APP_TITLE)
@@ -799,6 +925,24 @@ def main() -> None:
                 "Doorlooptijd mediaan (dagen)",
                 f"{float(lead_days.dropna().median()):.1f}" if not lead_days.dropna().empty else "n.v.t.",
             )
+
+            st.markdown("### Klachten, afwijkingen, verbeteringen")
+            stair_target_col = first_existing_column(
+                base_df,
+                ["chairlift_ids", "Location_ID", "location_title", "stairlift_id"],
+            )
+            klachten_table = build_klachten_targets_table(
+                base_df=base_df,
+                created_col=created_col,
+                status_col=status_col,
+                problem_col=problem_col,
+                stair_col=stair_target_col,
+                status_map=status_map,
+                prev_year=2024,
+                target_year=2025,
+            )
+            st.dataframe(klachten_table, use_container_width=True, hide_index=True)
+            st.caption("Target 2025 is ingesteld op 1 service rapport per trap.")
 
             st.markdown("**Statusverdeling (volledige dataset)**")
             status_dist_all = status_text.value_counts(dropna=False)
