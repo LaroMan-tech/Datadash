@@ -419,7 +419,7 @@ def main() -> None:
     st.markdown("### Filters")
     fcol, xcol = st.columns([3, 1])
     with fcol:
-        with st.form("filters_form"):
+        with st.form("filters_form_issue"):
             c1, c2 = st.columns(2)
             from_date = c1.date_input("From date", min_date)
             to_date = c2.date_input("To date", max_date)
