@@ -486,43 +486,149 @@ def main() -> None:
         st.error("Geen CSV/Excel-bestanden gevonden in dezelfde map als dit script.")
         st.stop()
 
-    st.sidebar.header("Filters")
-    st.sidebar.caption(f"Status map rows: {len(status_map)}")
-    st.sidebar.caption(f"Info datasheets gevonden: {len(info_file_map)}")
-    selected_dataset = "alle_datasets_gecombineerd"
-    base_df = combine_datasets_for_dashboard(datasets)
-    st.sidebar.caption("Dataset: alle bronnen gecombineerd")
-    if "bron_dataset" in base_df.columns:
-        bron_opties = sorted(base_df["bron_dataset"].dropna().astype(str).unique().tolist())
-        gekozen_bronnen = st.sidebar.multiselect(
-            "Bron-datasets (optioneel beperken)",
-            options=bron_opties,
-            default=bron_opties,
-        )
-        if gekozen_bronnen:
-            base_df = base_df[base_df["bron_dataset"].astype(str).isin(gekozen_bronnen)]
+    st.markdown("### Filters")
+    fcol, xcol = st.columns([3, 1])
+    with fcol:
+        with st.form("filters_form"):
+            st.caption(f"Status map rows: {len(status_map)}")
+            st.caption(f"Info datasheets gevonden: {len(info_file_map)}")
+            selected_dataset = "alle_datasets_gecombineerd"
+            base_df = combine_datasets_for_dashboard(datasets)
+            st.caption("Dataset: alle bronnen gecombineerd")
+            if "bron_dataset" in base_df.columns:
+                bron_opties = sorted(base_df["bron_dataset"].dropna().astype(str).unique().tolist())
+                gekozen_bronnen = st.multiselect(
+                    "Bron-datasets (optioneel beperken)",
+                    options=bron_opties,
+                    default=bron_opties,
+                )
+                if gekozen_bronnen:
+                    base_df = base_df[base_df["bron_dataset"].astype(str).isin(gekozen_bronnen)]
 
-    df = enrich_with_info_tables(base_df, info_tables)
+            df = enrich_with_info_tables(base_df, info_tables)
 
-    datetime_cols = get_datetime_cols(df)
-    date_col = st.sidebar.selectbox(
-        "Datumkolom",
-        options=["(geen)"] + datetime_cols,
-        index=0,
-    )
-    if date_col == "(geen)":
-        date_col = None
-
-    date_from = None
-    date_to = None
-    if date_col:
-        min_dt = df[date_col].min()
-        max_dt = df[date_col].max()
-        if pd.notna(min_dt) and pd.notna(max_dt):
-            date_from, date_to = st.sidebar.date_input(
-                "Datumbereik",
-                value=(min_dt.date(), max_dt.date()),
+            datetime_cols = get_datetime_cols(df)
+            date_col = st.selectbox(
+                "Datumkolom",
+                options=["(geen)"] + datetime_cols,
+                index=0,
             )
+            if date_col == "(geen)":
+                date_col = None
+
+            date_from = None
+            date_to = None
+            if date_col:
+                min_dt = df[date_col].min()
+                max_dt = df[date_col].max()
+                if pd.notna(min_dt) and pd.notna(max_dt):
+                    date_from, date_to = st.date_input(
+                        "Datumbereik",
+                        value=(min_dt.date(), max_dt.date()),
+                    )
+
+            st.markdown("**Gevraagde filters**")
+            col_map = {
+                "id": first_existing_column(df, ["id", "SR_ID", "SignatureServiceReport_ID", "Signature_ID"]),
+                "report_code": first_existing_column(df, ["report_code", "SRCode"]),
+                "stairlift_id": first_existing_column(df, ["stairlift_id", "location_title", "Location_ID", "chairlift_ids"]),
+                "status": first_existing_column(df, ["status", "StatusFlag_ID", "ProductStatus_ID"]),
+                "problem_category": first_existing_column(df, ["problem_category", "problem_category_title", "ProblemObservation_ID"]),
+                "internal_observation": first_existing_column(df, ["internal_observation", "internal_observation_title", "InternalObservation_ID"]),
+                "malfunction_description": first_existing_column(df, ["malfunction_description", "DescriptionMalfunction"]),
+                "malfunction_cause": first_existing_column(df, ["malfunction_cause", "CauseMalfunction"]),
+                "solution": first_existing_column(df, ["solution", "Solution"]),
+                "track_trace_number": first_existing_column(df, ["track_trace_number", "TrackTraceNumber"]),
+                "repair_time_minutes": first_existing_column(df, ["repair_time_minutes", "RepairTime"]),
+                "finance_comment": first_existing_column(df, ["finance_comment", "FinanceComment"]),
+                "follow_up_reason": first_existing_column(df, ["follow_up_reason", "ReasonNoFollowUpAction"]),
+                "external_observation": first_existing_column(df, ["external_observation", "external_observation_title", "ExternalObservation_ID"]),
+                "product_status": first_existing_column(df, ["product_status", "product_status_title", "ProductStatus_ID"]),
+                "log_types": first_existing_column(df, ["log_types"]),
+                "created_at": first_existing_column(df, ["created_at", "CreatedAt"]),
+                "updated_at": first_existing_column(df, ["updated_at", "UpdatedAt"]),
+                "is_active": first_existing_column(df, ["is_active", "IsActive"]),
+            }
+            display_name_map = {
+                real_col: friendly_name for friendly_name, real_col in col_map.items() if real_col
+            }
+
+            text_filters = {
+                "id": st.text_input("id bevat"),
+                "report_code": st.text_input("report_code bevat"),
+                "track_trace_number": st.text_input("track_trace_number bevat"),
+                "malfunction_description": st.text_input("malfunction_description bevat"),
+                "malfunction_cause": st.text_input("malfunction_cause bevat"),
+                "solution": st.text_input("solution bevat"),
+            }
+
+            category_filter_keys = [
+                "stairlift_id",
+                "status",
+                "problem_category",
+                "internal_observation",
+                "external_observation",
+                "product_status",
+                "log_types",
+                "finance_comment",
+                "follow_up_reason",
+                "is_active",
+            ]
+            selected_requested_categories: dict[str, list] = {}
+            selected_status_labels: list[str] = []
+            for key in category_filter_keys:
+                real_col = col_map[key]
+                if not real_col:
+                    continue
+                if key == "status":
+                    status_options = sorted(
+                        df[real_col].dropna().map(lambda v: status_label(v, status_map)).unique().tolist()
+                    )
+                    selected_status_labels = st.multiselect(key, options=status_options)
+                    continue
+                options = sorted(df[real_col].dropna().astype(str).unique().tolist())
+                chosen = st.multiselect(key, options=options)
+                if chosen:
+                    selected_requested_categories[real_col] = chosen
+
+            repair_time_range = None
+            repair_col = col_map["repair_time_minutes"]
+            if repair_col and pd.api.types.is_numeric_dtype(df[repair_col]):
+                s = df[repair_col].dropna()
+                if not s.empty and float(s.min()) != float(s.max()):
+                    rmin, rmax = float(s.min()), float(s.max())
+                    repair_time_range = st.slider(
+                        "repair_time_minutes",
+                        min_value=rmin,
+                        max_value=rmax,
+                        value=(rmin, rmax),
+                    )
+
+            created_range = None
+            created_col = col_map["created_at"]
+            if created_col and pd.api.types.is_datetime64_any_dtype(df[created_col]):
+                cmin = df[created_col].min()
+                cmax = df[created_col].max()
+                if pd.notna(cmin) and pd.notna(cmax):
+                    created_range = st.date_input(
+                        "created_at",
+                        value=(cmin.date(), cmax.date()),
+                        key="created_at_range",
+                    )
+
+            updated_range = None
+            updated_col = col_map["updated_at"]
+            if updated_col and pd.api.types.is_datetime64_any_dtype(df[updated_col]):
+                umin = df[updated_col].min()
+                umax = df[updated_col].max()
+                if pd.notna(umin) and pd.notna(umax):
+                    updated_range = st.date_input(
+                        "updated_at",
+                        value=(umin.date(), umax.date()),
+                        key="updated_at_range",
+                    )
+
+            submitted = st.form_submit_button("Submit")
 
     status_values: list = []
     active_values: list = []
@@ -539,107 +645,6 @@ def main() -> None:
         selected_categories=selected_categories,
         selected_numeric_ranges=selected_numeric_ranges,
     )
-
-    st.sidebar.subheader("Gevraagde filters")
-    col_map = {
-        "id": first_existing_column(df, ["id", "SR_ID", "SignatureServiceReport_ID", "Signature_ID"]),
-        "report_code": first_existing_column(df, ["report_code", "SRCode"]),
-        "stairlift_id": first_existing_column(df, ["stairlift_id", "location_title", "Location_ID", "chairlift_ids"]),
-        "status": first_existing_column(df, ["status", "StatusFlag_ID", "ProductStatus_ID"]),
-        "problem_category": first_existing_column(df, ["problem_category", "problem_category_title", "ProblemObservation_ID"]),
-        "internal_observation": first_existing_column(df, ["internal_observation", "internal_observation_title", "InternalObservation_ID"]),
-        "malfunction_description": first_existing_column(df, ["malfunction_description", "DescriptionMalfunction"]),
-        "malfunction_cause": first_existing_column(df, ["malfunction_cause", "CauseMalfunction"]),
-        "solution": first_existing_column(df, ["solution", "Solution"]),
-        "track_trace_number": first_existing_column(df, ["track_trace_number", "TrackTraceNumber"]),
-        "repair_time_minutes": first_existing_column(df, ["repair_time_minutes", "RepairTime"]),
-        "finance_comment": first_existing_column(df, ["finance_comment", "FinanceComment"]),
-        "follow_up_reason": first_existing_column(df, ["follow_up_reason", "ReasonNoFollowUpAction"]),
-        "external_observation": first_existing_column(df, ["external_observation", "external_observation_title", "ExternalObservation_ID"]),
-        "product_status": first_existing_column(df, ["product_status", "product_status_title", "ProductStatus_ID"]),
-        "log_types": first_existing_column(df, ["log_types"]),
-        "created_at": first_existing_column(df, ["created_at", "CreatedAt"]),
-        "updated_at": first_existing_column(df, ["updated_at", "UpdatedAt"]),
-        "is_active": first_existing_column(df, ["is_active", "IsActive"]),
-    }
-    display_name_map = {
-        real_col: friendly_name for friendly_name, real_col in col_map.items() if real_col
-    }
-
-    text_filters = {
-        "id": st.sidebar.text_input("id bevat"),
-        "report_code": st.sidebar.text_input("report_code bevat"),
-        "track_trace_number": st.sidebar.text_input("track_trace_number bevat"),
-        "malfunction_description": st.sidebar.text_input("malfunction_description bevat"),
-        "malfunction_cause": st.sidebar.text_input("malfunction_cause bevat"),
-        "solution": st.sidebar.text_input("solution bevat"),
-    }
-
-    category_filter_keys = [
-        "stairlift_id",
-        "status",
-        "problem_category",
-        "internal_observation",
-        "external_observation",
-        "product_status",
-        "log_types",
-        "finance_comment",
-        "follow_up_reason",
-        "is_active",
-    ]
-    selected_requested_categories: dict[str, list] = {}
-    selected_status_labels: list[str] = []
-    for key in category_filter_keys:
-        real_col = col_map[key]
-        if not real_col:
-            continue
-        if key == "status":
-            status_options = sorted(
-                df[real_col].dropna().map(lambda v: status_label(v, status_map)).unique().tolist()
-            )
-            selected_status_labels = st.sidebar.multiselect(key, options=status_options)
-            continue
-        options = sorted(df[real_col].dropna().astype(str).unique().tolist())
-        chosen = st.sidebar.multiselect(key, options=options)
-        if chosen:
-            selected_requested_categories[real_col] = chosen
-
-    repair_time_range = None
-    repair_col = col_map["repair_time_minutes"]
-    if repair_col and pd.api.types.is_numeric_dtype(df[repair_col]):
-        s = df[repair_col].dropna()
-        if not s.empty and float(s.min()) != float(s.max()):
-            rmin, rmax = float(s.min()), float(s.max())
-            repair_time_range = st.sidebar.slider(
-                "repair_time_minutes",
-                min_value=rmin,
-                max_value=rmax,
-                value=(rmin, rmax),
-            )
-
-    created_range = None
-    created_col = col_map["created_at"]
-    if created_col and pd.api.types.is_datetime64_any_dtype(df[created_col]):
-        cmin = df[created_col].min()
-        cmax = df[created_col].max()
-        if pd.notna(cmin) and pd.notna(cmax):
-            created_range = st.sidebar.date_input(
-                "created_at",
-                value=(cmin.date(), cmax.date()),
-                key="created_at_range",
-            )
-
-    updated_range = None
-    updated_col = col_map["updated_at"]
-    if updated_col and pd.api.types.is_datetime64_any_dtype(df[updated_col]):
-        umin = df[updated_col].min()
-        umax = df[updated_col].max()
-        if pd.notna(umin) and pd.notna(umax):
-            updated_range = st.sidebar.date_input(
-                "updated_at",
-                value=(umin.date(), umax.date()),
-                key="updated_at_range",
-            )
 
     for key, query in text_filters.items():
         real_col = col_map[key]
@@ -682,6 +687,18 @@ def main() -> None:
             (filtered[updated_col] >= pd.Timestamp(u_from))
             & (filtered[updated_col] <= pd.Timestamp(u_to))
         ]
+
+    with xcol:
+        st.markdown("### Export")
+        csv_bytes = filtered.to_csv(index=False).encode("utf-8")
+        st.download_button(
+            "Download gefilterde data (CSV)",
+            data=csv_bytes,
+            file_name=f"{selected_dataset}_filtered.csv",
+            mime="text/csv",
+            use_container_width=True,
+        )
+        st.caption("Bevat gefilterde data, zonder filtermenu.")
 
     tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overzicht", "Analyse", "Data", "Duidingen", "Procesanalyse"])
 
@@ -848,13 +865,6 @@ def main() -> None:
 
         display_df = display_base.rename(columns=display_name_map)
         st.dataframe(display_df, use_container_width=True, height=480)
-        csv_bytes = filtered.to_csv(index=False).encode("utf-8")
-        st.download_button(
-            "Download gefilterde data (CSV)",
-            data=csv_bytes,
-            file_name=f"{selected_dataset}_filtered.csv",
-            mime="text/csv",
-        )
 
     with tab4:
         if info_tables:
